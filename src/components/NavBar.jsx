@@ -4,7 +4,7 @@ function NavBar() {
   return (
     <div>
       <h1 className="text-3xl font-bold bg-red-600 underline">
-        Hello world!
+        JAJAJAJA
       </h1>
     </div>
   )
