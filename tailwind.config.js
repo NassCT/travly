@@ -11,6 +11,7 @@ export default {
         'colorB': '#0b1b2b',
         'colorW': '#e5e5e5',
         'colorG2': '#61616b',
+        'colorR': '#f23f43',
       },
     },
   },
