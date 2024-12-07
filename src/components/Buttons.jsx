@@ -15,7 +15,7 @@ function Buttons({
 
   return (
     <button
-      className={`px-3 py-3 flex justify-center items-center ${backgroundColor || "bg-colorB"} ${borderRadius || "rounded-lg"} ${borderColor} border`}
+      className={`px-3 py-3 flex justify-center items-center bg-${backgroundColor || "colorB"} ${borderRadius || "rounded-lg"} border-${borderColor || "colorB"} border`}
     >
       <Icons
         iconName={iconName || ""}
