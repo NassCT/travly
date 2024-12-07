@@ -44,12 +44,12 @@ const Navbar = () => {
           md:top-8 md:right-8 md:left-auto md:w-80 md:rounded-xl md:shadow-lg`}
       >
         <ul className="flex flex-col items-start space-y-6 py-6 px-10 md:px-6">
-          {[{ to: '/', label: 'Accueil', icon: 'planedeparture' },
-            { to: '/vols', label: 'À propos', icon: 'planedeparture' },
-            { to: '/hotels', label: 'Hôtels', icon: 'hotel' },
-            { to: '/contact', label: 'Contact', icon: 'phone' },
-            { to: '/a-propos', label: 'A propos', icon: 'info' },
-            { to: '/favoris', label: 'Favoris', icon: 'heart' }]
+          {[{ to: '/', label: 'Accueil', icon: 'home' },
+          { to: '/vols', label: 'Vols', icon: 'planedeparture' },
+          { to: '/hotels', label: 'Hôtels', icon: 'hotel' },
+          { to: '/contact', label: 'Contact', icon: 'phone' },
+          { to: '/a-propos', label: 'À propos', icon: 'info' },
+          { to: '/favoris', label: 'Favoris', icon: 'heart' }]
             .map(({ to, label, icon }) => (
               <li key={to} className="w-full">
                 <Link to={to} className="flex items-center text-black text-xl text-left">
