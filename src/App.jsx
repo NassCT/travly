@@ -10,10 +10,10 @@ function App() {
   return (
     <Router>
       <div>
-        <Link to="/">Home</Link>
+        <NavBar />
         <Routes>
           <Route path="/" element={<> </>} />
-          <Route path="/NavBar" element={<NavBar />} />
+          <Route path="/NavBar" element={<></>} />
           <Route path="/Footer" element={<Footer />} />
           <Route path="/Confidentialites" element={<Confidentialites />} />
           <Route path="/Buttons" element={<Buttons iconName="user" iconClass="fill-red-500" />} />
