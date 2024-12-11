@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import Buttons from './Buttons'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
+import Popup from './Popup';
 
 function Formulaire({
   inputNomText,
@@ -24,6 +25,7 @@ function Formulaire({
   });
 
   const [inputError, setInputError] = useState({});
+  const [isPopupVisible, setIsPopupVisible] = useState(false);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -77,7 +79,8 @@ function Formulaire({
   const handleSubmit = (e) => {
     e.preventDefault();
     if (validateInput()) {
-      alert("Form successfully Submited");
+      setIsPopupVisible(true);
+      setTimeout(() => setIsPopupVisible(false),5000);
     }
   };
 
@@ -161,6 +164,7 @@ function Formulaire({
           />
         </div>
       </form>
+      {isPopupVisible && <Popup />}
     </div>
 
   )
