@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Buttons from './Buttons';
 import Icons from './Icons';
 
@@ -9,7 +9,7 @@ function SearchBar() {
   const [returnDate, setReturnDate] = useState('2025-01-15');
   const [passengers, setPassengers] = useState('2 Adultes');
   const [classType, setClassType] = useState('Économie'); // Classe sélectionnée
-  const [directFlights, setDirectFlights] = useState(false); // Vols directs
+  // const [directFlights, setDirectFlights] = useState(false); // Vols directs
 
   const swapFields = () => {
     const temp = from;
