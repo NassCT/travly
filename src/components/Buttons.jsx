@@ -3,6 +3,7 @@ import Icons from '../components/Icons';
 import '../assets/styles/common.css';
 
 function Buttons({
+  buttonClass,
   backgroundColor,
   borderColor,
   borderRadius,
@@ -15,7 +16,7 @@ function Buttons({
 
   return (
     <button
-      className={`px-3 py-3 flex justify-center items-center bg-${backgroundColor || "colorB"} ${borderRadius || "rounded-lg"} border-${borderColor || "colorB"} border`}
+      className={`p-3 ${buttonClass} flex justify-center items-center bg-${backgroundColor || "colorB"} ${borderRadius || "rounded-lg"} border-${borderColor || "colorB"} border`}
     >
       <Icons
         iconName={iconName || ""}
