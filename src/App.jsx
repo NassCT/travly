@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import Confidentialites from './components/Confidentialites';
 import Buttons from './components/Buttons';
 import Formulaire from './components/Formulaire';
+import SearchBar from './components/SearchBar';
 
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
             />
           }
           />
+          <Route path="/SearchBar" element={<SearchBar />} />
         </Routes>
       </div>
     </Router>
