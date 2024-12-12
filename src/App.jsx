@@ -5,6 +5,7 @@ import Confidentialites from './components/Confidentialites';
 import Buttons from './components/Buttons';
 import Formulaire from './components/Formulaire';
 import SearchBar from './components/SearchBar';
+import CardFavoris from './components/CardFavoris';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           <Route path="/Footer" element={<Footer />} />
           <Route path="/Confidentialites" element={<Confidentialites />} />
           <Route path="/Buttons" element={<Buttons iconName="user" iconClass="fill-red-500" />} />
+          <Route path='/Card' element={<CardFavoris />}/>
           <Route path="/Formulaire" element={
             <Formulaire
               inputTextColor="text-colorB"
