@@ -20,7 +20,8 @@ function Confidentialites() {
 
       <div className="py-10 px-5">
         <div className="max-w-4xl mx-auto space-y-10">
-          <div className="p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:border-none lg:border-none">
+          
+          <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:rounded-none md:border-t-0 md:border-l-0 md:border-r-0 md:border-b">
             <div className="flex-shrink-0 w-20 h-20 sm:w-36 sm:h-36 border border-gray-300 rounded-full flex items-center justify-center">
               <span className="text-xl sm:text-2xl font-bold text-gray-700">i</span>
             </div>
@@ -37,7 +38,7 @@ function Confidentialites() {
             </div>
           </div>
 
-          <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:border-none lg:border-none">
+          <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:rounded-none md:border-t-0 md:border-l-0 md:border-r-0 md:border-b">
             <div className="flex-shrink-0 w-20 h-20 sm:w-36 sm:h-36 border border-gray-300 rounded-full flex items-center justify-center">
               <span className="text-xl sm:text-2xl font-bold text-gray-700">🔧</span>
             </div>
@@ -52,7 +53,7 @@ function Confidentialites() {
             </div>
           </div>
 
-          <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:border-none lg:border-none">
+          <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:rounded-none md:border-t-0 md:border-l-0 md:border-r-0 md:border-b">
             <div className="flex-shrink-0 w-20 h-20 sm:w-36 sm:h-36 border border-gray-300 rounded-full flex items-center justify-center">
               <span className="text-xl sm:text-2xl font-bold text-gray-700">👤</span>
             </div>
