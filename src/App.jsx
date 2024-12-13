@@ -6,6 +6,7 @@ import Buttons from './components/Buttons';
 import Formulaire from './components/Formulaire';
 import SearchBar from './components/SearchBar';
 import CardFavoris from './components/CardFavoris';
+import MentionsLegales from './components/MentionsLegales';
 
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
           }
           />
           <Route path="/SearchBar" element={<SearchBar />} />
+          <Route path='/MentionsLegales' element={<MentionsLegales />}/>
         </Routes>
       </div>
     </Router>
