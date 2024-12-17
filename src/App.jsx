@@ -6,6 +6,7 @@ import Buttons from './components/Buttons';
 import Formulaire from './components/Formulaire';
 import SearchBar from './components/SearchBar';
 import CardFavoris from './components/CardFavoris';
+import CardHotel from './components/CardHotel';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
           <Route path="/Confidentialites" element={<Confidentialites />} />
           <Route path="/Buttons" element={<Buttons iconName="user" iconClass="fill-red-500" />} />
           <Route path='/Card' element={<CardFavoris />}/>
+          <Route path='/CardHotel' element={<CardHotel />}/>
           <Route path="/Formulaire" element={
             <Formulaire
               inputTextColor="text-colorB"
