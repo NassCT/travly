@@ -8,6 +8,7 @@ import SearchBar from './components/SearchBar';
 import CardFavoris from './components/CardFavoris';
 import MentionsLegales from './components/MentionsLegales';
 import Conditions from './components/Conditions';
+import FAQ from './components/FAQ';
 
 
 function App() {
@@ -39,6 +40,7 @@ function App() {
           <Route path="/SearchBar" element={<SearchBar />} />
           <Route path='/MentionsLegales' element={<MentionsLegales />}/>
           <Route path='/Conditions' element={<Conditions />}/>
+          <Route path='/FAQ' element={<FAQ />}/>
         </Routes>
       </div>
     </Router>
