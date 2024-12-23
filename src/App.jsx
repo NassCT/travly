@@ -11,8 +11,7 @@ import CardHotel from './components/CardHotel';
 import MentionsLegales from './components/MentionsLegales';
 import Conditions from './components/Conditions';
 import FAQ from './components/FAQ';
-
-
+import CardsVols from './components/CardsVols';
 
 function App() {
   return (
@@ -45,6 +44,7 @@ function App() {
           <Route path='/MentionsLegales' element={<MentionsLegales />}/>
           <Route path='/Conditions' element={<Conditions />}/>
           <Route path='/FAQ' element={<FAQ />}/>
+          <Route path='/CardsVols' element={<CardsVols />}/>
         </Routes>
       </div>
     </Router>
