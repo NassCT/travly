@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import fetchFlightsApi, { FLIGHTS_API_CONFIG } from '../api/fetchFlightsApi';
+import fetchFlightsApi from '../api/fetchFlightsApi';
 
 const FetchFlights = () => {
   const [flights, setFlights] = useState([]);
