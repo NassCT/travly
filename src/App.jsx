@@ -5,6 +5,13 @@ import Confidentialites from './components/Confidentialites';
 import Buttons from './components/Buttons';
 import Formulaire from './components/Formulaire';
 import SearchBar from './components/SearchBar';
+import CardFavoris from './components/CardFavoris';
+
+import CardHotel from './components/CardHotel';
+import MentionsLegales from './components/MentionsLegales';
+import Conditions from './components/Conditions';
+import FAQ from './components/FAQ';
+
 
 
 function App() {
@@ -18,6 +25,8 @@ function App() {
           <Route path="/Footer" element={<Footer />} />
           <Route path="/Confidentialites" element={<Confidentialites />} />
           <Route path="/Buttons" element={<Buttons iconName="user" iconClass="fill-red-500" />} />
+          <Route path='/Card' element={<CardFavoris />}/>
+          <Route path='/CardHotel' element={<CardHotel />}/>
           <Route path="/Formulaire" element={
             <Formulaire
               inputTextColor="text-colorB"
@@ -33,6 +42,9 @@ function App() {
           }
           />
           <Route path="/SearchBar" element={<SearchBar />} />
+          <Route path='/MentionsLegales' element={<MentionsLegales />}/>
+          <Route path='/Conditions' element={<Conditions />}/>
+          <Route path='/FAQ' element={<FAQ />}/>
         </Routes>
       </div>
     </Router>
