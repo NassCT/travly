@@ -1,45 +1,67 @@
 const fetchToken = async () => {
-  const tokenKey = 'amadeus_token';
-  const tokenExpiryKey = 'amadeus_token_expiry';
+  const tokenUrl = import.meta.env.VITE_TOKEN_URL;
+  const clientId = import.meta.env.VITE_CLIENT_ID;
+  const clientSecret = import.meta.env.VITE_CLIENT_SECRET;
 
-  const storedToken = localStorage.getItem(tokenKey);
-  const tokenExpiry = localStorage.getItem(tokenExpiryKey);
+  // Vérification des variables d'environnement
+  const requiredEnvVars = { tokenUrl, clientId, clientSecret };
+  const missingVars = Object.entries(requiredEnvVars)
+    .filter(([, value]) => !value)
+    .map(([key]) => key);
 
-  if (storedToken && tokenExpiry && new Date() < new Date(tokenExpiry)) {
-    console.log('Utilisation du token existant depuis le localStorage');
-    return storedToken;
+  if (missingVars.length > 0) {
+    throw new Error(
+      `Variables d'environnement manquantes : ${missingVars.join(', ')}`
+    );
   }
-
-  const tokenUrl = 'https://test.api.amadeus.com/v1/security/oauth2/token';
-  const body = new URLSearchParams();
-  body.append('client_id', 'RjPiJGDXLDGyJqcfrc3OQiQll0R2Cm6a');
-  body.append('client_secret', 'RVayYnjwKmyTeCTK');
-  body.append('grant_type', 'client_credentials');
 
   try {
     const response = await fetch(tokenUrl, {
-      method: 'POST',
+      method: "POST",
       headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
+        "Content-Type": "application/x-www-form-urlencoded",
       },
-      body: body.toString(),
+      body: new URLSearchParams({
+        grant_type: "client_credentials",
+        client_id: clientId,
+        client_secret: clientSecret,
+      }).toString(),
     });
 
     if (!response.ok) {
-      throw new Error('Échec de la récupération du token');
+      const errorText = await response.text();
+      throw new Error(`Échec de la requête (${response.status}): ${errorText}`);
     }
 
-    const data = await response.json();
-    const { access_token, expires_in } = data;
-
-    const expiryDate = new Date(new Date().getTime() + expires_in * 1000); // Date d'expiration
-    localStorage.setItem(tokenKey, access_token);
-    localStorage.setItem(tokenExpiryKey, expiryDate);
-
+    const { access_token, expires_in } = await response.json();
+    
+    // Sauvegarde du token et de sa date d'expiration
+    const expirationTime = Date.now() + (expires_in * 1000);
+    localStorage.setItem("access_token", access_token);
+    localStorage.setItem("token_expiration", expirationTime.toString());
+    
     return access_token;
-  } catch (err) {
-    throw err;
+  } catch (error) {
+    console.error("Erreur lors de la récupération du token :", error);
+    throw new Error(`Échec de l'authentification : ${error.message}`);
   }
 };
 
-export default fetchToken;
+export const getValidToken = async () => {
+  const token = localStorage.getItem("access_token");
+  const expiration = localStorage.getItem("token_expiration");
+  
+  // Si pas de token ou expiration, on en génère un nouveau
+  if (!token || !expiration) {
+    return await fetchToken();
+  }
+
+  // Si le token expire dans moins de 30 secondes, on en génère un nouveau
+  if (Date.now() + 30000 > parseInt(expiration)) {
+    return await fetchToken();
+  }
+
+  return token;
+};
+
+export { fetchToken };
