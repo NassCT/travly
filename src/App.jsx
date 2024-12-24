@@ -13,6 +13,7 @@ import Conditions from './components/Conditions';
 import FAQ from './components/FAQ';
 import CardsVols from './components/CardsVols';
 import FetchFlights from "./components/FetchFlights";
+import Enseignes from './components/Enseignes';
 
 
 function App() {
@@ -53,6 +54,7 @@ function App() {
           <Route path="/FAQ" element={<FAQ />} />
           <Route path="/CardsVols" element={<CardsVols />}/>
           <Route path="/FetchFlights" element={<FetchFlights />} />
+          <Route path="/Enseignes" element={<Enseignes />} />
 
         </Routes>
       </div>
