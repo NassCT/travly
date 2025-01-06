@@ -15,6 +15,7 @@ import FAQ from './components/FAQ';
 import CardsVols from './components/CardsVols';
 import FetchFlights from "./components/FetchFlights";
 import Enseignes from './components/Enseignes';
+import HotelPays from './components/HotelPays';
 
 
 function App() {
@@ -61,6 +62,7 @@ function App() {
           <Route path="/CardsVols" element={<CardsVols />}/>
           <Route path="/FetchFlights" element={<FetchFlights />} />
           <Route path="/Enseignes" element={<Enseignes />} />
+          <Route path="/HotelPays" element={<HotelPays />} />
 
 
         </Routes>
