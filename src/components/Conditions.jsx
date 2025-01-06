@@ -7,12 +7,6 @@ function Conditions() {
   return (
     <section>
 
-        <a href="/">
-            <Buttons
-            textContent={"Accueil"}
-            buttonClass={"px-8 mt-6 ml-6"}
-            />
-        </a>
         <h1 className='text-center text-3xl font-bold'>Conditions d'utilisation</h1>
 
         <div className='space-y-6 py-10 mx-56'>
@@ -46,9 +40,7 @@ function Conditions() {
             </section>
 
         </div>
-    
-    <Footer />
-      
+          
     </section>
   )
 }
