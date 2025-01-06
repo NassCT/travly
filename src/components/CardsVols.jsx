@@ -6,11 +6,6 @@ function CardsVols() {
   return (
     <section className='max-w-6xl mx-auto'>
 
-        <Buttons
-        textContent={"Filtres"}
-        buttonClass={"px-8 py-1 mt-6 ml-6"}
-        />
-
     <div className='border border-gray-600 m-6 p-6 rounded-lg relative'>
         <div>
             <div className='absolute top-2 right-2'>
