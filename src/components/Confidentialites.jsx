@@ -6,12 +6,6 @@ import Icons from './Icons';
 function Confidentialites() {
   return (
     <section>
-      <a href="/">
-        <Buttons
-        textContent={"Accueil"}
-        buttonClass={"px-8 mt-6 ml-6"}
-        />
-      </a>
 
       <h1 className="text-center text-2xl sm:text-3xl font-bold mt-6">
         Politique de Confidentialités
@@ -74,8 +68,6 @@ function Confidentialites() {
           </div>
         </div>
       </div>
-
-      <Footer />
       
     </section>
   );
