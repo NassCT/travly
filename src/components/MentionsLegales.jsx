@@ -6,11 +6,6 @@ function MentionsLegales() {
   return (
     <section>
 
-        <Buttons
-        textContent={"Accueil"}
-        buttonClass={"px-8 mt-6 ml-6"}
-        />
-
         <h1 className='text-center text-3xl sm:text-4xl font-bold mb-8'>Mentions légales</h1>
 
         <div className='space-y-6 py-10 px-4 sm:px-10 md:px-24 lg:px-56'>
@@ -53,8 +48,6 @@ function MentionsLegales() {
             </section>
 
         </div>
-    
-    <Footer />
       
     </section>
   )
