@@ -11,7 +11,7 @@ import CardHotel from './components/CardHotel';
 import MentionsLegales from './components/MentionsLegales';
 import Conditions from './components/Conditions';
 
-
+import Gallery from './components/Gallery';
 
 function App() {
   return (
@@ -43,6 +43,8 @@ function App() {
           <Route path="/SearchBar" element={<SearchBar />} />
           <Route path='/MentionsLegales' element={<MentionsLegales />}/>
           <Route path='/Conditions' element={<Conditions />}/>
+          <Route path="/Gallery" element={<Gallery />} />
+
         </Routes>
       </div>
     </Router>

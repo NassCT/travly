@@ -14,6 +14,14 @@ const ArrowRightIcon = ({ iconClass, iconSize }) => (
   </svg>
 );
 
+const ArrowLeftIcon  = ({ iconClass, iconSize }) => (
+  <svg className={iconClass} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width={`${iconSize || "20px"}`}>
+  <path
+    d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.2 288H416c17.7 0 32-14.3 32-32s-14.3-32-32-32H109.2l105.5-105.4c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z" />
+  </svg>
+);
+
+
 const BurgerIcon = ({ iconClass, iconSize }) => (
   <svg className={iconClass} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width={`${iconSize || "20px"}`}>
     <path
@@ -41,6 +49,14 @@ const FacebookIcon = ({ iconClass, iconSize }) => (
       d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64h98.2V334.2H109.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H255V480H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64z" />
   </svg>
 );
+
+const GymIcon = ({ iconClass, iconSize }) => (
+  <svg className={iconClass} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width={`${iconSize || "20px"}`}>
+    <path
+      d="M104 96C90.7 96 80 106.7 80 120V392C80 405.3 90.7 416 104 416C117.3 416 128 405.3 128 392V120C128 106.7 117.3 96 104 96zM536 96C522.7 96 512 106.7 512 120V392C512 405.3 522.7 416 536 416C549.3 416 560 405.3 560 392V120C560 106.7 549.3 96 536 96zM432 240H208V272H432V240zM360 384C373.3 384 384 373.3 384 360V152C384 138.7 373.3 128 360 128C346.7 128 336 138.7 336 152V360C336 373.3 346.7 384 360 384zM280 384C293.3 384 304 373.3 304 360V152C304 138.7 293.3 128 280 128C266.7 128 256 138.7 256 152V360C256 373.3 266.7 384 280 384z" />
+  </svg>
+);
+
 
 const HeartEmptyIcon = ({ iconClass, iconSize }) => (
   <svg className={iconClass} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width={`${iconSize || "20px"}`}>
@@ -192,11 +208,13 @@ const XmarkIcon = ({ iconClass, iconSize }) => (
 function Icons({ iconName, iconClass, iconSize }) {
   const icons = {
     arrowright: <ArrowRightIcon iconClass={iconClass} iconSize={iconSize} />,
+    arrowleft: <ArrowLeftIcon iconClass={iconClass} iconSize={iconSize} />,
     arrowrightleft: <ArrowRightLeftIcon iconClass={iconClass} iconSize={iconSize} />,
     burger: <BurgerIcon iconClass={iconClass} iconSize={iconSize} />,
     calendar: <CalendarIcon iconClass={iconClass} iconSize={iconSize} />,
     down: <DownIcon iconClass={iconClass} iconSize={iconSize} />,
     facebook: <FacebookIcon iconClass={iconClass} iconSize={iconSize} />,
+    gym:<GymIcon iconClass={iconClass} iconSize={iconSize} />,
     heartempty: <HeartEmptyIcon iconClass={iconClass} iconSize={iconSize} />,
     heart: <HeartIcon iconClass={iconClass} iconSize={iconSize} />,
     home: <HomeIcon iconClass={iconClass} iconSize={iconSize} />,
