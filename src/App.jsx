@@ -10,6 +10,7 @@ import CardFavoris from './components/CardFavoris';
 import CardHotel from './components/CardHotel';
 import MentionsLegales from './components/MentionsLegales';
 import Conditions from './components/Conditions';
+import Gallery from './components/Gallery';
 import FAQ from './components/FAQ';
 import CardsVols from './components/CardsVols';
 import FetchFlights from "./components/FetchFlights";
@@ -49,12 +50,18 @@ function App() {
             }
           />
           <Route path="/SearchBar" element={<SearchBar />} />
+
+          <Route path='/MentionsLegales' element={<MentionsLegales />}/>
+          <Route path='/Conditions' element={<Conditions />}/>
+          <Route path="/Gallery" element={<Gallery />} />
+
           <Route path="/MentionsLegales" element={<MentionsLegales />} />
           <Route path="/Conditions" element={<Conditions />} />
           <Route path="/FAQ" element={<FAQ />} />
           <Route path="/CardsVols" element={<CardsVols />}/>
           <Route path="/FetchFlights" element={<FetchFlights />} />
           <Route path="/Enseignes" element={<Enseignes />} />
+
 
         </Routes>
       </div>
