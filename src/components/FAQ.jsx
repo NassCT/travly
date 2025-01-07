@@ -19,42 +19,42 @@ function FAQ() {
 
   return (
     <section className="p-20 pb-40">
-
-      <h2 className="text-2xl font-bold mb-6">FAQ</h2>
+      <h2 className="text-2xl font-bold mb-6">Foire aux questions</h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {questions.map((item, index) => (
-          <div 
-          key={index} 
-          className="relative border-b border-gray-300 pb-2">
-            <div 
-            className="flex justify-between items-center cursor-pointer"
-            onClick={() => toggleQuestion(index)}
+          <div key={index} className="relative border-b border-gray-300 pb-2">
+            <div
+              className="flex justify-between items-center cursor-pointer"
+              onClick={() => toggleQuestion(index)}
+              aria-expanded={openQuestion === index ? "true" : "false"}
+              aria-controls={`answer-${index}`}
+              role="button"
+              tabIndex={0}
+              onKeyDown={(e) => {
+                if (e.key === "Enter" || e.key === " ") toggleQuestion(index);
+              }}
             >
               <p className="font-semibold">{item.question}</p>
               <span
                 className={`transform transition-transform ${
-                openQuestion === index ? "rotate-180" : ""
+                  openQuestion === index ? "rotate-180" : ""
                 }`}
               >
-                <Icons iconName={"down"}/>         
+                <Icons iconName={"down"} />
               </span>
             </div>
 
             <div
-              className={`overflow-hidden transition-all duration-300 ease-in-out ${
+              id={`answer-${index}`}
+              role="region"
+              className={`transition-all duration-300 ease-in-out ${
                 openQuestion === index ? "max-h-auto opacity-100" : "max-h-0 opacity-0"
               }`}
+              aria-hidden={openQuestion === index ? "false" : "true"}
             >
               <div className="mt-2 text-sm text-gray-600">{item.answer}</div>
             </div>
-
-            <div
-            className={`absolute bottom-0 left-0 w-full border-b transition-all duration-300 ease-in-out ${
-                openQuestion === index ? "border-gray-500" : "border-transparent"
-              }`}
-            ></div>
-            
           </div>
         ))}
       </div>
