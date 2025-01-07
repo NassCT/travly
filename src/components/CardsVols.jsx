@@ -11,7 +11,9 @@ function CardsVols() {
             <div className='absolute top-2 right-2'>
                 <Icons
                 iconName={"heartempty"}
-                iconClass={"fill-colorG"}/>
+                iconClass={"fill-colorG"}
+                aria-label="Ajouter ce vol aux favoris"
+                />
             </div>
 
             <div className='grid grid-cols-4 mt-8'>
@@ -20,7 +22,8 @@ function CardsVols() {
                     <p>CompagnieA</p>
                 </div>
 
-                <div className='flex flex-col justify-center ml-10'>
+                <div className='flex flex-col justify-center ml-10'
+                aria-label='Départ à A AJOUTER DYNAMIQUE de A AJOUTER DYNAMIQUE'>
                     <p>09:15</p>
                     <p className='font-thin'>PAR</p>
                 </div>
@@ -32,11 +35,13 @@ function CardsVols() {
                         iconName={"plane"}
                         iconSize={"16px"}
                         iconClass={"text-gray-400"}
+                        aria-hidden="true"
                         />
                     </div>
                 </div>
 
-                <div className='flex flex-col justify-center ml-6'>
+                <div className='flex flex-col justify-center ml-6'
+                aria-label='Arrivée à A AJOUTER DYNAMIQUE de A AJOUTER DYNAMIQUE'>
                     <p>09:15</p>
                     <p className='font-thin'>NYC</p>
                 </div>
@@ -50,7 +55,8 @@ function CardsVols() {
                     <p>CompagnieR</p>
                 </div>
 
-                <div className='flex flex-col justify-center ml-10'>
+                <div className='flex flex-col justify-center ml-10'
+                aria-label='Départ à A AJOUTER DYNAMIQUE de A AJOUTER DYNAMIQUE'>
                     <p>09:15</p>
                     <p className='font-thin'>PAR</p>
                 </div>
@@ -62,11 +68,13 @@ function CardsVols() {
                         iconName={"plane"}
                         iconSize={"16px"}
                         iconClass={"text-gray-400"}
+                        aria-hidden="true"
                         />
                     </div>
                 </div>
 
-                <div className='flex flex-col justify-center ml-6'>
+                <div className='flex flex-col justify-center ml-6'
+                aria-label='Arrivée à A AJOUTER DYNAMIQUE de A AJOUTER DYNAMIQUE'>
                     <p>09:15</p>
                     <p className='font-thin'>NYC</p>
                 </div>
@@ -81,7 +89,8 @@ function CardsVols() {
                 <p className='font-bold'>Prix</p>
             </div>
             <div className='flex justify-end md:justify-start md:pt-2'>
-                <Buttons textContent={"Voir"} buttonClass={"px-8"} />
+                <Buttons textContent={"Voir"} buttonClass={"px-8"}
+                aria-label="Voir les offres sur ce vol" />
             </div>
             </div>
         </div>
