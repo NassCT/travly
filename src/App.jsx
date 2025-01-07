@@ -64,7 +64,6 @@ function App() {
           <Route path="/Enseignes" element={<Enseignes />} />
           <Route path="/HotelPays" element={<HotelPays />} />
 
-
         </Routes>
       </div>
     </Router>
