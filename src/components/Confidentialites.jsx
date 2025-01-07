@@ -1,6 +1,4 @@
 import React from 'react'
-import Footer from './Footer';
-import Buttons from './Buttons';
 import Icons from './Icons';
 
 function Confidentialites() {
