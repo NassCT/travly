@@ -1,18 +1,29 @@
-import React from 'react'
-import Icons from './Icons'
-import Buttons from './Buttons'
+import React, { useState } from 'react';
+import Icons from './Icons';
+import Buttons from './Buttons';
 
 function CardsVols() {
+
+    const [isFavorite, setIsFavorite] = useState(false);
+
+    const favoriteClick = () => {
+        console.log("Clic sur l'icône heart !")
+        setIsFavorite(!isFavorite);
+    };
+
   return (
     <section className='max-w-6xl mx-auto'>
 
     <div className='border border-gray-600 m-6 p-6 rounded-lg relative'>
+
         <div>
+
             <div className='absolute top-2 right-2'>
                 <Icons
-                iconName={"heartempty"}
+                iconName={isFavorite ? "heart" : "heartempty"}
                 iconClass={"fill-colorG"}
-                aria-label="Ajouter ce vol aux favoris"
+                aria-label={isFavorite ? "Supprimer ce vol aux favoris" : "Ajouter ce vol aux favoris"}
+                onClick={favoriteClick}
                 />
             </div>
 
