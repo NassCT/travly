@@ -15,13 +15,15 @@ function HotelPays() {
       <div className="flex flex-wrap md:gap-20 lg:gap-32 justify-start">
 
         <div>
-          <Icons iconName="hotel" />
+          <Icons iconName="hotel"
+          aria-label="Icône représentant un hôtel" />
           <p className="text-gray-600 font-bold mt-2">Plusieurs enseignes hôtelières au choix</p>
           <p className="text-gray-800 text-lg font-bold">+ de 60</p>
         </div>
 
         <div>
-          <Icons iconName="location" />
+          <Icons iconName="location" 
+          aria-label="Icône de localisation"/>
           <p className="text-gray-600 font-bold mt-2">Des hôtels à découvrir</p>
           <p className="text-gray-800 text-lg font-bold">+ de 5 000</p>
         </div>
@@ -43,7 +45,7 @@ function HotelPays() {
             aria-hidden="true"
             className="w-40 h-40 md:w-56 md:h-56 object-contain"
           />
-          <p className="md:text-xl text-center font-bold mt-4 lg:text-2xl">Offres d’hôtel avantageuses</p>
+          <h2 className="md:text-xl text-center font-bold mt-4 lg:text-2xl">Offres d’hôtel avantageuses</h2>
           <p className="text-gray-600 text-center mt-6">
             Nous recherchons les offres des principaux hôtels du monde entier et mettons les résultats à votre disposition.
           </p>
@@ -56,7 +58,7 @@ function HotelPays() {
             aria-hidden="true"
             className="w-40 h-40 md:w-56 md:h-56 object-contain"
           />
-          <p className="md:text-xl text-center font-bold mt-4 lg:text-2xl">Prix actualisés</p>
+          <h2 className="md:text-xl text-center font-bold mt-4 lg:text-2xl">Prix actualisés</h2>
           <p className="text-gray-600 text-center mt-6">
             Nous vous montrons toujours les prix les plus récents que nous pouvons trouver, afin que vous sachiez exactement à quoi vous attendre.
           </p>
@@ -69,7 +71,7 @@ function HotelPays() {
             aria-hidden="true"
             className="w-40 h-40 md:w-56 md:h-56 object-contain"
           />
-          <p className="md:text-xl text-center font-bold mt-4 lg:text-2xl">Recherche précise</p>
+          <h2 className="md:text-xl text-center font-bold mt-4 lg:text-2xl">Recherche précise</h2>
           <p className="text-gray-600 text-center mt-6">
             Trouvez des hôtels avec piscine, annulation gratuite et réservation flexible. Ou ce qui compte le plus pour vous.
           </p>
