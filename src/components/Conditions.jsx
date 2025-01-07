@@ -1,7 +1,4 @@
 import React from 'react';
-import Footer from './Footer';
-import Buttons from './Buttons';
-
 
 function Conditions() {
   return (
