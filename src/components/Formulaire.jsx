@@ -3,6 +3,7 @@ import Buttons from './Buttons'
 // import { Link } from 'react-router-dom'
 
 import Popup from './Popup';
+import { useForm } from '@formspree/react';
 
 function Formulaire({
   inputNomText,
@@ -14,6 +15,8 @@ function Formulaire({
   inputBgColor,
   inputBorder,
   inputBorderRadius, }) {
+
+  const [state, handleSubmit] = useForm("mlddovov"); 
 
   const [userData, setUserData] = useState({
     nom: '',
@@ -76,20 +79,21 @@ function Formulaire({
 
   };
 
-  const handleSubmit = (e) => {
+  const handleCustomSubmit = (e) => {
     e.preventDefault();
     if (validateInput()) {
+      handleSubmit(e);
       setIsPopupVisible(true);
       setTimeout(() => setIsPopupVisible(false),5000);
     }
   };
 
   return (
-    <div>
+    <section>
       <div>
         <h1 className='text-center font-bold text-4xl mt-8 mb-10'>Contactez nous</h1>
       </div>
-      <form action="" onSubmit={handleSubmit} className="max-w-4xl mx-auto px-4">
+      <form action="https://formspree.io/f/mlddovov" method='POST' onSubmit={handleCustomSubmit} className="max-w-4xl mx-auto px-4">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div>
             <input
@@ -160,12 +164,14 @@ function Formulaire({
             backgroundColor="colorB"
             textContent="Envoyer"
             textColor="colorW"
+            type="submit"
+            disabled={state.submitting}
 
           />
         </div>
       </form>
       {isPopupVisible && <Popup />}
-    </div>
+    </section>
 
   )
 }
