@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Icons from './Icons'
 import Buttons from './Buttons'
 
@@ -19,16 +19,50 @@ function CardHotel({
   comments = 515,
   priceDiv = 'flex flex-col items-end justify-between w-full',
   price = "250",
+  iconHeartFilled = "heart",
+  iconClassHeartFilled = "fill-colorG pl-1 cursor-pointer",
   iconHeartEmpty = "heartempty",
-  iconClassHeartEmpty = "fill-colorG pl-1",
+  iconClassHeartEmpty = "fill-colorG pl-1 cursor-pointer",
 
 }) {
+
+  const hotelCards = [
+    {
+      id:1,
+      isFavorite: false,
+    },
+    {
+      id:2,
+      isFavorite: false,
+    },
+    {
+      id:3,
+      isFavorite: false,
+    },
+    {
+      id:4,
+      isFavorite: false,
+    }
+  ]
+
+  const [hotels, setHotels]= useState(hotelCards);
+  // const [isFavorite, setIsFavorite] = useState(false);
+  
+  const toggleFavorite = (id) => {
+    setHotels((currentHotels) => 
+      currentHotels.map((hotel)=>
+        hotel.id === id ? {...hotel, isFavorite: !hotel.isFavorite} : hotel
+      )
+    );
+  }
+
   return (
     <> 
-      <div className={mainDiv}>
+      <section className={mainDiv}>
 
-    
-        <div className={cardClass}>
+        {hotels.map((hotel) => (
+
+        <div key={hotel.id} className={cardClass}>
 
           <img 
           src={imgUrl} 
@@ -70,10 +104,13 @@ function CardHotel({
                 <p className='flex p-1 justify-between'>
                   <span>{price}</span> /Nuit
                 </p>
-                <Icons 
-                  iconName={iconHeartEmpty}
-                  iconClass={iconClassHeartEmpty}
-                />
+                <div onClick={() => toggleFavorite(hotel.id)} className='pt-2'>
+                  <Icons 
+                    iconName={hotel.isFavorite ? iconHeartFilled : iconHeartEmpty}
+                    iconClass={hotel.isFavorite ? iconClassHeartFilled : iconClassHeartEmpty}
+                    onClick={toggleFavorite}
+                  />
+                </div>
               </div>
               <div className="">
                 <Buttons
@@ -86,67 +123,9 @@ function CardHotel({
           </div>
 
         </div>  
-        <div className={cardClass}>
-
-          <img 
-          src={imgUrl} 
-          alt={cardTitle} 
-          className={imgClass}
-          />
-
-          <div className={contentClass}>
-            <div >
-              <h3 className={classCardTitle}>{cardTitle}</h3>
-              <p className='mt-5 text-lg text-colorGr'>
-                <span>{distance}</span> km du centre ville
-              </p>
-              <div className='flex mt-5'>
-                {[...Array(5)].map((_, index) => (
-                    index < rating ? (
-                    <Icons 
-                    key={`star-${index}`}
-                      iconName={iconStar}
-                      iconClass={iconClassStar}
-                    />
-                  ) : (
-                      <Icons 
-                        key={`empty-${index}`}
-                        iconName={iconStarEmpty}
-                        iconClass={iconClassStarEmpty}
-                      />
-                    )
-                ))}
-
-                <p className='text-sm text-colorGr'>
-                  <span>{comments}</span> Commentaire
-                </p>
-              </div>
-            </div>
-
-            <div className='flex flex-col items-end justify-between p-4 w-full'>
-              <div className='flex justify-between'>
-                <p className='flex p-1 justify-between'>
-                  <span>{price}</span> /Nuit
-                </p>
-                <Icons 
-                  iconName={iconHeartEmpty}
-                  iconClass={iconClassHeartEmpty}
-                />
-              </div>
-              <div className="">
-                <Buttons
-                  backgroundColor="colorB"
-                  textContent="Voir l'offre"
-                  textColor="colorW"
-                />
-              </div>
-            </div>
-          </div>
-
-        </div>  
+        ))}
         
-        
-      </div>
+      </section>
     </>
   )
 }
