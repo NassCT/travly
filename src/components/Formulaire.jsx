@@ -155,7 +155,7 @@ function Formulaire({
             value={userData.message}
             onChange={handleChange}
             placeholder={inputMessageText}
-            className={`w-full m-4 ${inputBorder} ${inputBorderRadius} ${inputTextColor} ${inputBgColor} p-2 `}
+            className={`w-full m-4 ${inputBorder} ${inputBorderRadius || "rounded-lg"}  ${inputTextColor} ${inputBgColor || "bg-colorW "} bg-colorW p-2 `}
           ></textarea>
           {inputError.message && <p className='text-colorR text-sm'>{inputError.message}</p>}
         </div>
