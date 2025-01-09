@@ -4,27 +4,56 @@ import Buttons from './Buttons';
 
 function CardsVols() {
 
-    const [isFavorite, setIsFavorite] = useState(false);
+    // tableau statique de vols comportant chacun un id propre à lui et une propriété isFavorite gérant le fait s'il est favoris ou non
+    const volsTest = [
+        {
+            id: 1,
+            isFavorite: false,
+        },
+        {
+            id: 2,
+            isFavorite: false,
+        },
+        {
+            id: 3,
+            isFavorite: false
+        }
+    ]
 
-    const favoriteClick = () => {
-        console.log("Clic sur l'icône heart !")
-        setIsFavorite(!isFavorite);
+    // création de l'état en local avec le tableau de volsTest 
+    const [vols, setVols] = useState(volsTest);
+
+    // fonction 'favoriteClick' pour modifier l'état 'isFavorite' d'un vol en fonction de son id récupéré et donc l'identifiant en fonction des autres vols du tableau
+    // setVols permet de modifier l'etat du tableau
+    // volsActuel représente l'état précedent des vols du tableau, juste avant maj; volsActuel = nom de variable random
+    // donc setVols((volsActuel)) modifie l'etat des vols du tableau volsTest
+    // .map parcourt chaque vol du tableau
+    // si id du vol correspond à id de VolActuel, le vol est mis en favoris et on fait un appel a la fonction favoriteClick pour modifier l'état du tableau; sinon aucune modif
+    // le '...vol' = opération de destructuration (spread operator) qui copie les propriétés du vol dans un nouvel objet
+    const favoriteClick = (id) => {
+        setVols((volsActuel) =>
+            volsActuel.map((vol) =>
+                vol.id === id ? { ...vol, isFavorite: !vol.isFavorite } : vol));
     };
 
   return (
+    <>
     <section className='max-w-6xl mx-auto'>
 
-    <div className='border border-gray-600 m-6 p-6 rounded-lg relative'>
+    {vols.map((vol) => (
 
-        <div>
+    <div key={vol.id} className='border border-gray-600 m-6 p-6 rounded-lg relative'>
 
-            <div className='absolute top-2 right-2'>
+            {/* ici quand user clique sur icone, favoriteClick est appelé avec id du vol */}
+            <div onClick={() => favoriteClick(vol.id)} className='absolute top-2 right-2' style={{ cursor: 'pointer' }}>
+                
                 <Icons
-                iconName={isFavorite ? "heart" : "heartempty"}
+                iconName={vol.isFavorite ? "heart" : "heartempty"}
                 iconClass={"fill-colorG"}
-                aria-label={isFavorite ? "Supprimer ce vol aux favoris" : "Ajouter ce vol aux favoris"}
+                aria-label={vol.isFavorite ? "Supprimer ce vol aux favoris" : "Ajouter ce vol aux favoris"}
                 onClick={favoriteClick}
                 />
+
             </div>
 
             <div className='grid grid-cols-4 mt-8'>
@@ -90,8 +119,6 @@ function CardsVols() {
                     <p className='font-thin'>NYC</p>
                 </div>
             </div>
-        </div>
-
 
         <div className='mt-6 md:absolute md:top-24 md:right-6 md:transform md:-translate-y-1/2 md:w-auto md:ml-12'>
             <div className='grid grid-cols-2 md:grid-cols-1'>
@@ -106,10 +133,13 @@ function CardsVols() {
             </div>
         </div>
 
-
     </div>
 
+    ))}
+
     </section>
+
+    </>
   )
 }
 
