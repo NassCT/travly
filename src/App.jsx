@@ -17,6 +17,9 @@ import FetchFlights from "./components/FetchFlights";
 import Enseignes from './components/Enseignes';
 import HotelPays from './components/HotelPays';
 import Banniere from './components/Banniere';
+import BannierReservHotel from './components/BannierReservHotel';
+import PageContact from './views/PageContact.jsx';
+
 
 
 function App() {
@@ -65,6 +68,8 @@ function App() {
           <Route path="/Enseignes" element={<Enseignes />} />
           <Route path="/HotelPays" element={<HotelPays />} />
           <Route path="/Banniere" element={<Banniere />} />
+          <Route path='BannierReservHotel' element={<BannierReservHotel />}/>
+          <Route path='contact' element={<PageContact />}/>
 
         </Routes>
       </div>

@@ -12,9 +12,9 @@ function BannierReservHotel() {
             <div className='max-w-lg mb-4'>
 
             <p className='text-sm mb-6'>
-                Nous avons rassemblé certaines des offres d'hôtel les plus 
-                intéressantes pour vous. Trouvez une chambre fabuleuse à un 
-                prix encore plus avantageux.
+            Nous avons soigneusement sélectionné pour vous les offres 
+            d'hôtels les plus intéressantes. Trouvez la chambre parfaite 
+            à un prix encore plus avantageux.
             </p>
             </div>
             <Buttons textContent="Rechercher" 
