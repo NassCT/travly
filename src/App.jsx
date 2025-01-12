@@ -21,6 +21,7 @@ import BannierReservHotel from './components/BannierReservHotel';
 import PageContact from './views/PageContact.jsx';
 import PageConfidentialites from './views/PageConfidentialites.jsx';
 import PageConditions from './views/PageConditions.jsx';
+import PageMentionsLegales from './views/PageMentionsLegales.jsx';
 
 
 
@@ -74,6 +75,7 @@ function App() {
           <Route path='contact' element={<PageContact />}/>
           <Route path="/PageConfidentialites" element={<PageConfidentialites />} />
           <Route path="/PageConditions" element={<PageConditions />} />
+          <Route path="/PageMentionsLegales" element={<PageMentionsLegales />} />
           
 
         </Routes>

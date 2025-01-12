@@ -1,8 +1,9 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function MentionsLegales() {
   return (
-    <section>
+    <section className='mt-10'>
 
         <h1 className='text-center text-3xl sm:text-4xl font-bold mb-8'>Mentions légales</h1>
 
@@ -11,12 +12,12 @@ function MentionsLegales() {
 
                 <h2 className='text-lg sm:text-xl font-semibold'>Propriétaire du site</h2>
                     <p>Nom de l’entreprise ou du propriétaire : Travly</p>
-                    <p>Adresse : [1 Place Daviel, 2e Arrondissement, Marseille, 13002, France]</p>
-                    <p>Email : [contact@travly.com]</p>
-                    <p>Téléphone : [+33 1 23 45 67 89]</p>
+                    <p>Adresse : 1 Place Daviel, 2e Arrondissement, Marseille, 13002, France</p>
+                    <p>Email : contact@travly.com</p>
+                    <p>Téléphone : +33 1 23 45 67 89</p>
 
                 <h2 className='text-lg sm:text-xl font-semibold mt-8'>Hébergeur du site</h2>
-                    <p>Nom de l’hébergeur : (ex. : OVH, AWS, etc.)</p>
+                    <p>Nom de l’hébergeur : [Nom de l’hébergeur]</p>
                     <p>Adresse : [Adresse de l’hébergeur]</p>
                     <p>Téléphone : [Numéro de l’hébergeur]</p>
 
@@ -32,7 +33,11 @@ function MentionsLegales() {
 
                 <h2 className='text-lg sm:text-xl font-semibold mt-8'>Données personnelles</h2>
                     <p>
-                    Les données personnelles collectées sur le site sont traitées conformément à la réglementation en vigueur, notamment le RGPD (Règlement Général sur la Protection des Données). Pour plus d’informations, veuillez consulter notre [Politique de Confidentialité].
+                    Les données personnelles collectées sur le site sont traitées conformément à la réglementation en vigueur, notamment le RGPD (Règlement Général sur la Protection des Données). Pour plus d’informations, veuillez consulter notre { }
+                        <Link to="/PageConfidentialites"
+                        className="hover:underline">
+                            Politique de confidentialité
+                        </Link>.
                     </p>
 
                 <h2 className='text-lg sm:text-xl font-semibold mt-8'>Contact</h2>
