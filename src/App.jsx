@@ -21,6 +21,7 @@ import BannierReservHotel from './components/BannierReservHotel';
 import PageContact from './views/PageContact.jsx';
 
 
+
 function App() {
   return (
     <Router>
