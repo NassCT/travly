@@ -19,6 +19,7 @@ import HotelPays from './components/HotelPays';
 import Banniere from './components/Banniere';
 import BannierReservHotel from './components/BannierReservHotel';
 import PageContact from './views/PageContact.jsx';
+import PageConfidentialites from './views/PageConfidentialites.jsx';
 
 
 function App() {
@@ -69,6 +70,8 @@ function App() {
           <Route path="/Banniere" element={<Banniere />} />
           <Route path='BannierReservHotel' element={<BannierReservHotel />}/>
           <Route path='contact' element={<PageContact />}/>
+          <Route path="/PageConfidentialites" element={<PageConfidentialites />} />
+          
 
         </Routes>
       </div>
