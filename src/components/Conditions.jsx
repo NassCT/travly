@@ -2,7 +2,7 @@ import React from 'react';
 
 function Conditions() {
   return (
-    <section>
+    <section className='mt-10'>
 
         <h1 className='text-center text-3xl font-bold'>Conditions d'utilisation</h1>
 

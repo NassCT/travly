@@ -1,6 +1,6 @@
-import React from 'react'
-import Confidentialites from '../components/Confidentialites'
-import Footer from '../components/Footer'
+import React from 'react';
+import Confidentialites from '../components/Confidentialites';
+import Footer from '../components/Footer';
 
 function PageConfidentialites() {
   return (
@@ -11,4 +11,4 @@ function PageConfidentialites() {
   )
 }
 
-export default PageConfidentialites
+export default PageConfidentialites;
