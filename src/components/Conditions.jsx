@@ -4,14 +4,14 @@ function Conditions() {
   return (
     <section className='mt-10'>
 
-        <h1 className='text-center text-3xl font-bold'>Conditions d'utilisation</h1>
+        <h1 className='text-center text-xl md:text-3xl font-bold'>Conditions d'utilisation</h1>
 
-        <div className='space-y-6 py-10 mx-56'>
-            <section>
+        <div className='px-10 lg:px-20 mx-auto max-w-4xl'>
+            <section className='py-10'>
 
                 <h2 className='text-lg font-semibold'>Présentation</h2>
                 <p >
-                Travly propose des services de recherche et de comparaison pour vos besoins de voyage, notamment des vols, des hôtels et des locations de voitures, accessibles via notre site.
+                Travly propose des services de recherche et de comparaison pour vos besoins de voyage, notamment des vols et des hôtels, accessibles via notre site.
                 </p>
 
                 <h2 className='text-lg font-semibold mt-8'>Utilisation des services</h2>

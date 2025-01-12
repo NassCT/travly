@@ -14,37 +14,48 @@ function Footer({
 
   return (
     <footer className='bg-colorB text-colorW py-10 text-center'>
-      <div className='grid grid-cols-2 justify-center gap-4 md:grid-cols-2 lg:flex'>
-        <Link
-          to="/MentionsLegales"
-          className='text-sm sm:text-base hover:underline'>
-          Mentions légales
-        </Link>
-        <Link
-          to="/Confidentialites"
-          className='text-sm sm:text-base hover:underline'>
-          Politique de confidentialités
-        </Link>
-        <Link
-          to="/Conditions"
-          className='text-sm sm:text-base hover:underline'>
-          Conditions d'utilisation
-        </Link>
-        <Link
-          to="/Formulaire"
-          className='text-sm sm:text-base hover:underline'>
-          Contact
-        </Link>
-      </div>
+
+      <nav className='grid grid-cols-2 justify-center gap-4 md:grid-cols-2 lg:flex' aria-label='Navigation du pied de page'>
+
+          <Link
+            to="/PageMentionsLegales"
+            className='text-sm sm:text-base hover:underline'
+            aria-label='Accéder aux mentions légales'
+            >
+            Mentions légales
+          </Link>
+          <Link
+            to="/PageConfidentialites"
+            className='text-sm sm:text-base hover:underline'
+            aria-label='Accéder à la politique de confidentialités'
+            >
+            Politique de confidentialités
+          </Link>
+          <Link
+            to="/PageConditions"
+            className='text-sm sm:text-base hover:underline'
+            aria-label="Accéder aux conditions d'utilisation"
+            >
+            Conditions d'utilisation
+          </Link>
+          <Link
+            to="/contact"
+            className='text-sm sm:text-base hover:underline'>
+            Contact
+          </Link>
+
+      </nav>
+
+
       <div className='flex justify-center mt-6 gap-4 items-center'>
         <div className='flex gap-2'>
-          <a href={facebookLink} className="text-xl" aria-label="Facebook">
+          <a href={facebookLink} className="text-xl" aria-label="Accédez à notre page Facebook" target='_blank' rel='noopener noreferrer'>
             <Icons iconName={iconNameFacebook} iconClass={iconClass} />
           </a>
-          <a href={instaLink} className="text-xl" aria-label="Instagram">
+          <a href={instaLink} className="text-xl" aria-label="Accédez à notre page Instagram" target='_blank' rel='noopener noreferrer'>
             <Icons iconName={iconNameInsta} iconClass={iconClass} />
           </a>
-          <a href= {xLink} className="text-xl" aria-label="Twitter">
+          <a href= {xLink} className="text-xl" aria-label="Accédez à notre page Twitter" target='_blank' rel='noopener noreferrer'>
             <Icons iconName={iconNameX} iconClass={iconClass} />
           </a>
         </div>
