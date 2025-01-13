@@ -25,6 +25,8 @@ import PageHotel from './views/PageHotel.jsx';
 import PageConfidentialites from './views/PageConfidentialites.jsx';
 import PageConditions from './views/PageConditions.jsx';
 import PageMentionsLegales from './views/PageMentionsLegales.jsx';
+import PageAccueil from './views/PageAccueil.jsx';
+import PageAffichageVols from './views/PageAffichageVols.jsx';
 
 
 
@@ -85,6 +87,8 @@ function App() {
           <Route path="/PageConfidentialites" element={<PageConfidentialites />} />
           <Route path="/PageConditions" element={<PageConditions />} />
           <Route path="/PageMentionsLegales" element={<PageMentionsLegales />} />
+          <Route path="/PageAccueil" element={<PageAccueil />} />
+          <Route path="/ResultatsVols" element={<PageAffichageVols />} />
           
 
 
