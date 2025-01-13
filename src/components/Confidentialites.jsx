@@ -3,7 +3,7 @@ import Icons from './Icons';
 
 function Confidentialites() {
   return (
-    <section>
+    <section className="mt-10">
 
       <h1 className="text-center text-2xl sm:text-3xl font-bold mt-6">
         Politique de Confidentialités
