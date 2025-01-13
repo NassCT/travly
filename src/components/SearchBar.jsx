@@ -158,7 +158,7 @@ function SearchBar() {
 
 
 
-    {location.pathname === "/ResultatsVols" && (
+    {location.pathname === "/PageAffichageVols" && (
     <div>
     {/* SearchVols */}
     <section style={{ backgroundImage: "url('./src/assets/images/hublot.jpg')", backgroundSize: "cover", backgroundPosition: "center" }} className='mb-10 h-auto py-10 flex flex-col justify-center items-center'>
@@ -306,7 +306,7 @@ function SearchBar() {
 
 
 
-    {location.pathname === "/Hotels" && (
+    {location.pathname === "/PageHotel" && (
     <div>
     {/* SearchHôtels */}
     <section
