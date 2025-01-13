@@ -19,9 +19,13 @@ import HotelPays from './components/HotelPays';
 import Banniere from './components/Banniere';
 import BannierReservHotel from './components/BannierReservHotel';
 import PageContact from './views/PageContact.jsx';
+
+import PageHotel from './views/PageHotel.jsx';
+
 import PageConfidentialites from './views/PageConfidentialites.jsx';
 import PageConditions from './views/PageConditions.jsx';
 import PageMentionsLegales from './views/PageMentionsLegales.jsx';
+
 
 
 
@@ -71,12 +75,18 @@ function App() {
           <Route path="/Enseignes" element={<Enseignes />} />
           <Route path="/HotelPays" element={<HotelPays />} />
           <Route path="/Banniere" element={<Banniere />} />
+
+          <Route path='/BannierReservHotel' element={<BannierReservHotel />}/>
+          <Route path='/Contact' element={<PageContact />}/>
+          <Route path='/Hotels' element={<PageHotel />}/>
+
           <Route path='BannierReservHotel' element={<BannierReservHotel />}/>
           <Route path='contact' element={<PageContact />}/>
           <Route path="/PageConfidentialites" element={<PageConfidentialites />} />
           <Route path="/PageConditions" element={<PageConditions />} />
           <Route path="/PageMentionsLegales" element={<PageMentionsLegales />} />
           
+
 
         </Routes>
       </div>
