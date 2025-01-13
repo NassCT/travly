@@ -78,19 +78,16 @@ function App() {
           <Route path="/HotelPays" element={<HotelPays />} />
           <Route path="/Banniere" element={<Banniere />} />
 
-          <Route path='/BannierReservHotel' element={<BannierReservHotel />}/>
-          <Route path='/Contact' element={<PageContact />}/>
-          <Route path='/Hotels' element={<PageHotel />}/>
+          <Route path="/BannierReservHotel" element={<BannierReservHotel />}/>
+          <Route path="/Contact" element={<PageContact />}/>
+          <Route path="/PageHotel" element={<PageHotel />}/>
 
-          <Route path='BannierReservHotel' element={<BannierReservHotel />}/>
-          <Route path='contact' element={<PageContact />}/>
+          <Route path="BannierReservHotel" element={<BannierReservHotel />}/>
           <Route path="/PageConfidentialites" element={<PageConfidentialites />} />
           <Route path="/PageConditions" element={<PageConditions />} />
           <Route path="/PageMentionsLegales" element={<PageMentionsLegales />} />
           <Route path="/PageAccueil" element={<PageAccueil />} />
-          <Route path="/ResultatsVols" element={<PageAffichageVols />} />
-          
-
+          <Route path="/PageAffichageVols" element={<PageAffichageVols />} />
 
         </Routes>
       </div>
