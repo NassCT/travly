@@ -82,8 +82,8 @@ function CardFavoris({
                 <h3 className="text-xl font-bold">{cardTitle}</h3>
                 <div onClick={() => toggleFavorite(hotel.id)}>
                 <Icons
-                    iconName={hotel.isFavorite ? iconHeartEmpty: iconHeartFilled }
-                    iconClass={hotel.isFavorite ? iconClassHeartEmpty : iconClassHeartFilled }
+                    iconName={hotel.isFavorite ? iconHeartFilled: iconHeartEmpty }
+                    iconClass={hotel.isFavorite ? iconClassHeartFilled : iconClassHeartEmpty }
                     // onClick={() => toggleFavorite(hotel.id)}
                 />
                 </div>
