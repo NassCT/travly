@@ -25,7 +25,7 @@ function SearchBar() {
   return (
     <>
 
-    {/* {location.pathname === "/PageAccueil" && ( */}
+    {location.pathname === "/PageAccueil" && (
     <div>
     {/* SearchBar Page Accueil */}
     <section>
@@ -153,42 +153,43 @@ function SearchBar() {
         
     </section>
     </div>
+    )}
     
 
 
 
-    {/* {location.pathname === "/PageVols" && ( */}
+    {location.pathname === "/ResultatsVols" && (
     <div>
     {/* SearchVols */}
-    <section style={{ backgroundImage: "url('./src/assets/images/hublot.jpg')", backgroundSize: "cover", backgroundPosition: "center" }} className='my-10 h-auto py-10 flex flex-col justify-center items-center'>
+    <section style={{ backgroundImage: "url('./src/assets/images/hublot.jpg')", backgroundSize: "cover", backgroundPosition: "center" }} className='mb-10 h-auto py-10 flex flex-col justify-center items-center'>
         <h1 className='text-base md:text-2xl lg:text-4xl font-bold text-colorW z-10'>Trouvez le voyage de vos rêves dès aujourd'hui</h1>
 
-        <div className='w-9/12 h-auto mx-auto rounded-3xl z-10 mt-4'>
+        <div className='w-9/12 md:w-11/12 lg:w-10/12 h-auto mx-auto rounded-3xl z-10 mt-4'>
 
-            <div className='bg-colorB opacity-80 h-full rounded-3xl py-4 md:px-20'>
+            <div className='bg-colorB opacity-90 h-full rounded-3xl py-4 md:px-20'>
 
-                <div className='py-2 mb-4 flex justify-center items-center w-3/4 mx-auto text-colorW'>
-                    <p>Veuillez saisir une destination</p>
-                </div>
+              <div className='py-2 mb-4 flex justify-center items-center w-3/4 mx-auto text-colorW'>
+                  <p>Veuillez saisir une destination</p>
+              </div>
 
-            <div className='inset-0 flex flex-col justify-center items-center lg:flex-row md:gap-2'>
+              <div className='inset-0 flex flex-col justify-center items-center lg:flex-row md:gap-2'>
 
-                <div className='relative flex flex-col md:flex-row md:items-center md:gap-1'>
+              <div className='relative flex flex-col md:flex-row md:items-center md:gap-1'>
 
-                    <div className="flex flex-col">
-                        <label htmlFor="from" className="hidden md:block text-colorW text-sm">De</label>
-                        <div className="flex items-center bg-colorW border-none p-3 rounded-t-lg md:rounded-lg">
-                            <Icons iconName="location" iconClass="fill-colorG w-5 h-5 mr-2" />
-                            <input
-                            id="from"
-                            type="text"
-                            value={from}
-                            onChange={(e) => setFrom(e.target.value)}
-                            className="w-full md:w-28 p-0 bg-transparent border-none text-colorB placeholder-gray-500 md:placeholder-transparent"
-                            placeholder="D'où partons-nous ?"
-                            />
-                        </div>
+                <div className="flex flex-col">
+                    <label htmlFor="from" className="hidden md:block text-colorW text-sm">De</label>
+                    <div className="flex items-center bg-colorW border-none p-3 rounded-t-lg md:rounded-lg">
+                        <Icons iconName="location" iconClass="fill-colorG w-5 h-5 mr-2" />
+                        <input
+                        id="from"
+                        type="text"
+                        value={from}
+                        onChange={(e) => setFrom(e.target.value)}
+                        className="w-full md:w-28 p-0 bg-transparent border-none text-colorB placeholder-gray-500 md:placeholder-transparent"
+                        placeholder="D'où partons-nous ?"
+                        />
                     </div>
+                </div>
                     
                     <button
                         onClick={swapFields}
@@ -301,15 +302,15 @@ function SearchBar() {
 
     </section>
     </div>
-    {/* )} */}
+    )}
 
 
 
-    {/* {location.pathname === "/PageHotel" && ( */}
+    {location.pathname === "/Hotels" && (
     <div>
     {/* SearchHôtels */}
     <section
-    className='relative my-10 h-auto py-10 flex flex-col justify-center items-center'
+    className='relative mb-10 h-auto py-10 flex flex-col justify-center items-center'
     style={{ backgroundImage: "url('./src/assets/images/vuePano.jpg')", backgroundSize: "cover", backgroundPosition: "center" }}
     >
         <div className="absolute inset-0 bg-black opacity-50"></div>
@@ -439,7 +440,7 @@ function SearchBar() {
 
     </section>
     </div>
-    {/* )} */}
+    )}
     
     </>
   )

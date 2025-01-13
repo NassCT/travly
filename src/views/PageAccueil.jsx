@@ -9,8 +9,8 @@ function PageAccueil() {
   return (
     <>
       <div className='flex gap-2 pl-20 pt-6 bg-colorB'>
-        <Buttons textContent="Vols" iconName={"plane"} buttonClass={"px-10"} />
-        <Buttons textContent="Hôtels" iconName={"hotel"} buttonClass={"px-10"} />
+        <Buttons textContent="Vols" iconName={"plane"} buttonClass={"px-10 border-1 border-colorW"} />
+        <Buttons textContent="Hôtels" iconName={"hotel"} buttonClass={"px-10 border-1 border-colorW"} />
     </div>
 
     <SearchBar />
