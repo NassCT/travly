@@ -5,6 +5,7 @@ import HotelPays from '../components/HotelPays';
 import Footer from '../components/Footer';
 import Buttons from '../components/Buttons';
 import CardFavoris from '../components/CardFavoris';
+import SearchBar from '../components/SearchBar';
 
 function PageHotel() {
 
@@ -20,9 +21,8 @@ function PageHotel() {
   return (
     <div>
       <div>
-        <section className='bg-[url("./src/assets/images/hotelFenetre.png")] bg-cover bg-center bg-no-repeat h-[500px]'>
-            
-        </section>
+
+        <SearchBar />
 
         <BannierReservHotel />
         <section className=''>
