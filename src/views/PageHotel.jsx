@@ -6,6 +6,7 @@ import Footer from '../components/Footer';
 import Buttons from '../components/Buttons';
 import CardFavoris from '../components/CardFavoris';
 import SearchBar from '../components/SearchBar';
+import { Link } from 'react-router-dom';
 
 function PageHotel() {
 
@@ -21,6 +22,13 @@ function PageHotel() {
   return (
     <div>
       <div>
+        
+      <div className='flex gap-2 pl-20 py-6 bg-colorB'>
+        <Link to="/PageAffichageVols">
+        <Buttons textContent="Vols" iconName={"plane"} buttonClass={"px-10 border-1 border-colorW hover:bg-colorG"} />
+        </Link>
+        <Buttons textContent="Hôtels" iconName={"hotel"} buttonClass={"px-10 border-1 border-colorW bg-colorG"} />
+      </div>
 
         <SearchBar />
 

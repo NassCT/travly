@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="bg-colorB text-black px-6 py-7 flex justify-between items-center sticky top-0 z-50">
       {/* Logo */}
-      <Link to="/">
+      <Link to="/PageAccueil">
         <img
           src={Logo}
           alt="Logo"
@@ -44,12 +44,11 @@ const Navbar = () => {
           md:top-8 md:right-8 md:left-auto md:w-80 md:rounded-xl md:shadow-lg`}
       >
         <ul className="flex flex-col items-start space-y-6 py-6 px-10 md:px-6">
-          {[{ to: '/', label: 'Accueil', icon: 'home' },
-          { to: '/vols', label: 'Vols', icon: 'planedeparture' },
-          { to: '/hotels', label: 'Hôtels', icon: 'hotel' },
-          { to: '/contact', label: 'Contact', icon: 'phone' },
-          { to: '/a-propos', label: 'À propos', icon: 'info' },
-          { to: '/favoris', label: 'Favoris', icon: 'heart' }]
+          {[{ to: '/PageAccueil', label: 'Accueil', icon: 'home' },
+          { to: '/PageAffichageVols', label: 'Vols', icon: 'planedeparture' },
+          { to: '/PageHotel', label: 'Hôtels', icon: 'hotel' },
+          { to: '/Contact', label: 'Contact', icon: 'phone' },
+          { to: '/PageFavoris', label: 'Favoris', icon: 'heart' }]
             .map(({ to, label, icon }) => (
               <li key={to} className="w-full">
                 <Link to={to} className="flex items-center text-black text-xl text-left">
