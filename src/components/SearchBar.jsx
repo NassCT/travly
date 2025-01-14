@@ -92,6 +92,8 @@ function SearchBar({ onSearch }) {
             {/* SearchBar Page Accueil */}
             <section>
                 <div className="md:flex md:flex-wrap md:items-center md:gap-4 px-20 py-10 bg-colorB shadow-lg">
+                    {/* Add the rest of the content here */}
+                </div>
                     <div className='relative flex flex-col md:flex-row md:items-center'>
                         <div className="flex flex-col">
                             <label htmlFor="from" className="hidden md:block text-colorW text-sm">De</label>
