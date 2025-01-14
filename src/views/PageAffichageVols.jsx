@@ -4,6 +4,7 @@ import CardsVols from '../components/CardsVols';
 import Footer from '../components/Footer';
 import Buttons from '../components/Buttons';
 import { Link } from 'react-router-dom';
+import FetchFlights from '../components/FetchFlights';
 
 function PageAffichageVols() {
   return (
@@ -16,7 +17,7 @@ function PageAffichageVols() {
         </Link>
       </div>
 
-      <SearchBar />
+      <FetchFlights />
       <CardsVols />
       <Footer />
     </>

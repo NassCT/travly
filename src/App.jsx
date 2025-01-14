@@ -81,14 +81,14 @@ function App() {
 
           <Route path="/BannierReservHotel" element={<BannierReservHotel />}/>
           <Route path="/Contact" element={<PageContact />}/>
-          <Route path="/PageHotel" element={<PageHotel />}/>
+          <Route path="/Hotels" element={<PageHotel />}/>
 
           <Route path="BannierReservHotel" element={<BannierReservHotel />}/>
           <Route path="/PageConfidentialites" element={<PageConfidentialites />} />
           <Route path="/PageConditions" element={<PageConditions />} />
           <Route path="/PageMentionsLegales" element={<PageMentionsLegales />} />
           <Route path="/PageAccueil" element={<PageAccueil />} />
-          <Route path="/PageAffichageVols" element={<PageAffichageVols />} />
+          <Route path="/Vols" element={<PageAffichageVols />} />
           <Route path="/PageFavoris" element={<PageFavoris />} />
 
         </Routes>

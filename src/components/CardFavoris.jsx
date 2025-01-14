@@ -63,7 +63,7 @@ function CardFavoris({
         );
     }
   return (
-    <div className='flex flex-wrap g justify-between p-12 '>
+    <div className='flex flex-wrap g justify-between px-12 py-6'>
         
         {hotels.map((hotel) => (
 
