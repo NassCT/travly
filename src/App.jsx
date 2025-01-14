@@ -27,6 +27,7 @@ import PageConditions from './views/PageConditions.jsx';
 import PageMentionsLegales from './views/PageMentionsLegales.jsx';
 import PageAccueil from './views/PageAccueil.jsx';
 import PageAffichageVols from './views/PageAffichageVols.jsx';
+import PageFavoris from './views/PageFavoris.jsx';
 
 
 
@@ -88,6 +89,7 @@ function App() {
           <Route path="/PageMentionsLegales" element={<PageMentionsLegales />} />
           <Route path="/PageAccueil" element={<PageAccueil />} />
           <Route path="/PageAffichageVols" element={<PageAffichageVols />} />
+          <Route path="/PageFavoris" element={<PageFavoris />} />
 
         </Routes>
       </div>
