@@ -9,7 +9,7 @@ function Confidentialites() {
         Politique de Confidentialités
       </h1>
 
-      <p className="text-center max-w-3xl mx-auto text-base sm:text-lg mt-8">
+      <p className="text-center max-w-4xl mx-auto text-base sm:text-lg mt-8">
         Chez Travly, nous accordons une grande importance à la protection de vos données personnelles. Cette politique de confidentialité explique quelles informations nous collectons, comment nous les utilisons et quels droits vous avez sur vos données.
       </p>
 
@@ -17,7 +17,7 @@ function Confidentialites() {
         <div className="max-w-4xl mx-auto space-y-10">
           
           <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:rounded-none md:border-t-0 md:border-l-0 md:border-r-0 md:border-b">
-            <div className="flex-shrink-0 w-20 h-20 sm:w-36 sm:h-36 border border-gray-300 rounded-full flex items-center justify-center transition-transform duration-300 hover:scale-110 hover:shadow-lg">
+            <div className="flex-shrink-0 sm:w-[2rem] sm:h-[2rem] border border-gray-300 rounded-full flex items-center justify-center transition-transform duration-300 hover:scale-110 hover:shadow-lg">
                 <Icons iconName={"info"}/>
             </div>
             <div>
@@ -34,7 +34,7 @@ function Confidentialites() {
           </div>
 
           <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:rounded-none md:border-t-0 md:border-l-0 md:border-r-0 md:border-b">
-            <div className="flex-shrink-0 w-20 h-20 sm:w-36 sm:h-36 border border-gray-300 rounded-full flex items-center justify-center transition-transform duration-300 hover:scale-110 hover:shadow-lg">
+            <div className="flex-shrink-0 sm:w-[2rem] sm:h-[2rem] border border-gray-300 rounded-full flex items-center justify-center transition-transform duration-300 hover:scale-110 hover:shadow-lg">
               <Icons iconName={"repair"}/>
             </div>
             <div>
@@ -49,7 +49,7 @@ function Confidentialites() {
           </div>
 
           <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:rounded-none md:border-t-0 md:border-l-0 md:border-r-0 md:border-b">
-            <div className="flex-shrink-0 w-20 h-20 sm:w-36 sm:h-36 border border-gray-300 rounded-full flex items-center justify-center transition-transform duration-300 hover:scale-110 hover:shadow-lg">
+            <div className="flex-shrink-0 sm:w-[2rem] sm:h-[2rem]  border border-gray-300 rounded-full flex items-center justify-center transition-transform duration-300 hover:scale-110 hover:shadow-lg">
               <Icons iconName={"userlock"}/>
             </div>
             <div>
