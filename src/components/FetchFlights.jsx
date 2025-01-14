@@ -158,9 +158,14 @@ const FetchFlights = () => {
   return (
     <div className="bg-white">
       {/* Section de recherche avec un fond différent */}
-      <div className="bg-colorB px-20 py-10 shadow-lg">
+      
+    {location.pathname === "/PageAccueil" && (
+
+      <div className="bg-colorB px-20 py-8 shadow-lg">
         <div className='md:flex md:flex-wrap md:items-center md:gap-4'>
+          
           <div className='relative flex flex-col md:flex-row md:items-center'>
+
             <div className="flex flex-col w-full relative">
               <label htmlFor="origin" className="hidden md:block text-colorW text-sm">De</label>
               <div className="flex items-center bg-colorW border-none p-3 rounded-t-lg md:rounded-lg">
@@ -192,7 +197,7 @@ const FetchFlights = () => {
 
             <button
               onClick={swapFields}
-              className="absolute top-1/2 left-3/4 ml-6 transform -translate-x-1/2 -translate-y-1/2 bg-colorW md:bg-colorB border-2 border-colorB rounded-full p-3 md:relative md:items-center md:bg-none md:left-2 md:top-8"
+              className="absolute top-1/2 left-3/4 ml-6 transform -translate-x-1/2 -translate-y-1/2 bg-colorW md:bg-colorB border-2 border-colorB rounded-full p-3 md:relative md:items-center md:bg-none md:left-2 md:top-8 z-10"
             >
               <Icons iconName="arrowrightleft" iconClass="fill-colorG md:fill-colorW" />
             </button>
@@ -258,8 +263,7 @@ const FetchFlights = () => {
             </div>
           </div>
 
-          <div className="flex flex-col md:flex-row gap-x-0.5 mt-2">
-            <div className="flex flex-col w-1/2">
+            <div className="flex flex-col w-1/2 mt-0.5 md:w-auto">
               <label htmlFor="adults" className="hidden md:block text-colorW text-sm">Voyageurs</label>
               <input
                 id="adults"
@@ -273,7 +277,18 @@ const FetchFlights = () => {
               />
             </div>
 
-            <div className="flex flex-col w-1/2">
+            <button 
+            onClick={handleSearch}
+            disabled={loading}
+            className=" mt-4 p-3 bg-colorG text-colorW rounded-lg hover:bg-opacity-90 disabled:opacity-50"
+          >
+            {loading ? 'Recherche en cours...' : 'Rechercher des vols'}
+          </button>
+
+
+          
+
+            <div className="flex flex-col">
               <label htmlFor="travelClass" className="hidden md:block text-colorW text-sm">Classe</label>
               <select
                 id="travelClass"
@@ -288,7 +303,6 @@ const FetchFlights = () => {
                 <option value="FIRST">Première</option>
               </select>
             </div>
-          </div>
 
           <div className="flex items-center mt-2">
             <label className="flex items-center gap-2 text-colorW text-sm">
@@ -305,13 +319,7 @@ const FetchFlights = () => {
             </label>
           </div>
 
-          <button 
-            onClick={handleSearch}
-            disabled={loading}
-            className="w-full mt-4 p-3 bg-colorG text-colorW rounded-lg hover:bg-opacity-90 disabled:opacity-50"
-          >
-            {loading ? 'Recherche en cours...' : 'Rechercher des vols'}
-          </button>
+
 
           {error && (
             <div className="mt-4 p-2 bg-red-100 text-red-800 rounded">
@@ -320,6 +328,198 @@ const FetchFlights = () => {
           )}
         </div>
       </div>
+
+    )}
+
+
+
+
+    {location.pathname === "/Vols" && (
+  
+  <div
+  style={{ backgroundImage: "url('./src/assets/images/hublot.jpg')", backgroundSize: "cover", backgroundPosition: "center" }} className="px-20 py-8 shadow-lg">
+  <div className='bg-colorB opacity-90 h-full rounded-3xl p-4'>
+    <div className='opacity-90'>
+  <div className='md:flex md:flex-wrap md:items-center md:gap-4'>
+  
+    
+    <div className='relative flex flex-col md:flex-row md:items-center'>
+
+      <div className="flex flex-col w-full relative">
+        <label htmlFor="origin" className="hidden md:block text-colorW text-sm">De</label>
+        <div className="flex items-center bg-colorW border-none p-3 rounded-t-lg md:rounded-lg">
+          <Icons iconName="location" iconClass="fill-colorG w-5 h-5 mr-2" />
+          <input
+            id="origin"
+            type="text"
+            name="origin"
+            value={searchParams.origin}
+            onChange={handleOriginChange}
+            className="w-full p-0 bg-transparent border-none text-colorB placeholder-gray-500 md:placeholder-transparent"
+            placeholder="D'où partons-nous ?"
+          />
+        </div>
+        {originSuggestions.length > 0 && (
+          <ul className="absolute z-10 w-full bg-white border border-gray-300 rounded-lg mt-1 max-h-60 overflow-y-auto">
+            {originSuggestions.map((airport) => (
+              <li 
+                key={airport.airportCode}
+                onClick={() => selectOriginAirport(airport)}
+                className="p-2 hover:bg-gray-100 cursor-pointer"
+              >
+                {airport.cityName} ({airport.airportCode}) - {airport.airportName}
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+
+      <button
+        onClick={swapFields}
+        className="absolute top-1/2 left-3/4 ml-6 transform -translate-x-1/2 -translate-y-1/2 bg-colorW md:bg-colorB border-2 border-colorB rounded-full p-3 md:relative md:items-center md:bg-none md:left-2 md:top-8 z-10"
+      >
+        <Icons iconName="arrowrightleft" iconClass="fill-colorG md:fill-colorW" />
+      </button>
+
+      <div className="flex flex-col w-full relative mt-0.5">
+        <label htmlFor="destination" className="hidden md:block text-colorW text-sm">À</label>
+        <div className="flex items-center bg-colorW border-none p-3 md:rounded-lg">
+          <Icons iconName="location" iconClass="fill-colorG w-5 h-5 mr-2" />
+          <input
+            id="destination"
+            type="text"
+            name="destination"
+            value={searchParams.destination}
+            onChange={handleDestinationChange}
+            className="w-full p-0 bg-transparent border-none text-colorB placeholder-gray-500 md:placeholder-transparent"
+            placeholder="Où allons-nous ?"
+          />
+        </div>
+        {destinationSuggestions.length > 0 && (
+          <ul className="absolute z-10 w-full bg-white border border-gray-300 rounded-lg mt-1 max-h-60 overflow-y-auto">
+            {destinationSuggestions.map((airport) => (
+              <li 
+                key={airport.airportCode}
+                onClick={() => selectDestinationAirport(airport)}
+                className="p-2 hover:bg-gray-100 cursor-pointer"
+              >
+                {airport.cityName} ({airport.airportCode}) - {airport.airportName}
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+    </div>
+
+    <div className='flex md:flex-row gap-x-0.5'>
+      <div className="flex flex-col mt-0.5 w-1/2">
+        <label htmlFor="departureDate" className="hidden md:block text-colorW text-sm">Départ</label>
+        <div className="flex items-center bg-colorW border-none pl-3 rounded-bl-lg md:rounded-lg md:mr-2">
+          <input
+            id="departureDate"
+            type="date"
+            name="departureDate"
+            value={searchParams.departureDate}
+            onChange={handleInputChange}
+            className="p-3 md:rounded-lg border appearance-none bg-transparent w-full"
+          />
+        </div>
+      </div>
+
+      <div className="flex flex-col mt-0.5 w-1/2">
+        <label htmlFor="returnDate" className="hidden md:block text-colorW text-sm">Retour</label>
+        <div className="flex items-center bg-colorW border-none pl-3 rounded-br-lg md:rounded-lg">
+          <input
+            id="returnDate"
+            type="date"
+            name="returnDate"
+            value={searchParams.returnDate}
+            onChange={handleInputChange}
+            className="p-3 rounded-b-lg md:rounded-lg bg-transparent border w-full"
+            placeholder="Date de retour (optionnel)"
+          />
+        </div>
+      </div>
+    </div>
+
+      <div className="flex flex-col mt-1 md:mt-0">
+        <label htmlFor="adults" className="hidden md:block text-colorW text-sm">Voyageurs</label>
+        <input
+          id="adults"
+          type="number"
+          name="adults"
+          min="1"
+          value={searchParams.adults}
+          onChange={handleInputChange}
+          className="p-3 bg-colorW rounded-lg"
+          placeholder="Nombre de voyageurs"
+        />
+      </div>
+
+      <button 
+      onClick={handleSearch}
+      disabled={loading}
+      className="mt-5 p-3 bg-colorG text-colorW rounded-lg hover:bg-opacity-90 disabled:opacity-50"
+    >
+      {loading ? 'Recherche en cours...' : 'Rechercher des vols'}
+    </button>
+
+
+    
+
+      <div className="flex flex-col">
+        <label htmlFor="travelClass" className="hidden md:block text-colorW text-sm">Classe</label>
+        <select
+          id="travelClass"
+          value={searchParams.travelClass}
+          onChange={handleInputChange}
+          name="travelClass"
+          className="text-colorW bg-colorB p-3 rounded-lg"
+        >
+          <option value="ECONOMY">Économique</option>
+          <option value="PREMIUM_ECONOMY">Économique Premium</option>
+          <option value="BUSINESS">Affaires</option>
+          <option value="FIRST">Première</option>
+        </select>
+      </div>
+
+    <div className="flex items-center mt-2">
+      <label className="flex items-center gap-2 text-colorW text-sm">
+        <span>
+          <input
+            type="checkbox"
+            name="nonStop"
+            checked={searchParams.nonStop}
+            onChange={handleInputChange}
+            className="appearance-none rounded border border-colorW w-4 h-4 mt-1 checked:bg-colorG"
+          />
+        </span>
+        Vols directs
+      </label>
+    </div>
+
+
+
+    {error && (
+      <div className="mt-4 p-2 bg-red-100 text-red-800 rounded">
+        {error}
+      </div>
+    )}
+  </div>
+  </div>
+  </div>
+</div>
+
+
+    )}
+
+
+
+
+
+
+
+
 
       {/* Section des résultats de vol avec un fond blanc */}
       {flights.length > 0 && (

@@ -5,8 +5,8 @@ import HotelPays from '../components/HotelPays';
 import Footer from '../components/Footer';
 import Buttons from '../components/Buttons';
 import CardFavoris from '../components/CardFavoris';
-import SearchBar from '../components/SearchBar';
 import { Link } from 'react-router-dom';
+import FetchFlights from '../components/FetchFlights';
 
 function PageHotel() {
 
@@ -30,7 +30,7 @@ function PageHotel() {
         <Buttons textContent="Hôtels" iconName={"hotel"} buttonClass={"px-10 border-1 border-colorW bg-colorG"} />
       </div>
 
-        <SearchBar />
+        <FetchFlights />
 
         <BannierReservHotel />
         <section className=''>
