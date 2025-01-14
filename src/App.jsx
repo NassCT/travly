@@ -65,8 +65,8 @@ function App() {
           />
           <Route path="/SearchBar" element={<SearchBar />} />
 
-          <Route path='/MentionsLegales' element={<MentionsLegales />}/>
-          <Route path='/Conditions' element={<Conditions />}/>
+          <Route path="/MentionsLegales" element={<MentionsLegales />}/>
+          <Route path="/Conditions" element={<Conditions />}/>
           <Route path="/Gallery" element={<Gallery />} />
 
           <Route path="/MentionsLegales" element={<MentionsLegales />} />
