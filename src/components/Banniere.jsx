@@ -1,5 +1,4 @@
 import React from 'react';
-import Buttons from './Buttons';
 
 function Banniere() {
   return (
