@@ -6,10 +6,14 @@ import FAQ from '../components/FAQ';
 import Footer from '../components/Footer';
 import { Link } from 'react-router-dom';
 import FetchFlights from '../components/FetchFlights';
+import Cookies from '../components/Cookies';
 
 function PageAccueil() {
   return (
     <>
+
+
+
       <div className='flex gap-2 pl-20 pt-6 bg-colorB'>
         <Link to={"/Vols"}>
           <Buttons textContent="Vols" iconName={"plane"} buttonClass={"px-10 border-1 border-colorW hover:bg-colorG"} />
@@ -18,7 +22,7 @@ function PageAccueil() {
           <Buttons textContent="Hôtels" iconName={"hotel"} buttonClass={"px-10 border-1 border-colorW hover:bg-colorG"} />
         </Link>
       </div>
-
+        <Cookies />
     <FetchFlights />
     <Banniere />
     <FAQ />
