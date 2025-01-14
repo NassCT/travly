@@ -38,7 +38,7 @@ function CardsVols() {
 
   return (
     <>
-    <section className='max-w-6xl mx-auto'>
+    <section className='max-w-6xl mx-auto pt-10 pb-20'>
 
     {vols.map((vol) => (
 

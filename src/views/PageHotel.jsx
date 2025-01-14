@@ -34,7 +34,7 @@ function PageHotel() {
 
         <BannierReservHotel />
         <section className=''>
-            <div className='flex flex-wrap gap-4 m-4'>
+            <div className='flex flex-wrap gap-4 m-4 pl-8'>
                 {sixButtons.map((ville, index) => (
                     <Buttons key={index} textContent={ville}
 
