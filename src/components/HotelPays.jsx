@@ -3,7 +3,7 @@ import Icons from "./Icons";
 
 function HotelPays() {
     return (
-        <section className="hidden md:block p-8">
+        <section className="hidden md:block p-20">
 
         <h1 className="text-3xl font-bold mb-4">
             Hôtels dans votre pays
