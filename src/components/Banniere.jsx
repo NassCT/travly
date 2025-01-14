@@ -1,5 +1,4 @@
 import React from 'react';
-import Buttons from './Buttons';
 
 function Banniere() {
   return (
@@ -19,9 +18,7 @@ function Banniere() {
 
         <div className="absolute inset-0 flex flex-col justify-center items-start text-start text-white px-4 md:ml-10">
           <h2 className="text-xl md:text-3xl font-bold mb-4">Allez plus loin, rapprochez-vous</h2>
-          <p className="text-sm md:text-lg mb-6">Éclipsez-vous pour un séjour romantique à l'hôtel avec des prix que vous allez adorer.</p>
-          <Buttons textContent="Rechercher" 
-          aria-label="Bouton de recherche" />
+          <p className="text-sm md:text-lg mb-6">Envolez-vous vers votre destination de rêve à des prix qui vous surprendront.</p>
         </div>
 
     </div>

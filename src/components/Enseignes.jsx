@@ -2,7 +2,7 @@ import React from 'react';
 
 function Enseignes() {
   return (
-    <section className="hidden md:block text-left px-4 sm:px-6 md:px-16 lg:px-32 xl:px-96 py-10 sm:py-12 md:py-16">
+    <section className="hidden md:block text-left px-20 ">
 
         <h1 className="text-2xl font-bold mb-8 text-center sm:text-left">
             Comparez les hôtels de vos enseignes préférées
@@ -29,12 +29,6 @@ function Enseignes() {
             className="w-24 h-auto object-contain sm:w-20 md:w-22 lg:w-24" />
         </div>
 
-        <h1 className="text-2xl font-bold mb-4 mt-10 text-center sm:text-left">
-            Hôtels dans votre pays
-        </h1>
-        <p className="text-gray-600 text-sm text-center sm:text-left">
-            Pas besoin d’aller très loin pour vivre votre prochaine aventure. Découvrez des hôtels juste à côté de chez vous.
-        </p>
 
     </section>
   );

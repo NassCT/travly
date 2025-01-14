@@ -202,19 +202,30 @@ function SearchBar({ onSearch }) {
                             </select>
                         </div>
 
-                        <div className="flex flex-col w-1/2">
-                            <label htmlFor="classType" className="hidden md:block text-colorW text-sm">Classe</label>
-                            <select
-                                id="classType"
-                                value={classType}
-                                onChange={(e) => setClassType(e.target.value)}
-                                className="p-3 bg-colorW rounded-lg"
-                            >
-                                <option>Économie</option>
-                                <option>Affaires</option>
-                                <option>Première</option>
-                            </select>
-                        </div>
+
+            </div>  
+                {/* Options Vols directs et classe */}
+                <div className="flex flex-col  md:flex-row gap-4 justify-center w-full mt-4">
+                    <div className='flex flex-col justify-center items-center md:flex-row md:gap-4'>
+                        <p className='text-colorW ju'>Filtres populaires :</p>
+                        <label className="flex items-center gap-2 text-colorW text-sm">
+                            <span>
+                            <input
+                                type="checkbox"
+                                className="appearance-none rounded border border-colorW w-4 h-4 mt-1 checked:bg-colorG"
+                            />
+                            </span>
+                            4 étoiles
+                        </label>
+                        <label className="flex items-center gap-2 text-colorW text-sm">
+                            <span>
+                            <input
+                                type="checkbox"
+                                className="appearance-none rounded border border-colorW w-4 h-4 mt-1 checked:bg-colorG"
+                            />
+                            </span>
+                            3 étoiles
+                        </label>
                     </div>
 
                     <button 

@@ -27,6 +27,7 @@ import PageConditions from './views/PageConditions.jsx';
 import PageMentionsLegales from './views/PageMentionsLegales.jsx';
 import PageAccueil from './views/PageAccueil.jsx';
 import PageAffichageVols from './views/PageAffichageVols.jsx';
+import PageFavoris from './views/PageFavoris.jsx';
 
 
 
@@ -65,8 +66,8 @@ function App() {
           />
           <Route path="/SearchBar" element={<SearchBar />} />
 
-          <Route path='/MentionsLegales' element={<MentionsLegales />}/>
-          <Route path='/Conditions' element={<Conditions />}/>
+          <Route path="/MentionsLegales" element={<MentionsLegales />}/>
+          <Route path="/Conditions" element={<Conditions />}/>
           <Route path="/Gallery" element={<Gallery />} />
 
           <Route path="/MentionsLegales" element={<MentionsLegales />} />
@@ -88,6 +89,7 @@ function App() {
           <Route path="/PageMentionsLegales" element={<PageMentionsLegales />} />
           <Route path="/PageAccueil" element={<PageAccueil />} />
           <Route path="/PageAffichageVols" element={<PageAffichageVols />} />
+          <Route path="/PageFavoris" element={<PageFavoris />} />
 
         </Routes>
       </div>
