@@ -403,15 +403,6 @@ function SearchBar() {
                 <div className="flex flex-col  md:flex-row gap-4 justify-center w-full mt-4">
                     <div className='flex flex-col justify-center items-center md:flex-row md:gap-4'>
                         <p className='text-colorW ju'>Filtres populaires :</p>
-                            <label className="flex items-center gap-2 text-colorW text-sm">
-                            <span>
-                            <input
-                                type="checkbox"
-                                className="appearance-none rounded border border-colorW w-4 h-4 mt-1 checked:bg-colorG"
-                            />
-                            </span>
-                            Vols directs
-                        </label>
                         <label className="flex items-center gap-2 text-colorW text-sm">
                             <span>
                             <input
