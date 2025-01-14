@@ -2,8 +2,8 @@
 export const FLIGHTS_API_CONFIG = {
     baseUrl: 'https://test.api.amadeus.com/v2/shopping/flight-offers',
     defaultParams: {
-        adults: 1,
-        max: 10  // Nombre maximum de résultats
+        adults: 1,  // Ensure at least 1 adult
+        max: 15 // Limit the number of results to 15
     }
 };
 
@@ -19,6 +19,11 @@ const fetchFlightsApi = async (origin, destination, departureDate, options = {})
       ...FLIGHTS_API_CONFIG.defaultParams,
       ...options
     });
+
+    // Add returnDate if provided
+    if (options.returnDate) {
+      params.append('returnDate', options.returnDate);
+    }
 
     const url = `${FLIGHTS_API_CONFIG.baseUrl}?${params}`;
 
