@@ -1,0 +1,3738 @@
+[
+    {
+      "airportCode": "ATL",
+      "airportName": "HARTSFIELD-JACKSON INT",
+      "cityCode": "ATL",
+      "cityName": "ATLANTA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LAX",
+      "airportName": "LOS ANGELES INTL",
+      "cityCode": "LAX",
+      "cityName": "LOS ANGELES",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "IST",
+      "airportName": "ISTANBUL AIRPORT",
+      "cityCode": "IST",
+      "cityName": "ISTANBUL",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "ANC",
+      "airportName": "TED STEVENS INTL",
+      "cityCode": "ANC",
+      "cityName": "ANCHORAGE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MAD",
+      "airportName": "ADOLFO SUAREZ BARAJAS",
+      "cityCode": "MAD",
+      "cityName": "MADRID",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "PHX",
+      "airportName": "SKY HARBOR INTL",
+      "cityCode": "PHX",
+      "cityName": "PHOENIX",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BCN",
+      "airportName": "AIRPORT",
+      "cityCode": "BCN",
+      "cityName": "BARCELONA",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "SIA",
+      "airportName": "XIGUAN",
+      "cityCode": "SIA",
+      "cityName": "XI AN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "XIY",
+      "airportName": "XIANYANG INTL",
+      "cityCode": "SIA",
+      "cityName": "XI AN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "SZX",
+      "airportName": "BAO AN INTL",
+      "cityCode": "SZX",
+      "cityName": "SHENZHEN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "MAN",
+      "airportName": "MANCHESTER AIRPORT",
+      "cityCode": "MAN",
+      "cityName": "MANCHESTER",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "BET",
+      "airportName": "BETHEL AIRPORT",
+      "cityCode": "BET",
+      "cityName": "BETHEL",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FAI",
+      "airportName": "FAIRBANKS INTL",
+      "cityCode": "FAI",
+      "cityName": "FAIRBANKS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AYT",
+      "airportName": "ANTALYA",
+      "cityCode": "AYT",
+      "cityName": "ANTALYA",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "AGP",
+      "airportName": "MALAGA AIRPORT",
+      "cityCode": "AGP",
+      "cityName": "MALAGA",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "ANK",
+      "airportName": "ETIMESGUT",
+      "cityCode": "ANK",
+      "cityName": "ANKARA",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "ESB",
+      "airportName": "ESENBOGA",
+      "cityCode": "ANK",
+      "cityName": "ANKARA",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "NCE",
+      "airportName": "COTE D AZUR",
+      "cityCode": "NCE",
+      "cityName": "NICE",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "EDI",
+      "airportName": "AIRPORT",
+      "cityCode": "EDI",
+      "cityName": "EDINBURGH",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "AUS",
+      "airportName": "AUSTIN-BERGSTROM INTL",
+      "cityCode": "AUS",
+      "cityName": "AUSTIN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ALC",
+      "airportName": "ALICANTE AIRPORT",
+      "cityCode": "ALC",
+      "cityName": "ALICANTE",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "ADB",
+      "airportName": "ADNAN MENDERES",
+      "cityCode": "IZM",
+      "cityName": "IZMIR",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "STR",
+      "airportName": "STUTTGART AIRPORT",
+      "cityCode": "STR",
+      "cityName": "STUTTGART",
+      "countryName": "GERMANY",
+      "countryCode": "DE"
+    },
+    {
+      "airportCode": "BGY",
+      "airportName": "BERGAMO ORIO AL SERIO",
+      "cityCode": "MIL",
+      "cityName": "MILAN",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "MSY",
+      "airportName": "LOUIS ARMSTRONG INTL",
+      "cityCode": "MSY",
+      "cityName": "NEW ORLEANS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "JNU",
+      "airportName": "JUNEAU INTL",
+      "cityCode": "JNU",
+      "cityName": "JUNEAU",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OME",
+      "airportName": "NOME",
+      "cityCode": "OME",
+      "cityName": "NOME",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SNA",
+      "airportName": "JOHN WAYNE",
+      "cityCode": "SNA",
+      "cityName": "SANTA ANA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OTZ",
+      "airportName": "RALPH WIEN MEMORIAL",
+      "cityCode": "OTZ",
+      "cityName": "KOTZEBUE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "TIJ",
+      "airportName": "A.L. RODRIGUEZ INTL",
+      "cityCode": "TIJ",
+      "cityName": "TIJUANA",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "ADQ",
+      "airportName": "KODIAK AIRPORT",
+      "cityCode": "ADQ",
+      "cityName": "KODIAK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KTN",
+      "airportName": "KETCHIKAN INTL",
+      "cityCode": "KTN",
+      "cityName": "KETCHIKAN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SAT",
+      "airportName": "SAN ANTONIO INTL",
+      "cityCode": "SAT",
+      "cityName": "SAN ANTONIO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "NAP",
+      "airportName": "CAPODICHINO AIRPORT",
+      "cityCode": "NAP",
+      "cityName": "NAPLES",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "DUT",
+      "airportName": "DRIFTWOOD BAY AFS",
+      "cityCode": "DUT",
+      "cityName": "DUTCH HARBOR",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ANI",
+      "airportName": "ANIAK",
+      "cityCode": "ANI",
+      "cityName": "ANIAK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AMD",
+      "airportName": "S.VALLABHBHAI PATEL",
+      "cityCode": "AMD",
+      "cityName": "AHMEDABAD",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "GAU",
+      "airportName": "GOPINATH BORDOLOI INTL",
+      "cityCode": "GAU",
+      "cityName": "GUWAHATI",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "LCY",
+      "airportName": "CITY AIRPORT",
+      "cityCode": "LON",
+      "cityName": "LONDON",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "ACE",
+      "airportName": "LANZAROTE",
+      "cityCode": "ACE",
+      "cityName": "LANZAROTE",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "NAY",
+      "airportName": "NANYUAN APT",
+      "cityCode": "BJS",
+      "cityName": "BEIJING",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "ABQ",
+      "airportName": "INTERNATIONAL SUNPORT",
+      "cityCode": "ABQ",
+      "cityName": "ALBUQUERQUE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "VLC",
+      "airportName": "VALENCIA AIRPORT",
+      "cityCode": "VLC",
+      "cityName": "VALENCIA",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "ADA",
+      "airportName": "SAKIRPASA",
+      "cityCode": "ADA",
+      "cityName": "ADANA",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "NQT",
+      "airportName": "NOTTINGHAM AIRPORT",
+      "cityCode": "NQT",
+      "cityName": "NOTTINGHAM",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "AKN",
+      "airportName": "KING SALMON",
+      "cityCode": "AKN",
+      "cityName": "KING SALMON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "DLG",
+      "airportName": "DILLINGHAM",
+      "cityCode": "DLG",
+      "cityName": "DILLINGHAM",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "NTE",
+      "airportName": "ATLANTIQUE",
+      "cityCode": "NTE",
+      "cityName": "NANTES",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "BUR",
+      "airportName": "BOB HOPE APT",
+      "cityCode": "BUR",
+      "cityName": "BURBANK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BRW",
+      "airportName": "W.POST W.ROGERS MEM",
+      "cityCode": "BRW",
+      "cityName": "BARROW",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ABZ",
+      "airportName": "DYCE",
+      "cityCode": "ABZ",
+      "cityName": "ABERDEEN",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "ILI",
+      "airportName": "ILIAMNA",
+      "cityCode": "ILI",
+      "cityName": "ILIAMNA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OMA",
+      "airportName": "EPPLEY AIRFIELD",
+      "cityCode": "OMA",
+      "cityName": "OMAHA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ONT",
+      "airportName": "ONTARIO INTERNATIONAL",
+      "cityCode": "LAX",
+      "cityName": "LOS ANGELES",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BIO",
+      "airportName": "BILBAO AIRPORT",
+      "cityCode": "BIO",
+      "cityName": "BILBAO",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "NUE",
+      "airportName": "NUREMBERG AIRPORT",
+      "cityCode": "NUE",
+      "cityName": "NUREMBERG",
+      "countryName": "GERMANY",
+      "countryCode": "DE"
+    },
+    {
+      "airportCode": "SVQ",
+      "airportName": "SEVILLA AIRPORT",
+      "cityCode": "SVQ",
+      "cityName": "SEVILLA",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "LBA",
+      "airportName": "AIRPORT",
+      "cityCode": "LBA",
+      "cityName": "LEEDS BRADFORD",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "BXN",
+      "airportName": "IMSIK AIRPORT",
+      "cityCode": "BJV",
+      "cityName": "BODRUM",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "BOI",
+      "airportName": "AIR TERM GOWEN FLD",
+      "cityCode": "BOI",
+      "cityName": "BOISE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ORD",
+      "airportName": "O HARE INTERNATIONAL",
+      "cityCode": "CHI",
+      "cityName": "CHICAGO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PEK",
+      "airportName": "CAPITAL INTL",
+      "cityCode": "BJS",
+      "cityName": "BEIJING",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "CDG",
+      "airportName": "CHARLES DE GAULLE",
+      "cityCode": "PAR",
+      "cityName": "PARIS",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "DEN",
+      "airportName": "DENVER INTERNATIONAL",
+      "cityCode": "DEN",
+      "cityName": "DENVER",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MEX",
+      "airportName": "BENITO JUAREZ INTL",
+      "cityCode": "MEX",
+      "cityName": "MEXICO CITY",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "SFO",
+      "airportName": "SAN FRANCISCO INTL",
+      "cityCode": "SFO",
+      "cityName": "SAN FRANCISCO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PVG",
+      "airportName": "PUDONG INTL",
+      "cityCode": "SHA",
+      "cityName": "SHANGHAI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "CLT",
+      "airportName": "DOUGLAS INTL",
+      "cityCode": "CLT",
+      "cityName": "CHARLOTTE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CAN",
+      "airportName": "BAIYUN INTL",
+      "cityCode": "CAN",
+      "cityName": "GUANGZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "ORL",
+      "airportName": "EXECUTIVE",
+      "cityCode": "ORL",
+      "cityName": "ORLANDO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "EWR",
+      "airportName": "NEWARK LIBERTY INTL",
+      "cityCode": "NYC",
+      "cityName": "NEW YORK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BOS",
+      "airportName": "EDWARD L LOGAN INTL",
+      "cityCode": "BOS",
+      "cityName": "BOSTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PMI",
+      "airportName": "PALMA DE MALLORCA",
+      "cityCode": "PMI",
+      "cityName": "PALMA DE MALLORCA",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "DFW",
+      "airportName": "DALLAS FT WORTH INTL",
+      "cityCode": "DFW",
+      "cityName": "DALLAS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FRA",
+      "airportName": "FRANKFURT INTL",
+      "cityCode": "FRA",
+      "cityName": "FRANKFURT",
+      "countryName": "GERMANY",
+      "countryCode": "DE"
+    },
+    {
+      "airportCode": "JFK",
+      "airportName": "JOHN F KENNEDY INTL",
+      "cityCode": "NYC",
+      "cityName": "NEW YORK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MIA",
+      "airportName": "MIAMI INTL",
+      "cityCode": "MIA",
+      "cityName": "MIAMI",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FCO",
+      "airportName": "FIUMICINO",
+      "cityCode": "ROM",
+      "cityName": "ROME",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "MCO",
+      "airportName": "ORLANDO INTL",
+      "cityCode": "ORL",
+      "cityName": "ORLANDO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ORY",
+      "airportName": "ORLY",
+      "cityCode": "PAR",
+      "cityName": "PARIS",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "FLL",
+      "airportName": "FLL INTL",
+      "cityCode": "FLL",
+      "cityName": "FT LAUDERDALE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "TPA",
+      "airportName": "TAMPA INTL",
+      "cityCode": "TPA",
+      "cityName": "TAMPA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "DAL",
+      "airportName": "LOVE FIELD",
+      "cityCode": "DFW",
+      "cityName": "DALLAS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LYS",
+      "airportName": "SAINT EXUPERY",
+      "cityCode": "LYS",
+      "cityName": "LYON",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "MRS",
+      "airportName": "PROVENCE",
+      "cityCode": "MRS",
+      "cityName": "MARSEILLE",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "TLS",
+      "airportName": "BLAGNAC",
+      "cityCode": "TLS",
+      "cityName": "TOULOUSE",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "RSW",
+      "airportName": "SOUTHWEST FLORIDA INTL",
+      "cityCode": "FMY",
+      "cityName": "FORT MYERS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FMY",
+      "airportName": "PAGE FIELD",
+      "cityCode": "FMY",
+      "cityName": "FORT MYERS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CKG",
+      "airportName": "JIANGBEI INTL",
+      "cityCode": "CKG",
+      "cityName": "CHONGQING",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "TAO",
+      "airportName": "JIAODONG INTERNATIONAL",
+      "cityCode": "TAO",
+      "cityName": "QINGDAO",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "SJC",
+      "airportName": "NORMAN Y. MINETA INTL",
+      "cityCode": "SJC",
+      "cityName": "SAN JOSE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "TNA",
+      "airportName": "YAOQIANG INTL",
+      "cityCode": "TNA",
+      "cityName": "JINAN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "CMH",
+      "airportName": "JOHN GLENN INTL",
+      "cityCode": "CMH",
+      "cityName": "COLUMBUS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KMG",
+      "airportName": "CHANGSHUI INTL",
+      "cityCode": "KMG",
+      "cityName": "KUNMING",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "HNL",
+      "airportName": "DANIEL K INOUYE INTL",
+      "cityCode": "HNL",
+      "cityName": "HONOLULU",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BLR",
+      "airportName": "KEMPEGOWDA INTL",
+      "cityCode": "BLR",
+      "cityName": "BENGALURU",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "CCU",
+      "airportName": "SUBHAS CHANDRA BOSE",
+      "cityCode": "CCU",
+      "cityName": "KOLKATA",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "KWE",
+      "airportName": "LONGDONGBAO INTL",
+      "cityCode": "KWE",
+      "cityName": "GUIYANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "MCI",
+      "airportName": "KANSAS CITY INTL",
+      "cityCode": "MKC",
+      "cityName": "KANSAS CITY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OGG",
+      "airportName": "KAHULUI",
+      "cityCode": "OGG",
+      "cityName": "KAHULUI",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "COK",
+      "airportName": "KOCHI INTERNATIONAL",
+      "cityCode": "COK",
+      "cityName": "KOCHI",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "CVG",
+      "airportName": "NORTHERN KENTUCKY INTL",
+      "cityCode": "CVG",
+      "cityName": "CINCINNATI",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KHN",
+      "airportName": "CHANGBEI INTL",
+      "cityCode": "KHN",
+      "cityName": "NANCHANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "KWL",
+      "airportName": "LIANGJIANG INTL",
+      "cityCode": "KWL",
+      "cityName": "GUILIN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "KOA",
+      "airportName": "KEAHOLE",
+      "cityCode": "KOA",
+      "cityName": "KONA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KBV",
+      "airportName": "KRABI",
+      "cityCode": "KBV",
+      "cityName": "KRABI",
+      "countryName": "THAILAND",
+      "countryCode": "TH"
+    },
+    {
+      "airportCode": "TRV",
+      "airportName": "THIRUVANANTHAPURAM",
+      "cityCode": "TRV",
+      "cityName": "THIRUVANANTHAPURAM",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "KQA",
+      "airportName": "AKUTAN",
+      "cityCode": "KQA",
+      "cityName": "AKUTAN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SDF",
+      "airportName": "INTL-STANDIFORD FLD",
+      "cityCode": "SDF",
+      "cityName": "LOUISVILLE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CCJ",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "CCJ",
+      "cityName": "KOZHIKODE",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "KNK",
+      "airportName": "KOKHANOK",
+      "cityCode": "KNK",
+      "cityName": "KOKHANOK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KLG",
+      "airportName": "KALSKAG",
+      "cityCode": "KLG",
+      "cityName": "KALSKAG",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KOI",
+      "airportName": "KIRKWALL",
+      "cityCode": "KOI",
+      "cityName": "KIRKWALL",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "KSM",
+      "airportName": "ST MARY'S",
+      "cityCode": "KSM",
+      "cityName": "ST MARY'S",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ENA",
+      "airportName": "KENAI MUNICIPAL",
+      "cityCode": "ENA",
+      "cityName": "KENAI",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KHG",
+      "airportName": "KASHI",
+      "cityCode": "KHG",
+      "cityName": "KASHI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "USM",
+      "airportName": "KO SAMUI",
+      "cityCode": "USM",
+      "cityName": "KO SAMUI",
+      "countryName": "THAILAND",
+      "countryCode": "TH"
+    },
+    {
+      "airportCode": "ASR",
+      "airportName": "ERKILET",
+      "cityCode": "ASR",
+      "cityName": "KAYSERI",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "LAS",
+      "airportName": "HARRY REID INTL",
+      "cityCode": "LAS",
+      "cityName": "LAS VEGAS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LGA",
+      "airportName": "LAGUARDIA",
+      "cityCode": "NYC",
+      "cityName": "NEW YORK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "DCA",
+      "airportName": "R REAGAN NAT",
+      "cityCode": "WAS",
+      "cityName": "WASHINGTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "NKG",
+      "airportName": "LUKOU INTL",
+      "cityCode": "NKG",
+      "cityName": "NANJING",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "BNA",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "BNA",
+      "cityName": "NASHVILLE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PDX",
+      "airportName": "PORTLAND INTL",
+      "cityCode": "PDX",
+      "cityName": "PORTLAND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OAK",
+      "airportName": "OAKLAND INTL",
+      "cityCode": "OAK",
+      "cityName": "OAKLAND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CLE",
+      "airportName": "HOPKINS INT",
+      "cityCode": "CLE",
+      "cityName": "CLEVELAND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PVR",
+      "airportName": "G.DIAZ ORDAZ INTL",
+      "cityCode": "PVR",
+      "cityName": "PUERTO VALLARTA",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "SFB",
+      "airportName": "SANFORD INTL",
+      "cityCode": "ORL",
+      "cityName": "ORLANDO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OKC",
+      "airportName": "WILL ROGERS WORLD",
+      "cityCode": "OKC",
+      "cityName": "OKLAHOMA CITY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OLB",
+      "airportName": "COSTA SMERALDA",
+      "cityCode": "OLB",
+      "cityName": "OLBIA",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "ORF",
+      "airportName": "NORFOLK INTL",
+      "cityCode": "ORF",
+      "cityName": "NORFOLK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "TUL",
+      "airportName": "TULSA INTL",
+      "cityCode": "TUL",
+      "cityName": "TULSA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OOK",
+      "airportName": "TOKSOOK BAY",
+      "cityCode": "OOK",
+      "cityName": "TOKSOOK BAY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "GZT",
+      "airportName": "OGUZELI",
+      "cityCode": "GZT",
+      "cityName": "GAZIANTEP",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "DAY",
+      "airportName": "JAMES M COX INTL",
+      "cityCode": "DAY",
+      "cityName": "DAYTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CEN",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "CEN",
+      "cityName": "CIUDAD OBREGON",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "BBI",
+      "airportName": "BIJU PATNAIK",
+      "cityCode": "BBI",
+      "cityName": "BHUBANESHWAR",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "ORT",
+      "airportName": "NORTHWAY",
+      "cityCode": "ORT",
+      "cityName": "NORTHWAY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CAK",
+      "airportName": "REGIONAL",
+      "cityCode": "CAK",
+      "cityName": "AKRON CANTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "IOM",
+      "airportName": "RONALDSWAY",
+      "cityCode": "IOM",
+      "cityName": "ISLE OF MAN",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "DSN",
+      "airportName": "EJIN HORO",
+      "cityCode": "DSN",
+      "cityName": "ORDOS",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "OVD",
+      "airportName": "ASTURIAS",
+      "cityCode": "OVD",
+      "cityName": "ASTURIAS",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "OBU",
+      "airportName": "KOBUK",
+      "cityCode": "OBU",
+      "cityName": "KOBUK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "EUG",
+      "airportName": "MAHLON SWEET FIELD",
+      "cityCode": "EUG",
+      "cityName": "EUGENE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OLH",
+      "airportName": "OLD HARBOR",
+      "cityCode": "OLH",
+      "cityName": "OLD HARBOR",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FMO",
+      "airportName": "MUENSTER/OSNABRUECK",
+      "cityCode": "FMO",
+      "cityName": "MUENSTER/OSNABRUECK",
+      "countryName": "GERMANY",
+      "countryCode": "DE"
+    },
+    {
+      "airportCode": "OAX",
+      "airportName": "XOXOCOTLAN INTL",
+      "cityCode": "OAX",
+      "cityName": "OAXACA",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "OGU",
+      "airportName": "ORDU GIRESUN",
+      "cityCode": "OGU",
+      "cityName": "ORDU GIRESUN",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "MFR",
+      "airportName": "ROGUE VALLEY INTL",
+      "cityCode": "MFR",
+      "cityName": "MEDFORD",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ISC",
+      "airportName": "ST MARYS",
+      "cityCode": "ISC",
+      "cityName": "ISLES OF SCILLY",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "RDM",
+      "airportName": "ROBERTS FIELD",
+      "cityCode": "RDM",
+      "cityName": "REDMOND/BEND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ORV",
+      "airportName": "R.(BOB) CURTIS MEM.",
+      "cityCode": "ORV",
+      "cityName": "NOORVIK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ORI",
+      "airportName": "PORT LIONS",
+      "cityCode": "ORI",
+      "cityName": "PORT LIONS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LUK",
+      "airportName": "MUNICIPAL LUNKEN FLD",
+      "cityCode": "CVG",
+      "cityName": "CINCINNATI",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "GTP",
+      "airportName": "GRANTS PASS",
+      "cityCode": "GTP",
+      "cityName": "GRANTS PASS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MLB",
+      "airportName": "MELBOURNE ORLANDO INTL",
+      "cityCode": "MLB",
+      "cityName": "MELBOURNE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ESD",
+      "airportName": "ORCAS ISLAND",
+      "cityCode": "ESD",
+      "cityName": "EASTSOUND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PEG",
+      "airportName": "ST. FRANCIS OF ASSISI",
+      "cityCode": "PEG",
+      "cityName": "PERUGIA",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "ZLO",
+      "airportName": "PLAYA DE ORO INTL",
+      "cityCode": "ZLO",
+      "cityName": "MANZANILLO",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "TOL",
+      "airportName": "EXPRESS",
+      "cityCode": "TOL",
+      "cityName": "TOLEDO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LCK",
+      "airportName": "RICKENBACKER INTL",
+      "cityCode": "CMH",
+      "cityName": "COLUMBUS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KOZ",
+      "airportName": "OUZINKIE",
+      "cityCode": "KOZ",
+      "cityName": "OUZINKIE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SBP",
+      "airportName": "SAN LUIS COUNTY RGNL",
+      "cityCode": "SBP",
+      "cityName": "SAN LUIS OBISPO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OAJ",
+      "airportName": "A J ELLIS",
+      "cityCode": "OAJ",
+      "cityName": "JACKSONVILLE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OHE",
+      "airportName": "GULIAN",
+      "cityCode": "OHE",
+      "cityName": "MOHE",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "BKL",
+      "airportName": "BURKE LAKEFRONT",
+      "cityCode": "CLE",
+      "cityName": "CLEVELAND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PKB",
+      "airportName": "MID-OHIO VALLEY RGNL",
+      "cityCode": "PKB",
+      "cityName": "PARKERSBURG",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CPE",
+      "airportName": "A.ACUNA ONGAY INTL",
+      "cityCode": "CPE",
+      "cityName": "CAMPECHE",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "SWO",
+      "airportName": "REGIONAL",
+      "cityCode": "SWO",
+      "cityName": "STILLWATER",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "YNG",
+      "airportName": "REGIONAL",
+      "cityCode": "YNG",
+      "cityName": "YOUNGSTOWN WARREN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CMI",
+      "airportName": "UNIVERSITY OF ILLINOIS",
+      "cityCode": "CMI",
+      "cityName": "CHAMPAIGN URBANA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ONL",
+      "airportName": "MUNICIPAL",
+      "cityCode": "ONL",
+      "cityName": "ONEILL",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OUK",
+      "airportName": "OUT SKERRIES",
+      "cityCode": "OUK",
+      "cityName": "OUT SKERRIES",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "RHI",
+      "airportName": "ONEIDA COUNTY",
+      "cityCode": "RHI",
+      "cityName": "RHINELANDER",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LAW",
+      "airportName": "REGIONAL",
+      "cityCode": "LAW",
+      "cityName": "LAWTON FORT SILL",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SBY",
+      "airportName": "WICOMICO REGIONAL",
+      "cityCode": "SBY",
+      "cityName": "SALISBURY/OCEAN CITY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ORH",
+      "airportName": "REGIONAL",
+      "cityCode": "ORH",
+      "cityName": "WORCESTER",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OGD",
+      "airportName": "HINCKLEY",
+      "cityCode": "OGD",
+      "cityName": "OGDEN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OGS",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "OGS",
+      "cityName": "OGDENSBURG",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KOY",
+      "airportName": "OLGA BAY SPB",
+      "cityCode": "KOY",
+      "cityName": "OLGA BAY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OWB",
+      "airportName": "DAVIESS COUNTY",
+      "cityCode": "OWB",
+      "cityName": "OWENSBORO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OTH",
+      "airportName": "SOUTHWEST OREGON RGNL",
+      "cityCode": "OTH",
+      "cityName": "NORTH BEND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ONQ",
+      "airportName": "CAYCUMA",
+      "cityCode": "ONQ",
+      "cityName": "ZONGULDAK",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "OLF",
+      "airportName": "L.M. CLAYTON",
+      "cityCode": "OLF",
+      "cityName": "WOLF POINT",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PTK",
+      "airportName": "OAKLAND COUNTY INTL",
+      "cityCode": "PTK",
+      "cityName": "PONTIAC",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LMT",
+      "airportName": "KLAMATH FALLS AIRPORT",
+      "cityCode": "LMT",
+      "cityName": "KLAMATH FALLS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PDT",
+      "airportName": "EASTERN OREGON RGNL",
+      "cityCode": "PDT",
+      "cityName": "PENDLETON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OSH",
+      "airportName": "WITTMAN REGIONAL",
+      "cityCode": "OSH",
+      "cityName": "OSHKOSH",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OFF",
+      "airportName": "OFFUTT AFB",
+      "cityCode": "OMA",
+      "cityName": "OMAHA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "UOX",
+      "airportName": "UNIVERSITY OXFORD",
+      "cityCode": "UOX",
+      "cityName": "OXFORD",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "OCF",
+      "airportName": "INTL (JIM TAYLOR FLD)",
+      "cityCode": "OCF",
+      "cityName": "OCALA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "TIK",
+      "airportName": "TINKER AFB",
+      "cityCode": "OKC",
+      "cityName": "OKLAHOMA CITY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "HRT",
+      "airportName": "LINTON ON OUSE RAF",
+      "cityCode": "HRT",
+      "cityName": "HARROGATE",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "ADM",
+      "airportName": "MUNICIPAL",
+      "cityCode": "ADM",
+      "cityName": "ARDMORE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ADT",
+      "airportName": "MUNICIPAL",
+      "cityCode": "ADT",
+      "cityName": "ADA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AHD",
+      "airportName": "DOWNTOWN EXECUTIVE",
+      "cityCode": "ADM",
+      "cityName": "ARDMORE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AHM",
+      "airportName": "MUNICIPAL",
+      "cityCode": "AHM",
+      "cityName": "ASHLAND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AIZ",
+      "airportName": "LEE C FINE MEMORIAL",
+      "cityCode": "AIZ",
+      "cityName": "KAISER LAKE OZARK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AKC",
+      "airportName": "AKRON FULTON INTL",
+      "cityCode": "CAK",
+      "cityName": "AKRON CANTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MSP",
+      "airportName": "ST PAUL INTL",
+      "cityCode": "MSP",
+      "cityName": "MINNEAPOLIS/ST PAUL",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PHL",
+      "airportName": "PHILADELPHIA INTL",
+      "cityCode": "PHL",
+      "cityName": "PHILADELPHIA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "HKT",
+      "airportName": "PHUKET INTL",
+      "cityCode": "HKT",
+      "cityName": "PHUKET",
+      "countryName": "THAILAND",
+      "countryCode": "TH"
+    },
+    {
+      "airportCode": "HOU",
+      "airportName": "WILLIAM P HOBBY",
+      "cityCode": "HOU",
+      "cityName": "HOUSTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SYX",
+      "airportName": "PHOENIX INTL",
+      "cityCode": "SYX",
+      "cityName": "SANYA",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "PIT",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "PIT",
+      "cityName": "PITTSBURGH",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "VCE",
+      "airportName": "MARCO POLO",
+      "cityCode": "VCE",
+      "cityName": "VENICE",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "PBI",
+      "airportName": "PALM BEACH INTL",
+      "cityCode": "PBI",
+      "cityName": "WEST PALM BEACH",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PNQ",
+      "airportName": "LOHEGAON",
+      "cityCode": "PNQ",
+      "cityName": "PUNE",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "PSA",
+      "airportName": "GALILEO GALILEI",
+      "cityCode": "PSA",
+      "cityName": "PISA",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "YNT",
+      "airportName": "PENGLAI INTL",
+      "cityCode": "YNT",
+      "cityName": "YANTAI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "PMO",
+      "airportName": "PUNTA RAISI",
+      "cityCode": "PMO",
+      "cityName": "PALERMO",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "BRI",
+      "airportName": "PALESE",
+      "cityCode": "BRI",
+      "cityName": "BARI",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "BVA",
+      "airportName": "BEAUVAIS TILLE",
+      "cityCode": "PAR",
+      "cityName": "PARIS",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "PVD",
+      "airportName": "T F GREEN STATE APT",
+      "cityCode": "PVD",
+      "cityName": "PROVIDENCE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PIE",
+      "airportName": "ST.PETE-CLEARWATER INT",
+      "cityCode": "TPA",
+      "cityName": "TAMPA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ELP",
+      "airportName": "EL PASO INTL",
+      "cityCode": "ELP",
+      "cityName": "EL PASO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "HMO",
+      "airportName": "I.PESQUEIRA GARCIA",
+      "cityCode": "HMO",
+      "cityName": "HERMOSILLO",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "LTQ",
+      "airportName": "LE TOUQUET",
+      "cityCode": "LTQ",
+      "cityName": "LE TOUQUET PARIS PLAGE",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "GAL",
+      "airportName": "EDWARD G PIKTA SR",
+      "cityCode": "GAL",
+      "cityName": "GALENA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MSC",
+      "airportName": "FALCON FIELD",
+      "cityCode": "PHX",
+      "cityName": "PHOENIX",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AZA",
+      "airportName": "MESA GATEWAY",
+      "cityCode": "PHX",
+      "cityName": "PHOENIX",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PSP",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "PSP",
+      "cityName": "PALM SPRINGS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SCC",
+      "airportName": "DEADHORSE",
+      "cityCode": "SCC",
+      "cityName": "PRUDHOE BAY/DEADHORSE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PTA",
+      "airportName": "PORT ALSWORTH",
+      "cityCode": "PTA",
+      "cityName": "PORT ALSWORTH",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FLR",
+      "airportName": "PERETOLA",
+      "cityCode": "FLR",
+      "cityName": "FLORENCE",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "PDB",
+      "airportName": "PEDRO BAY",
+      "cityCode": "PDB",
+      "cityName": "PEDRO BAY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PGD",
+      "airportName": "PUNTA GORDA",
+      "cityCode": "PGD",
+      "cityName": "PUNTA GORDA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "JJN",
+      "airportName": "JINJIANG",
+      "cityCode": "JJN",
+      "cityName": "QUANZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "KWN",
+      "airportName": "QUINHAGAK",
+      "cityCode": "KWN",
+      "cityName": "QUINHAGAK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "QRO",
+      "airportName": "INTERCONTINENTAL",
+      "cityCode": "QRO",
+      "cityName": "QUERETARO",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "MLI",
+      "airportName": "QUAD CITY INTL",
+      "cityCode": "MLI",
+      "cityName": "MOLINE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BAR",
+      "airportName": "BO AO",
+      "cityCode": "BAR",
+      "cityName": "QIONGHAI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "BPE",
+      "airportName": "BEIDAIHE",
+      "cityCode": "BPE",
+      "cityName": "QINHUANGDAO",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "XIC",
+      "airportName": "QINGSHAN",
+      "cityCode": "XIC",
+      "cityName": "XICHANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "IQN",
+      "airportName": "QINGYANG",
+      "cityCode": "IQN",
+      "cityName": "QINGYANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "KCA",
+      "airportName": "QUICI",
+      "cityCode": "KCA",
+      "cityName": "KUQA",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "NDG",
+      "airportName": "SANJIAZI",
+      "cityCode": "NDG",
+      "cityName": "QIQIHAR",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "LFQ",
+      "airportName": "QIAOLI",
+      "cityCode": "LFQ",
+      "cityName": "LINFEN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "JIQ",
+      "airportName": "QIANJIANG WULINGSHAN",
+      "cityCode": "JIQ",
+      "cityName": "QIANJIANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "BPX",
+      "airportName": "BAMDA/BANGDA",
+      "cityCode": "BPX",
+      "cityName": "QAMDO/CHANGDU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "JUZ",
+      "airportName": "QUZHOU",
+      "cityCode": "JUZ",
+      "cityName": "QUZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "UIP",
+      "airportName": "PLUGUFFAN",
+      "cityCode": "UIP",
+      "cityName": "QUIMPER",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "NLD",
+      "airportName": "QUETZALCOATL INTL",
+      "cityCode": "NLD",
+      "cityName": "NUEVO LAREDO",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "IQM",
+      "airportName": "QIEMO",
+      "cityCode": "IQM",
+      "cityName": "QIEMO",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "UIN",
+      "airportName": "REGIONAL (BALDWIN FLD)",
+      "cityCode": "UIN",
+      "cityName": "QUINCY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AXS",
+      "airportName": "QUARTZ MOUNTAIN RGNL",
+      "cityCode": "LTS",
+      "cityName": "ALTUS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "GNF",
+      "airportName": "GANSNER FIELD",
+      "cityCode": "GNF",
+      "cityName": "QUINCY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "HBQ",
+      "airportName": "HAIBEI",
+      "cityCode": "HBQ",
+      "cityName": "QILIAN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "HQQ",
+      "airportName": "HONG QIQU",
+      "cityCode": "AYN",
+      "cityName": "ANYANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "JBK",
+      "airportName": "JIANGBULAKE",
+      "cityCode": "JBK",
+      "cityName": "QITAI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "JDE",
+      "airportName": "JIANDE QIANDAOHU",
+      "cityCode": "JDE",
+      "cityName": "JIANDE",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "JLA",
+      "airportName": "QUARTZ CREEK",
+      "cityCode": "JLA",
+      "cityName": "COOPER LANDING",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "NCO",
+      "airportName": "QUONSET STATE",
+      "cityCode": "NCO",
+      "cityName": "NORTH KINGSTOWN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "NYG",
+      "airportName": "MCAF (TURNER FIELD)",
+      "cityCode": "NYG",
+      "cityName": "QUANTICO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "QAQ",
+      "airportName": "L'AQUILA",
+      "cityCode": "QAQ",
+      "cityName": "L'AQUILA",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "QCY",
+      "airportName": "RAF STATION",
+      "cityCode": "QCY",
+      "cityName": "CONINGSBY",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "HYD",
+      "airportName": "RAJIV GANDHI INTL",
+      "cityCode": "HYD",
+      "cityName": "HYDERABAD",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "RDU",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "RDU",
+      "cityName": "RALEIGH DURHAM",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CIA",
+      "airportName": "CIAMPINO",
+      "cityCode": "ROM",
+      "cityName": "ROME",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "RNO",
+      "airportName": "RENO/TAHOE INTL",
+      "cityCode": "RNO",
+      "cityName": "RENO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "JAI",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "JAI",
+      "cityName": "JAIPUR",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "SIT",
+      "airportName": "ROCKY GUTIERREZ",
+      "cityCode": "SIT",
+      "cityName": "SITKA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "RIC",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "RIC",
+      "cityName": "RICHMOND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "GRR",
+      "airportName": "GERALD R FORD INTL",
+      "cityCode": "GRR",
+      "cityName": "GRAND RAPIDS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MID",
+      "airportName": "M. CRESCENCIO REJON",
+      "cityCode": "MID",
+      "cityName": "MERIDA",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "ROC",
+      "airportName": "GREATER ROCHESTER INTL",
+      "cityCode": "ROC",
+      "cityName": "ROCHESTER",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MHT",
+      "airportName": "MANCHESTER BOSTON RGNL",
+      "cityCode": "MHT",
+      "cityName": "MANCHESTER",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LIT",
+      "airportName": "B AND H CLINTON NATL",
+      "cityCode": "LIT",
+      "cityName": "LITTLE ROCK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "VSA",
+      "airportName": "C.ROVIROSA PEREZ INTL",
+      "cityCode": "VSA",
+      "cityName": "VILLAHERMOSA",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "MSN",
+      "airportName": "DANE COUTY REGIO",
+      "cityCode": "MSN",
+      "cityName": "MADISON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CUU",
+      "airportName": "R. FIERRO VILLALOBOS",
+      "cityCode": "CUU",
+      "cityName": "CHIHUAHUA",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "ATQ",
+      "airportName": "SRI GURU RAM DASS JEE",
+      "cityCode": "ATQ",
+      "cityName": "AMRITSAR",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "CEI",
+      "airportName": "MAE FAH LUANG INTL",
+      "cityCode": "CEI",
+      "cityName": "CHIANG RAI",
+      "countryName": "THAILAND",
+      "countryCode": "TH"
+    },
+    {
+      "airportCode": "XNA",
+      "airportName": "NW ARKANSAS RGN",
+      "cityCode": "FYV",
+      "cityName": "FAYETTEVILLE SPRINGD",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PIR",
+      "airportName": "REGIONAL",
+      "cityCode": "PIR",
+      "cityName": "PIERRE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "DSA",
+      "airportName": "ROBIN HOOD",
+      "cityCode": "DSA",
+      "cityName": "DONCASTER/SHEFFIELD",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "MZT",
+      "airportName": "RAFAEL BUELNA INTL",
+      "cityCode": "MZT",
+      "cityName": "MAZATLAN",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "RPR",
+      "airportName": "SWAMI VIVEKANANDA",
+      "cityCode": "RPR",
+      "cityName": "RAIPUR",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "TAL",
+      "airportName": "RALPH M CALHUM MEM",
+      "cityCode": "TAL",
+      "cityName": "TANANA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "UBP",
+      "airportName": "UBON RATCHATHANI",
+      "cityCode": "UBP",
+      "cityName": "UBON RATCHATHANI",
+      "countryName": "THAILAND",
+      "countryCode": "TH"
+    },
+    {
+      "airportCode": "CID",
+      "airportName": "THE EASTERN IOWA",
+      "cityCode": "CID",
+      "cityName": "CEDAR RAPIDS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "RSH",
+      "airportName": "RUSSIAN MISSION",
+      "cityCode": "RSH",
+      "cityName": "RUSSIAN MISSION",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "IXR",
+      "airportName": "BIRSA MUNDA",
+      "cityCode": "IXR",
+      "cityName": "RANCHI",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "REU",
+      "airportName": "REUS",
+      "cityCode": "REU",
+      "cityName": "REUS",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "UDR",
+      "airportName": "MAHARANA PRATAP",
+      "cityCode": "UDR",
+      "cityName": "UDAIPUR",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "AVL",
+      "airportName": "ASHEVILLE REGIONAL",
+      "cityCode": "AVL",
+      "cityName": "ASHEVILLE/HENDERSONV.",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ATY",
+      "airportName": "REGIONAL",
+      "cityCode": "ATY",
+      "cityName": "WATERTOWN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MXL",
+      "airportName": "R.SANCHEZ TABOADA INT",
+      "cityCode": "MXL",
+      "cityName": "MEXICALI",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "AMA",
+      "airportName": "RICK HUSBAND INTL",
+      "cityCode": "AMA",
+      "cityName": "AMARILLO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BTR",
+      "airportName": "METROPOLITA RYAN FLD",
+      "cityCode": "BTR",
+      "cityName": "BATON ROUGE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "RNS",
+      "airportName": "ST JACQUES",
+      "cityCode": "RNS",
+      "cityName": "RENNES",
+      "countryName": "FRANCE",
+      "countryCode": "FR"
+    },
+    {
+      "airportCode": "REX",
+      "airportName": "LUCIO BLANCO INTL",
+      "cityCode": "REX",
+      "cityName": "REYNOSA",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "BHO",
+      "airportName": "RAJA BHOJ",
+      "cityCode": "BHO",
+      "cityName": "BHOPAL",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "SEA",
+      "airportName": "SEATTLE TACOMA INTL",
+      "cityCode": "SEA",
+      "cityName": "SEATTLE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BKK",
+      "airportName": "SUVARNABHUMI INTL",
+      "cityCode": "BKK",
+      "cityName": "BANGKOK",
+      "countryName": "THAILAND",
+      "countryCode": "TH"
+    },
+    {
+      "airportCode": "BOM",
+      "airportName": "CHHATRAPATI S MAHARAJ",
+      "cityCode": "BOM",
+      "cityName": "MUMBAI",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "SAW",
+      "airportName": "SABIHA GOKCEN",
+      "cityCode": "IST",
+      "cityName": "ISTANBUL",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "CTU",
+      "airportName": "SHUANGLIU INTL",
+      "cityCode": "CTU",
+      "cityName": "CHENGDU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "SLC",
+      "airportName": "SALT LAKE CITY INTL",
+      "cityCode": "SLC",
+      "cityName": "SALT LAKE CITY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SHA",
+      "airportName": "HONGQIAO INTL",
+      "cityCode": "SHA",
+      "cityName": "SHANGHAI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "STN",
+      "airportName": "STANSTED",
+      "cityCode": "LON",
+      "cityName": "LONDON",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "SAN",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "SAN",
+      "cityName": "SAN DIEGO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "STL",
+      "airportName": "LAMBERT-ST LOUIS INTL",
+      "cityCode": "STL",
+      "cityName": "ST LOUIS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SHE",
+      "airportName": "TAOXIAN INTL",
+      "cityCode": "SHE",
+      "cityName": "SHENYANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "SAC",
+      "airportName": "EXECUTIVE",
+      "cityCode": "SAC",
+      "cityName": "SACRAMENTO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SMF",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "SAC",
+      "cityName": "SACRAMENTO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "TFS",
+      "airportName": "TENERIFE SUR",
+      "cityCode": "TCI",
+      "cityName": "TENERIFE",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "SJW",
+      "airportName": "ZHENGDING INTL",
+      "cityCode": "SJW",
+      "cityName": "SHIJIAZHUANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "ZUH",
+      "airportName": "SANZAO INTL",
+      "cityCode": "ZUH",
+      "cityName": "ZHUHAI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "SJD",
+      "airportName": "LOS CABOS INTL",
+      "cityCode": "SJD",
+      "cityName": "SAN JOSE DEL CABO",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "LJG",
+      "airportName": "SANYI",
+      "cityCode": "LJG",
+      "cityName": "LIJIANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "WUX",
+      "airportName": "SUNAN SHUOFANG",
+      "cityCode": "WUX",
+      "cityName": "WUXI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "LKE",
+      "airportName": "LAKE UNION SPB",
+      "cityCode": "SEA",
+      "cityName": "SEATTLE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "GEG",
+      "airportName": "SPOKANE INTL",
+      "cityCode": "GEG",
+      "cityName": "SPOKANE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LKO",
+      "airportName": "CHAUDHARY CHARAN SINGH",
+      "cityCode": "LKO",
+      "cityName": "LUCKNOW",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "CHS",
+      "airportName": "INTERNATIONAL AFB",
+      "cityCode": "CHS",
+      "cityName": "CHARLESTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "IAH",
+      "airportName": "GEORGE BUSH INTERCONT",
+      "cityCode": "HOU",
+      "cityName": "HOUSTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "DMK",
+      "airportName": "DON MUEANG INTL",
+      "cityCode": "BKK",
+      "cityName": "BANGKOK",
+      "countryName": "THAILAND",
+      "countryCode": "TH"
+    },
+    {
+      "airportCode": "TXL",
+      "airportName": "TEGEL",
+      "cityCode": "BER",
+      "cityName": "BERLIN",
+      "countryName": "GERMANY",
+      "countryCode": "DE"
+    },
+    {
+      "airportCode": "WUH",
+      "airportName": "TIANHE INTL",
+      "cityCode": "WUH",
+      "cityName": "WUHAN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "MAA",
+      "airportName": "CHENNAI INTERNATIONAL",
+      "cityCode": "MAA",
+      "cityName": "CHENNAI",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "TSN",
+      "airportName": "BINHAI INTL",
+      "cityCode": "TSN",
+      "cityName": "TIANJIN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "HRB",
+      "airportName": "TAIPING INTL",
+      "cityCode": "HRB",
+      "cityName": "HARBIN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "DTW",
+      "airportName": "METROPOLITAN WAYNE CO",
+      "cityCode": "DTT",
+      "cityName": "DETROIT",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BWI",
+      "airportName": "BALTIMORE/WASH. INTL",
+      "cityCode": "WAS",
+      "cityName": "BALTIMORE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "IAD",
+      "airportName": "DULLES INTL",
+      "cityCode": "WAS",
+      "cityName": "WASHINGTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MDW",
+      "airportName": "MIDWAY INTERNATIONAL",
+      "cityCode": "CHI",
+      "cityName": "CHICAGO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "URC",
+      "airportName": "DIWOPU INTL",
+      "cityCode": "URC",
+      "cityName": "URUMQI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "IND",
+      "airportName": "INDIANAPOLIS INTL",
+      "cityCode": "IND",
+      "cityName": "INDIANAPOLIS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "VRN",
+      "airportName": "VILLAFRANCA",
+      "cityCode": "VRN",
+      "cityName": "VERONA",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "VNS",
+      "airportName": "LAL BAHADUR SHASTRI",
+      "cityCode": "VNS",
+      "cityName": "VARANASI",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "TSF",
+      "airportName": "TREVISO SANT ANGELO",
+      "cityCode": "VCE",
+      "cityName": "VENICE",
+      "countryName": "ITALY",
+      "countryCode": "IT"
+    },
+    {
+      "airportCode": "VTZ",
+      "airportName": "VISHAKHAPATNAM",
+      "cityCode": "VTZ",
+      "cityName": "VISHAKHAPATNAM",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "VER",
+      "airportName": "HERIBERTO JARA INTL",
+      "cityCode": "VER",
+      "cityName": "VERACRUZ",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "VAK",
+      "airportName": "CHEVAK",
+      "cityCode": "VAK",
+      "cityName": "CHEVAK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "VAN",
+      "airportName": "FERIT MELEN",
+      "cityCode": "VAN",
+      "cityName": "VAN",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "IXZ",
+      "airportName": "VEER SAVARKAR INTL",
+      "cityCode": "IXZ",
+      "cityName": "PORT BLAIR",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "BTV",
+      "airportName": "BURLINGTON INTL",
+      "cityCode": "BTV",
+      "cityName": "BURLINGTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "VEE",
+      "airportName": "VENETIE",
+      "cityCode": "VEE",
+      "cityName": "VENETIE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "VPS",
+      "airportName": "DESTIN FT WALTON BEACH",
+      "cityCode": "VPS",
+      "cityName": "DESTIN FT WALTON BEACH",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BLD",
+      "airportName": "BOULDER CITY MUNICIPAL",
+      "cityCode": "LAS",
+      "cityName": "LAS VEGAS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "VGO",
+      "airportName": "VIGO AIRPORT",
+      "cityCode": "VGO",
+      "cityName": "VIGO",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "BDQ",
+      "airportName": "VADODARA",
+      "cityCode": "BDQ",
+      "cityName": "VADODARA",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "VGA",
+      "airportName": "VIJAYAWADA",
+      "cityCode": "VGA",
+      "cityName": "VIJAYAWADA",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "KWP",
+      "airportName": "WEST POINT VILLAGE SPB",
+      "cityCode": "KWP",
+      "cityName": "WEST POINT",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ARC",
+      "airportName": "ARCTIC VILLAGE",
+      "cityCode": "ARC",
+      "cityName": "ARCTIC VILLAGE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "EGE",
+      "airportName": "EAGLE COUNTY REGIONAL",
+      "cityCode": "EGE",
+      "cityName": "VAIL EAGLE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LMM",
+      "airportName": "FED. VALLE DEL FUERTE",
+      "cityCode": "LMM",
+      "cityName": "LOS MOCHIS",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "NNG",
+      "airportName": "WUXU INTL",
+      "cityCode": "NNG",
+      "cityName": "NANNING",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "TYN",
+      "airportName": "WUSU INTL",
+      "cityCode": "TYN",
+      "cityName": "TAIYUAN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "MKE",
+      "airportName": "GENERAL MITCHELL INTL",
+      "cityCode": "MKE",
+      "cityName": "MILWAUKEE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WNZ",
+      "airportName": "YONGQIANG INTL",
+      "cityCode": "WNZ",
+      "cityName": "WENZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "WWT",
+      "airportName": "NEWTOK",
+      "cityCode": "WWT",
+      "cityName": "NEWTOK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "NRN",
+      "airportName": "WEEZE AIRPORT",
+      "cityCode": "DUS",
+      "cityName": "DUESSELDORF",
+      "countryName": "GERMANY",
+      "countryCode": "DE"
+    },
+    {
+      "airportCode": "HPN",
+      "airportName": "WESTCHESTER COUNTY",
+      "cityCode": "HPN",
+      "cityName": "WHITE PLAINS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ICT",
+      "airportName": "DWIGHT D EISENHOWER",
+      "cityCode": "ICT",
+      "cityName": "WICHITA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "IXB",
+      "airportName": "BAGDOGRA",
+      "cityCode": "IXB",
+      "cityName": "BAGDOGRA",
+      "countryName": "INDIA",
+      "countryCode": "IN"
+    },
+    {
+      "airportCode": "WRG",
+      "airportName": "WRANGELL",
+      "cityCode": "WRG",
+      "cityName": "WRANGELL",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WBB",
+      "airportName": "STEBBINS",
+      "cityCode": "WBB",
+      "cityName": "STEBBINS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WAA",
+      "airportName": "WALES",
+      "cityCode": "WAA",
+      "cityName": "WALES",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ZHA",
+      "airportName": "WUCHUAN",
+      "cityCode": "ZHA",
+      "cityName": "ZHANJIANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "WTL",
+      "airportName": "TUNTUTULIAK",
+      "cityCode": "WTL",
+      "cityName": "TUNTUTULIAK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WEH",
+      "airportName": "DASHUIBO",
+      "cityCode": "WEH",
+      "cityName": "WEIHAI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "WNA",
+      "airportName": "NAPAKIAK",
+      "cityCode": "WNA",
+      "cityName": "NAPAKIAK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "JAN",
+      "airportName": "MEDGAR W.EVERS INTL",
+      "cityCode": "JAN",
+      "cityName": "JACKSON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WMK",
+      "airportName": "SPB",
+      "cityCode": "WMK",
+      "cityName": "MEYERS CHUCK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BFI",
+      "airportName": "BOEING FLD KING CO INT",
+      "cityCode": "SEA",
+      "cityName": "SEATTLE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BLI",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "BLI",
+      "cityName": "BELLINGHAM",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PSC",
+      "airportName": "TRI CITIES",
+      "cityCode": "PSC",
+      "cityName": "PASCO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WMO",
+      "airportName": "WHITE MOUNTAIN",
+      "cityCode": "WMO",
+      "cityName": "WHITE MOUNTAIN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "JAC",
+      "airportName": "JACKSON HOLE",
+      "cityCode": "JAC",
+      "cityName": "JACKSON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FWA",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "FWA",
+      "cityName": "FORT WAYNE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "KPR",
+      "airportName": "SEA PLANE BASE",
+      "cityCode": "KPR",
+      "cityName": "PORT WILLIAMS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "EYW",
+      "airportName": "KEY WEST INTL",
+      "cityCode": "EYW",
+      "cityName": "KEY WEST",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ILM",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "ILM",
+      "cityName": "WILMINGTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WLK",
+      "airportName": "SELAWIK",
+      "cityCode": "WLK",
+      "cityName": "SELAWIK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WTK",
+      "airportName": "NOATAK",
+      "cityCode": "WTK",
+      "cityName": "NOATAK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CIH",
+      "airportName": "WANGCUN",
+      "cityCode": "CIH",
+      "cityName": "CHANGZHI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "KEH",
+      "airportName": "KENMORE AIR HARBOR SPB",
+      "cityCode": "KEH",
+      "cityName": "KENMORE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "GCW",
+      "airportName": "GRAND CANYON WEST",
+      "cityCode": "GCW",
+      "cityName": "GRAND CANYON WEST",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "RIW",
+      "airportName": "REGIONAL",
+      "cityCode": "RIW",
+      "cityName": "RIVERTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FRD",
+      "airportName": "AIRPORT",
+      "cityCode": "FRD",
+      "cityName": "FRIDAY HARBOR",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WXN",
+      "airportName": "WUQIAO",
+      "cityCode": "WXN",
+      "cityName": "WANZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "WDS",
+      "airportName": "WUDANGSHAN",
+      "cityCode": "WDS",
+      "cityName": "SHIYAN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "ATW",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "ATW",
+      "cityName": "APPLETON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "GRB",
+      "airportName": "AUSTIN-STRAUBEL INTL",
+      "cityCode": "GRB",
+      "cityName": "GREEN BAY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ROA",
+      "airportName": "REGIONAL (WOODRUM FLD)",
+      "cityCode": "ROA",
+      "cityName": "ROANOKE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WEF",
+      "airportName": "WEIFANG",
+      "cityCode": "WEF",
+      "cityName": "WEIFANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "YBP",
+      "airportName": "WULIANGYE AIRPORT",
+      "cityCode": "YBP",
+      "cityName": "YIBIN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "WUS",
+      "airportName": "WUYISHAN",
+      "cityCode": "WUS",
+      "cityName": "WUYISHAN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "WSN",
+      "airportName": "SOUTH NAKNEK",
+      "cityCode": "WSN",
+      "cityName": "SOUTH NAKNEK",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WBQ",
+      "airportName": "BEAVER",
+      "cityCode": "WBQ",
+      "cityName": "BEAVER",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CKB",
+      "airportName": "NORTH CENTRAL W.V.",
+      "cityCode": "CKB",
+      "cityName": "CLARKSBURG",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WRL",
+      "airportName": "MUNICIPAL",
+      "cityCode": "WRL",
+      "cityName": "WORLAND",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MNT",
+      "airportName": "AL WRIGHT",
+      "cityCode": "MNT",
+      "cityName": "MINTO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AVP",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "AVP",
+      "cityName": "WILKES BARRE SCRANTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FBS",
+      "airportName": "SEA PLANE BASE",
+      "cityCode": "FRD",
+      "cityName": "FRIDAY HARBOR",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CRW",
+      "airportName": "YEAGER",
+      "cityCode": "CRW",
+      "cityName": "CHARLESTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "PHF",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "PHF",
+      "cityName": "NEWPORT NEWS/WILLIAMSB",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WRY",
+      "airportName": "WESTRAY",
+      "cityCode": "WRY",
+      "cityName": "WESTRAY",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "PPW",
+      "airportName": "PAPA WESTRAY",
+      "cityCode": "PPW",
+      "cityName": "PAPA WESTRAY",
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB"
+    },
+    {
+      "airportCode": "WUA",
+      "airportName": "WUHAI",
+      "cityCode": "WUA",
+      "cityName": "WUHAI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "ERF",
+      "airportName": "ERFURT-WEIMAR",
+      "cityCode": "ERF",
+      "cityName": "ERFURT",
+      "countryName": "GERMANY",
+      "countryCode": "DE"
+    },
+    {
+      "airportCode": "AIN",
+      "airportName": "WAINWRIGHT",
+      "cityCode": "AIN",
+      "cityName": "WAINWRIGHT",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "BFF",
+      "airportName": "WESTERN NEBRASKA RGNL",
+      "cityCode": "BFF",
+      "cityName": "SCOTTSBLUFF",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "MGW",
+      "airportName": "MUNICIPAL",
+      "cityCode": "MGW",
+      "cityName": "MORGANTOWN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ACT",
+      "airportName": "REGIONAL",
+      "cityCode": "ACT",
+      "cityName": "WACO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "HTS",
+      "airportName": "TRI-STATE",
+      "cityCode": "HTS",
+      "cityName": "HUNTINGTON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WWP",
+      "airportName": "NORTH WHALE SPB",
+      "cityCode": "WWP",
+      "cityName": "WHALE PASS",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "YKM",
+      "airportName": "AIR TERMINAL",
+      "cityCode": "YKM",
+      "cityName": "YAKIMA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CWA",
+      "airportName": "CENTRAL WISCONSIN",
+      "cityCode": "AUW",
+      "cityName": "WAUSAU",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "AUW",
+      "airportName": "DOWNTOWN APT",
+      "cityCode": "AUW",
+      "cityName": "WAUSAU",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "GWT",
+      "airportName": "SYLT",
+      "cityCode": "GWT",
+      "cityName": "WESTERLAND",
+      "countryName": "GERMANY",
+      "countryCode": "DE"
+    },
+    {
+      "airportCode": "PUW",
+      "airportName": "REGIONAL",
+      "cityCode": "PUW",
+      "cityName": "PULLMAN WA/MOSCOW ID",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CYS",
+      "airportName": "REGIONAL",
+      "cityCode": "CYS",
+      "cityName": "CHEYENNE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "WUT",
+      "airportName": "XINZHOU WUTAISHAN",
+      "cityCode": "WUT",
+      "cityName": "XINZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "DSI",
+      "airportName": "DESTIN EXECUTIVE APT",
+      "cityCode": "VPS",
+      "cityName": "DESTIN FT WALTON BEACH",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "CPR",
+      "airportName": "NATRONA COUNTY INTL",
+      "cityCode": "CPR",
+      "cityName": "CASPER",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "LSE",
+      "airportName": "REGIONAL",
+      "cityCode": "LSE",
+      "cityName": "LA CROSSE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "EAT",
+      "airportName": "PANGBORN MEMORIAL",
+      "cityCode": "EAT",
+      "cityName": "WENATCHEE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ALW",
+      "airportName": "REGIONAL",
+      "cityCode": "ALW",
+      "cityName": "WALLA WALLA",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "SHD",
+      "airportName": "SHENANDOAH VALLEY RGNL",
+      "cityCode": "SHD",
+      "cityName": "STAUNTON/WAYNESBORO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "INC",
+      "airportName": "HEDONG",
+      "cityCode": "INC",
+      "cityName": "YINCHUAN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "HDY",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "HDY",
+      "cityName": "HAT YAI",
+      "countryName": "THAILAND",
+      "countryCode": "TH"
+    },
+    {
+      "airportCode": "FYU",
+      "airportName": "FORT YUKON",
+      "cityCode": "FYU",
+      "cityName": "FORT YUKON",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "FAT",
+      "airportName": "YOSEMITE INTL",
+      "cityCode": "FAT",
+      "cityName": "FRESNO",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "YTY",
+      "airportName": "YANGZHOU TAIZHOU INTL",
+      "cityCode": "YTY",
+      "cityName": "YANGZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "YIH",
+      "airportName": "SANXIA",
+      "cityCode": "YIH",
+      "cityName": "YICHANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "BZN",
+      "airportName": "YELLOWSTONE INTL",
+      "cityCode": "BZN",
+      "cityName": "BOZEMAN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "YIN",
+      "airportName": "YINING",
+      "cityCode": "YIN",
+      "cityName": "YINING",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "YAK",
+      "airportName": "YAKUTAT",
+      "cityCode": "YAK",
+      "cityName": "YAKUTAT",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "YNJ",
+      "airportName": "CHAOYANGCHUAN",
+      "cityCode": "YNJ",
+      "cityName": "YANJI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "UYN",
+      "airportName": "YUYANG",
+      "cityCode": "UYN",
+      "cityName": "YULIN - SHANXI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "YNZ",
+      "airportName": "NANYANG",
+      "cityCode": "YNZ",
+      "cityName": "YANCHENG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "YIW",
+      "airportName": "YIWU",
+      "cityCode": "YIW",
+      "cityName": "YIWU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "CIF",
+      "airportName": "YULONG",
+      "cityCode": "CIF",
+      "cityName": "CHIFENG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "YCU",
+      "airportName": "GUANGONG",
+      "cityCode": "YCU",
+      "cityName": "YUNCHENG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "LZO",
+      "airportName": "YUNLONG",
+      "cityCode": "LZO",
+      "cityName": "LUZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "HDN",
+      "airportName": "YAMPA VALLEY",
+      "cityCode": "HDN",
+      "cityName": "HAYDEN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "YEI",
+      "airportName": "YENISEHIR",
+      "cityCode": "YEI",
+      "cityName": "BURSA",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "GYM",
+      "airportName": "JOSE MARIA YANEZ INTL",
+      "cityCode": "GYM",
+      "cityName": "GUAYMAS",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "YIC",
+      "airportName": "MINGYUESHAN",
+      "cityCode": "YIC",
+      "cityName": "YICHUN JIANGXI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "LPF",
+      "airportName": "YUE ZHAO",
+      "cityCode": "LPF",
+      "cityName": "LIUPANSHUI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "CGO",
+      "airportName": "XINZHENG INTL",
+      "cityCode": "CGO",
+      "cityName": "ZHENGZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "DLC",
+      "airportName": "ZHOUSHUIZI INTL",
+      "cityCode": "DLC",
+      "cityName": "DALIAN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "LHW",
+      "airportName": "ZHONGCHUAN",
+      "cityCode": "LHW",
+      "cityName": "LANZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "DYG",
+      "airportName": "HEHUA",
+      "cityCode": "DYG",
+      "cityName": "ZHANGJIAJIE",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "ZIH",
+      "airportName": "INTERNATIONAL",
+      "cityCode": "ZIH",
+      "cityName": "IXTAPA ZIHUATANEJO",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "ZYI",
+      "airportName": "XINZHOU",
+      "cityCode": "ZYI",
+      "cityName": "ZUNYI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "HSN",
+      "airportName": "PUTUOSHAN",
+      "cityCode": "HSN",
+      "cityName": "ZHOUSHAN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "KZB",
+      "airportName": "SEA PLANE BASE",
+      "cityCode": "KZB",
+      "cityName": "ZACHAR BAY",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "ZAZ",
+      "airportName": "ZARAGOZA",
+      "cityCode": "ZAZ",
+      "cityName": "ZARAGOZA",
+      "countryName": "SPAIN",
+      "countryCode": "ES"
+    },
+    {
+      "airportCode": "ZQZ",
+      "airportName": "ZHANGJIAKOU",
+      "cityCode": "ZQZ",
+      "cityName": "ZHANGJIAKOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "ZCL",
+      "airportName": "LEOBARDO C. RUIZ INTL",
+      "cityCode": "ZCL",
+      "cityName": "ZACATECAS",
+      "countryName": "MEXICO",
+      "countryCode": "MX"
+    },
+    {
+      "airportCode": "ZAT",
+      "airportName": "ZHAOTONG",
+      "cityCode": "ZAT",
+      "cityName": "ZHAOTONG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "HJJ",
+      "airportName": "ZHIJIANG",
+      "cityCode": "HJJ",
+      "cityName": "HUAIHUA",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "ZHY",
+      "airportName": "XIANGSHAN",
+      "cityCode": "ZHY",
+      "cityName": "ZHONGWEI",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "YZY",
+      "airportName": "GANZHOU",
+      "cityCode": "YZY",
+      "cityName": "ZHANGYE",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "KZR",
+      "airportName": "ZAFER AIRPORT",
+      "cityCode": "KZR",
+      "cityName": "KUTAHYA",
+      "countryName": "TURKIYE",
+      "countryCode": "TR"
+    },
+    {
+      "airportCode": "NZL",
+      "airportName": "CHENGJISIHAN",
+      "cityCode": "NZL",
+      "cityName": "ZHALANTUN",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "AZJ",
+      "airportName": "DALU",
+      "cityCode": "ZUJ",
+      "cityName": "ZHENJIANG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "CRT",
+      "airportName": "ZM JACK STELL FIELD",
+      "cityCode": "CRT",
+      "cityName": "CROSSETT",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "GDW",
+      "airportName": "ZETTEL MEMORIAL",
+      "cityCode": "GDW",
+      "cityName": "GLADWIN",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    },
+    {
+      "airportCode": "HLJ",
+      "airportName": "BEIDAHUANG GENERAL",
+      "cityCode": "HLJ",
+      "cityName": "ZHAODONG",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "HSJ",
+      "airportName": "SHANGJIE",
+      "cityCode": "CGO",
+      "cityName": "ZHENGZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "SZH",
+      "airportName": "SHUOZHOU ZIRUN",
+      "cityCode": "SZH",
+      "cityName": "SHUOZHOU",
+      "countryName": "CHINA",
+      "countryCode": "CN"
+    },
+    {
+      "airportCode": "TOA",
+      "airportName": "ZAMPERINI FIELD",
+      "cityCode": "TOA",
+      "cityName": "TORRANCE",
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US"
+    }
+  ]

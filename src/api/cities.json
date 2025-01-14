@@ -1,0 +1,4022 @@
+[
+  {
+    "cityCode": "ABE",
+    "cityName": "ALLENTOWN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ABQ",
+    "cityName": "ALBUQUERQUE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ABZ",
+    "cityName": "ABERDEEN",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "ACE",
+    "cityName": "LANZAROTE",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "ACK",
+    "cityName": "NANTUCKET",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ADA",
+    "cityName": "ADANA",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "ADQ",
+    "cityName": "KODIAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AEB",
+    "cityName": "BAISE",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "AGP",
+    "cityName": "MALAGA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "AGS",
+    "cityName": "AUGUSTA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AGU",
+    "cityName": "AGUASCALIENTES",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "AHO",
+    "cityName": "ALGHERO",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "AJA",
+    "cityName": "AJACCIO",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "AKI",
+    "cityName": "AKIAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AKN",
+    "cityName": "KING SALMON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AKP",
+    "cityName": "ANAKTUVUK PASS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ALB",
+    "cityName": "ALBANY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ALC",
+    "cityName": "ALICANTE",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "ALZ",
+    "cityName": "ALITAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AMA",
+    "cityName": "AMARILLO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AMD",
+    "cityName": "AHMEDABAD",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "ANC",
+    "cityName": "ANCHORAGE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ANI",
+    "cityName": "ANIAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ANK",
+    "cityName": "ANKARA",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "ASE",
+    "cityName": "ASPEN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ASR",
+    "cityName": "KAYSERI",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "ATL",
+    "cityName": "ATLANTA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ATQ",
+    "cityName": "AMRITSAR",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "ATY",
+    "cityName": "WATERTOWN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AUS",
+    "cityName": "AUSTIN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AVL",
+    "cityName": "ASHEVILLE/HENDERSONV.",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AVP",
+    "cityName": "WILKES BARRE SCRANTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "AXF",
+    "cityName": "ALXA LEFT BANNER",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "AYT",
+    "cityName": "ANTALYA",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "BAR",
+    "cityName": "QIONGHAI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "BAV",
+    "cityName": "BAOTOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "BBI",
+    "cityName": "BHUBANESHWAR",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "BCN",
+    "cityName": "BARCELONA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "BDS",
+    "cityName": "BRINDISI",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "BER",
+    "cityName": "BERLIN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "BET",
+    "cityName": "BETHEL",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BFS",
+    "cityName": "BELFAST",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "BHM",
+    "cityName": "BIRMINGHAM",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BHO",
+    "cityName": "BHOPAL",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "BHX",
+    "cityName": "BIRMINGHAM",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "BIA",
+    "cityName": "BASTIA",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "BIL",
+    "cityName": "BILLINGS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BIO",
+    "cityName": "BILBAO",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "BIQ",
+    "cityName": "BIARRITZ",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "BJS",
+    "cityName": "BEIJING",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "BJX",
+    "cityName": "LEON GUANAJUATO",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "BKK",
+    "cityName": "BANGKOK",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "BLQ",
+    "cityName": "BOLOGNA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "BLR",
+    "cityName": "BENGALURU",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "BMI",
+    "cityName": "BLOOMINGTON NORMAL",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BNA",
+    "cityName": "NASHVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BOD",
+    "cityName": "BORDEAUX",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "BOI",
+    "cityName": "BOISE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BOM",
+    "cityName": "MUMBAI",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "BOS",
+    "cityName": "BOSTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BPE",
+    "cityName": "QINHUANGDAO",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "BPO",
+    "cityName": "BO'AO",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "BPX",
+    "cityName": "QAMDO/CHANGDU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "BRE",
+    "cityName": "BREMEN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "BRI",
+    "cityName": "BARI",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "BRO",
+    "cityName": "BROWNSVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BRS",
+    "cityName": "BRISTOL",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "BRW",
+    "cityName": "BARROW",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BTR",
+    "cityName": "BATON ROUGE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BTZ",
+    "cityName": "YALA",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "BUR",
+    "cityName": "BURBANK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "BZN",
+    "cityName": "BOZEMAN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CAG",
+    "cityName": "CAGLIARI",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "CAK",
+    "cityName": "AKRON CANTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CAN",
+    "cityName": "GUANGZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "CCJ",
+    "cityName": "KOZHIKODE",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "CCU",
+    "cityName": "KOLKATA",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "CDB",
+    "cityName": "COLD BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CDV",
+    "cityName": "CORDOVA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CEI",
+    "cityName": "CHIANG RAI",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "CEN",
+    "cityName": "CIUDAD OBREGON",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "CGN",
+    "cityName": "COLOGNE/BONN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "CGO",
+    "cityName": "ZHENGZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "CGQ",
+    "cityName": "CHANGCHUN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "CHI",
+    "cityName": "CHICAGO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CHS",
+    "cityName": "CHARLESTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CID",
+    "cityName": "CEDAR RAPIDS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CIF",
+    "cityName": "CHIFENG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "CJB",
+    "cityName": "COIMBATORE",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "CJK",
+    "cityName": "ZHANGJIAGANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "CJS",
+    "cityName": "CIUDAD JUAREZ",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "CKG",
+    "cityName": "CHONGQING",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "CLE",
+    "cityName": "CLEVELAND",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CLP",
+    "cityName": "CLARKS POINT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CLT",
+    "cityName": "CHARLOTTE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CMH",
+    "cityName": "COLUMBUS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CNX",
+    "cityName": "CHIANG MAI",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "COD",
+    "cityName": "CODY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "COF",
+    "cityName": "COCOA BEACH",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "COK",
+    "cityName": "KOCHI",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "COS",
+    "cityName": "COLORADO SPRINGS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CPE",
+    "cityName": "CAMPECHE",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "CRT",
+    "cityName": "CROSSETT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CRW",
+    "cityName": "CHARLESTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CSX",
+    "cityName": "CHANGSHA",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "CTA",
+    "cityName": "CATANIA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "CTU",
+    "cityName": "CHENGDU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "CUL",
+    "cityName": "CULIACAN",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "CUN",
+    "cityName": "CANCUN",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "CUU",
+    "cityName": "CHIHUAHUA",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "CVG",
+    "cityName": "CINCINNATI",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CWL",
+    "cityName": "CARDIFF",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "CYF",
+    "cityName": "CHEFORNAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CYT",
+    "cityName": "YAKATAGA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "CZX",
+    "cityName": "CHANGZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "DAY",
+    "cityName": "DAYTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DCY",
+    "cityName": "DAOCHENG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "DEL",
+    "cityName": "DELHI",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "DEN",
+    "cityName": "DENVER",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DFW",
+    "cityName": "DALLAS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DHU",
+    "cityName": "ZHUZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "DIY",
+    "cityName": "DIYARBAKIR",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "DLC",
+    "cityName": "DALIAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "DLG",
+    "cityName": "DILLINGHAM",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DLM",
+    "cityName": "DALAMAN",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "DLU",
+    "cityName": "DALI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "DNH",
+    "cityName": "DUNHUANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "DRO",
+    "cityName": "DURANGO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DRS",
+    "cityName": "DRESDEN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "DSA",
+    "cityName": "DONCASTER/SHEFFIELD",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "DSM",
+    "cityName": "DES MOINES",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DSN",
+    "cityName": "ORDOS",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "DTM",
+    "cityName": "DORTMUND",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "DTT",
+    "cityName": "DETROIT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DUJ",
+    "cityName": "DUBOIS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DUS",
+    "cityName": "DUESSELDORF",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "DUT",
+    "cityName": "DUTCH HARBOR",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DVL",
+    "cityName": "DEVILS LAKE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "DYG",
+    "cityName": "ZHANGJIAJIE",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "EAP",
+    "cityName": "MULHOUSE BASEL",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "EAT",
+    "cityName": "WENATCHEE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ECP",
+    "cityName": "PANAMA CITY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "EDA",
+    "cityName": "EDNA BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "EDI",
+    "cityName": "EDINBURGH",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "EDM",
+    "cityName": "LA ROCHE SUR YON",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "EGE",
+    "cityName": "VAIL EAGLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ELI",
+    "cityName": "ELIM",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ELP",
+    "cityName": "EL PASO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ELV",
+    "cityName": "ELFIN COVE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ELY",
+    "cityName": "ELY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "EMK",
+    "cityName": "EMMONAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ENA",
+    "cityName": "KENAI",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ERI",
+    "cityName": "ERIE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ESD",
+    "cityName": "EASTSOUND",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "EUG",
+    "cityName": "EUGENE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "EVV",
+    "cityName": "EVANSVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "EYR",
+    "cityName": "YERINGTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "FAI",
+    "cityName": "FAIRBANKS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "FAT",
+    "cityName": "FRESNO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "FAY",
+    "cityName": "FAYETTEVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "FCA",
+    "cityName": "KALISPELL",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "FKB",
+    "cityName": "KARLSRUHE/BADEN BADEN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "FLL",
+    "cityName": "FT LAUDERDALE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "FLR",
+    "cityName": "FLORENCE",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "FMM",
+    "cityName": "MEMMINGEN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "FMO",
+    "cityName": "MUENSTER/OSNABRUECK",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "FMY",
+    "cityName": "FORT MYERS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "FOC",
+    "cityName": "FUZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "FRA",
+    "cityName": "FRANKFURT",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "FUE",
+    "cityName": "FUERTEVENTURA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "FYU",
+    "cityName": "FORT YUKON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "FYV",
+    "cityName": "FAYETTEVILLE SPRINGD",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GAL",
+    "cityName": "GALENA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GAM",
+    "cityName": "GAMBELL",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GAU",
+    "cityName": "GUWAHATI",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "GDL",
+    "cityName": "GUADALAJARA",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "GDW",
+    "cityName": "GLADWIN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GEG",
+    "cityName": "SPOKANE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GJN",
+    "cityName": "ZHIJIANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "GJT",
+    "cityName": "GRAND JUNCTION",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GLA",
+    "cityName": "GLASGOW",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "GNF",
+    "cityName": "QUINCY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GOA",
+    "cityName": "GENOA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "GOI",
+    "cityName": "GOA",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "GRO",
+    "cityName": "GIRONA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "GRR",
+    "cityName": "GRAND RAPIDS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GSO",
+    "cityName": "GREENSBORO/HIGH POINT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GTP",
+    "cityName": "GRANTS PASS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "GYM",
+    "cityName": "GUAYMAS",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "GYS",
+    "cityName": "GUANGYUAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "GZT",
+    "cityName": "GAZIANTEP",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "HAJ",
+    "cityName": "HANNOVER",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "HAK",
+    "cityName": "HAIKOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HAM",
+    "cityName": "HAMBURG",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "HAR",
+    "cityName": "HARRISBURG",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "HBQ",
+    "cityName": "QILIAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HDN",
+    "cityName": "HAYDEN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "HDY",
+    "cityName": "HAT YAI",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "HET",
+    "cityName": "HOHHOT",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HFD",
+    "cityName": "HARTFORD",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "HFE",
+    "cityName": "HEFEI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HGH",
+    "cityName": "HANGZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HHS",
+    "cityName": "ZHONGSHAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HIB",
+    "cityName": "HIBBING/CHISHOLM",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "HJJ",
+    "cityName": "HUAIHUA",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HKB",
+    "cityName": "HEALY LAKE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "HKT",
+    "cityName": "PHUKET",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "HLD",
+    "cityName": "HAILAR",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HLJ",
+    "cityName": "ZHAODONG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HMO",
+    "cityName": "HERMOSILLO",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "HNL",
+    "cityName": "HONOLULU",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "HOM",
+    "cityName": "HOMER",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "HOU",
+    "cityName": "HOUSTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "HPN",
+    "cityName": "WHITE PLAINS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "HRB",
+    "cityName": "HARBIN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HSN",
+    "cityName": "ZHOUSHAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "HYD",
+    "cityName": "HYDERABAD",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "ICT",
+    "cityName": "WICHITA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "IDR",
+    "cityName": "INDORE",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "IDY",
+    "cityName": "ILE D'YEU",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "ILI",
+    "cityName": "ILIAMNA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "INC",
+    "cityName": "YINCHUAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "INV",
+    "cityName": "INVERNESS",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "IOM",
+    "cityName": "ISLE OF MAN",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "IQM",
+    "cityName": "QIEMO",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "IQN",
+    "cityName": "QINGYANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ISC",
+    "cityName": "ISLES OF SCILLY",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "IST",
+    "cityName": "ISTANBUL",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "IXB",
+    "cityName": "BAGDOGRA",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "IXC",
+    "cityName": "CHANDIGARH",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "IXE",
+    "cityName": "MANGALORE",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "IXL",
+    "cityName": "LEH",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "IXR",
+    "cityName": "RANCHI",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "IXZ",
+    "cityName": "PORT BLAIR",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "IZM",
+    "cityName": "IZMIR",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "JAI",
+    "cityName": "JAIPUR",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "JAN",
+    "cityName": "JACKSON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "JAX",
+    "cityName": "JACKSONVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "JBK",
+    "cityName": "QITAI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "JDE",
+    "cityName": "JIANDE",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "JHG",
+    "cityName": "JINGHONG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "JIQ",
+    "cityName": "QIANJIANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "JJN",
+    "cityName": "QUANZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "JLA",
+    "cityName": "COOPER LANDING",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "JMS",
+    "cityName": "JAMESTOWN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "JNU",
+    "cityName": "JUNEAU",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "JST",
+    "cityName": "JOHNSTOWN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "JUZ",
+    "cityName": "QUZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "KBV",
+    "cityName": "KRABI",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "KCA",
+    "cityName": "KUQA",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "KCC",
+    "cityName": "COFFMAN COVE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KEB",
+    "cityName": "NANWALEK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KFP",
+    "cityName": "FALSE PASS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KGX",
+    "cityName": "GRAYLING",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KHG",
+    "cityName": "KASHI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "KHN",
+    "cityName": "NANCHANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "KJH",
+    "cityName": "HUANG PING",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "KKC",
+    "cityName": "KHON KAEN",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "KKH",
+    "cityName": "KONGIGANAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KKI",
+    "cityName": "AKIACHAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KLG",
+    "cityName": "KALSKAG",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KLN",
+    "cityName": "LARSEN BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KLW",
+    "cityName": "KLAWOCK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KMG",
+    "cityName": "KUNMING",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "KMY",
+    "cityName": "MOSER BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KNK",
+    "cityName": "KOKHANOK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KOA",
+    "cityName": "KONA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KOI",
+    "cityName": "KIRKWALL",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "KOP",
+    "cityName": "NAKHON PHANOM",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "KOT",
+    "cityName": "KOTLIK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KOZ",
+    "cityName": "OUZINKIE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KPN",
+    "cityName": "KIPNUK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KPR",
+    "cityName": "PORT WILLIAMS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KPV",
+    "cityName": "PERRYVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KQA",
+    "cityName": "AKUTAN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KRL",
+    "cityName": "KORLA",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "KSM",
+    "cityName": "ST MARY'S",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KTB",
+    "cityName": "THORNE BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KTN",
+    "cityName": "KETCHIKAN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KUK",
+    "cityName": "KASIGLUK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KWE",
+    "cityName": "GUIYANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "KWK",
+    "cityName": "KWIGILLINGOK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KWL",
+    "cityName": "GUILIN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "KWN",
+    "cityName": "QUINHAGAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KWP",
+    "cityName": "WEST POINT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KWT",
+    "cityName": "KWETHLUK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KYA",
+    "cityName": "KONYA",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "KZB",
+    "cityName": "ZACHAR BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "KZR",
+    "cityName": "KUTAHYA",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "LAN",
+    "cityName": "LANSING",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LAP",
+    "cityName": "LA PAZ",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "LAS",
+    "cityName": "LAS VEGAS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LAX",
+    "cityName": "LOS ANGELES",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LBA",
+    "cityName": "LEEDS BRADFORD",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "LBB",
+    "cityName": "LUBBOCK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LBE",
+    "cityName": "LATROBE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LDE",
+    "cityName": "LOURDES TARBES",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "LDS",
+    "cityName": "YICHUN HEILONGJIANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "LEJ",
+    "cityName": "LEIPZIG/HALLE",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "LEX",
+    "cityName": "LEXINGTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LFQ",
+    "cityName": "LINFEN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "LFT",
+    "cityName": "LAFAYETTE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LGB",
+    "cityName": "LONG BEACH",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LHW",
+    "cityName": "LANZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "LIH",
+    "cityName": "LIHUE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LIL",
+    "cityName": "LILLE",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "LIT",
+    "cityName": "LITTLE ROCK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LJG",
+    "cityName": "LIJIANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "LKO",
+    "cityName": "LUCKNOW",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "LLF",
+    "cityName": "YONGZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "LON",
+    "cityName": "LONDON",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "LPA",
+    "cityName": "GRAN CANARIA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "LPF",
+    "cityName": "LIUPANSHUI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "LPL",
+    "cityName": "LIVERPOOL",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "LTQ",
+    "cityName": "LE TOUQUET PARIS PLAGE",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "LUM",
+    "cityName": "MANGSHI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "LWS",
+    "cityName": "LEWISTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "LXA",
+    "cityName": "LHASA/LASA",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "LYS",
+    "cityName": "LYON",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "LYX",
+    "cityName": "LYDD",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "LZO",
+    "cityName": "LUZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "MAA",
+    "cityName": "CHENNAI",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "MAD",
+    "cityName": "MADRID",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "MAN",
+    "cityName": "MANCHESTER",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "MCG",
+    "cityName": "MCGRATH",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MEX",
+    "cityName": "MEXICO CITY",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "MFR",
+    "cityName": "MEDFORD",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MHT",
+    "cityName": "MANCHESTER",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MIA",
+    "cityName": "MIAMI",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MID",
+    "cityName": "MERIDA",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "MIG",
+    "cityName": "MIANYANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "MIL",
+    "cityName": "MILAN",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "MKE",
+    "cityName": "MILWAUKEE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MLB",
+    "cityName": "MELBOURNE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MLI",
+    "cityName": "MOLINE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MOB",
+    "cityName": "MOBILE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MPL",
+    "cityName": "MONTPELLIER",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "MRS",
+    "cityName": "MARSEILLE",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "MRY",
+    "cityName": "MONTEREY CARMEL",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MSN",
+    "cityName": "MADISON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MSP",
+    "cityName": "MINNEAPOLIS/ST PAUL",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MSY",
+    "cityName": "NEW ORLEANS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MTJ",
+    "cityName": "MONTROSE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MTY",
+    "cityName": "MONTERREY",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "MUC",
+    "cityName": "MUNICH",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "MXL",
+    "cityName": "MEXICALI",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "MYV",
+    "cityName": "MARYSVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "MZT",
+    "cityName": "MAZATLAN",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "NAG",
+    "cityName": "NAGPUR",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "NAP",
+    "cityName": "NAPLES",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "NCE",
+    "cityName": "NICE",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "NCO",
+    "cityName": "NORTH KINGSTOWN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "NDG",
+    "cityName": "QIQIHAR",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "NGB",
+    "cityName": "NINGBO",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "NKG",
+    "cityName": "NANJING",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "NKI",
+    "cityName": "NAUKITI BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "NLD",
+    "cityName": "NUEVO LAREDO",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "NME",
+    "cityName": "NIGHTMUTE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "NNG",
+    "cityName": "NANNING",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "NNL",
+    "cityName": "NONDALTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "NQT",
+    "cityName": "NOTTINGHAM",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "NTE",
+    "cityName": "NANTES",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "NTG",
+    "cityName": "NANTONG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "NUE",
+    "cityName": "NUREMBERG",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "NUP",
+    "cityName": "NUNAPITCHUK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "NYC",
+    "cityName": "NEW YORK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "NYG",
+    "cityName": "QUANTICO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "NZL",
+    "cityName": "ZHALANTUN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "OAJ",
+    "cityName": "JACKSONVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "OAK",
+    "cityName": "OAKLAND",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "OAX",
+    "cityName": "OAXACA",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "OBU",
+    "cityName": "KOBUK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "OGG",
+    "cityName": "KAHULUI",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "OGU",
+    "cityName": "ORDU GIRESUN",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "OHE",
+    "cityName": "MOHE",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "OKC",
+    "cityName": "OKLAHOMA CITY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "OLB",
+    "cityName": "OLBIA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "OLH",
+    "cityName": "OLD HARBOR",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "OMA",
+    "cityName": "OMAHA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "OME",
+    "cityName": "NOME",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ONQ",
+    "cityName": "ZONGULDAK",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "OOK",
+    "cityName": "TOKSOOK BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ORF",
+    "cityName": "NORFOLK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ORI",
+    "cityName": "PORT LIONS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ORL",
+    "cityName": "ORLANDO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ORT",
+    "cityName": "NORTHWAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ORV",
+    "cityName": "NOORVIK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "OTZ",
+    "cityName": "KOTZEBUE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "OVD",
+    "cityName": "ASTURIAS",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "PAD",
+    "cityName": "PADERBORN/LIPPSTADT",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "PAR",
+    "cityName": "PARIS",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "PAT",
+    "cityName": "PATNA",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "PBC",
+    "cityName": "PUEBLA",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "PBG",
+    "cityName": "PLATTSBURGH",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PBI",
+    "cityName": "WEST PALM BEACH",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PDB",
+    "cityName": "PEDRO BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PDX",
+    "cityName": "PORTLAND",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PEG",
+    "cityName": "PERUGIA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "PGA",
+    "cityName": "PAGE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PGD",
+    "cityName": "PUNTA GORDA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PGF",
+    "cityName": "PERPIGNAN",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "PGM",
+    "cityName": "PORT GRAHAM",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PHF",
+    "cityName": "NEWPORT NEWS/WILLIAMSB",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PHL",
+    "cityName": "PHILADELPHIA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PHO",
+    "cityName": "POINT HOPE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PHS",
+    "cityName": "PHITSANULOK",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "PHX",
+    "cityName": "PHOENIX",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PIA",
+    "cityName": "PEORIA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PIR",
+    "cityName": "PIERRE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PIT",
+    "cityName": "PITTSBURGH",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PIZ",
+    "cityName": "POINT LAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PKA",
+    "cityName": "NAPASKIAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PKB",
+    "cityName": "PARKERSBURG",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PLN",
+    "cityName": "PELLSTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PMI",
+    "cityName": "PALMA DE MALLORCA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "PML",
+    "cityName": "PORT MOLLER",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PMO",
+    "cityName": "PALERMO",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "PNA",
+    "cityName": "PAMPLONA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "PNL",
+    "cityName": "PANTELLERIA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "PNQ",
+    "cityName": "PUNE",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "PNS",
+    "cityName": "PENSACOLA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PPV",
+    "cityName": "PORT PROTECTION",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PPW",
+    "cityName": "PAPA WESTRAY",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "PQS",
+    "cityName": "PILOT STATION",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PRC",
+    "cityName": "PRESCOTT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PSA",
+    "cityName": "PISA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "PSC",
+    "cityName": "PASCO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PSG",
+    "cityName": "PETERSBURG",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PSP",
+    "cityName": "PALM SPRINGS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PSR",
+    "cityName": "PESCARA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "PSV",
+    "cityName": "PAPA STOUR",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "PTA",
+    "cityName": "PORT ALSWORTH",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PTH",
+    "cityName": "PORT HEIDEN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PTU",
+    "cityName": "PLATINUM",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PUF",
+    "cityName": "PAU",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "PUW",
+    "cityName": "PULLMAN WA/MOSCOW ID",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PVD",
+    "cityName": "PROVIDENCE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PVR",
+    "cityName": "PUERTO VALLARTA",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "PVU",
+    "cityName": "PROVO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PWM",
+    "cityName": "PORTLAND",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "PXM",
+    "cityName": "PUERTO ESCONDIDO",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "PZI",
+    "cityName": "PANZHIHUA",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "QAQ",
+    "cityName": "L'AQUILA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "QBO",
+    "cityName": "BOCHUM",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QCE",
+    "cityName": "COPPER MOUNTAIN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "QCY",
+    "cityName": "CONINGSBY",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QDH",
+    "cityName": "ASHFORD",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QEW",
+    "cityName": "LEICESTER",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QFB",
+    "cityName": "FREIBURG",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QGN",
+    "cityName": "TARRAGONA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "QHU",
+    "cityName": "HUSUM",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QII",
+    "cityName": "LINDAU",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QIJ",
+    "cityName": "GIJON",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "QIN",
+    "cityName": "MERSIN",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "QKB",
+    "cityName": "BRECKENRIDGE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "QKS",
+    "cityName": "KEYSTONE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "QLP",
+    "cityName": "LA SPEZIA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "QMZ",
+    "cityName": "MAINZ",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QOB",
+    "cityName": "ANSBACH",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QPA",
+    "cityName": "PADOVA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "QPK",
+    "cityName": "STRAUSBERG",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QQD",
+    "cityName": "DOVER",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QQH",
+    "cityName": "HARWICH",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QQR",
+    "cityName": "RAMSGATE",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QQX",
+    "cityName": "BATH",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QQY",
+    "cityName": "YORK",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QRL",
+    "cityName": "MARBELLA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "QRO",
+    "cityName": "QUERETARO",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "QRV",
+    "cityName": "ARRAS",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "QSR",
+    "cityName": "SALERNO",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "QSZ",
+    "cityName": "SHACHE",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "QUG",
+    "cityName": "CHICHESTER",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QUL",
+    "cityName": "ULM",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QUQ",
+    "cityName": "CACERES",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "QUY",
+    "cityName": "WYTON",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "QWP",
+    "cityName": "WINTER PARK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "QWU",
+    "cityName": "WUERZBURG",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QWX",
+    "cityName": "MERIDA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "QXB",
+    "cityName": "AIX EN PROVENCE",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "QXK",
+    "cityName": "ST GENIS",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "QXX",
+    "cityName": "FICTITIOUS POINT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "QXY",
+    "cityName": "FICTITIOUS POINT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "QYG",
+    "cityName": "RAILWAY GERMANY",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "QZF",
+    "cityName": "FONT-ROMEU",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "RAP",
+    "cityName": "RAPID CITY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "RBY",
+    "cityName": "RUBY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "RDM",
+    "cityName": "REDMOND/BEND",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "RDU",
+    "cityName": "RALEIGH DURHAM",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "REG",
+    "cityName": "REGGIO DI CALABRIA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "REU",
+    "cityName": "REUS",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "REX",
+    "cityName": "REYNOSA",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "RHT",
+    "cityName": "ALXA RIGHT BANNER",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "RIC",
+    "cityName": "RICHMOND",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "RIW",
+    "cityName": "RIVERTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "RIZ",
+    "cityName": "RIZHAO",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "RKH",
+    "cityName": "ROCK HILL",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "RMY",
+    "cityName": "MARIPOSA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "RNO",
+    "cityName": "RENO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "RNS",
+    "cityName": "RENNES",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "ROA",
+    "cityName": "ROANOKE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ROC",
+    "cityName": "ROCHESTER",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "ROM",
+    "cityName": "ROME",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "RPR",
+    "cityName": "RAIPUR",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "RSH",
+    "cityName": "RUSSIAN MISSION",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SAC",
+    "cityName": "SACRAMENTO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SAN",
+    "cityName": "SAN DIEGO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SAT",
+    "cityName": "SAN ANTONIO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SBP",
+    "cityName": "SAN LUIS OBISPO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SCC",
+    "cityName": "PRUDHOE BAY/DEADHORSE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SCE",
+    "cityName": "STATE COLLEGE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SCQ",
+    "cityName": "SANTIAGO DE COMPOSTELA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "SDF",
+    "cityName": "LOUISVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SDP",
+    "cityName": "SAND POINT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SEA",
+    "cityName": "SEATTLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SFO",
+    "cityName": "SAN FRANCISCO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SHA",
+    "cityName": "SHANGHAI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "SHE",
+    "cityName": "SHENYANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "SHV",
+    "cityName": "SHREVEPORT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SHX",
+    "cityName": "SHAGELUK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SIA",
+    "cityName": "XI AN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "SIT",
+    "cityName": "SITKA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SIY",
+    "cityName": "MONTAGUE YREKA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SJC",
+    "cityName": "SAN JOSE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SJD",
+    "cityName": "SAN JOSE DEL CABO",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "SJW",
+    "cityName": "SHIJIAZHUANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "SLC",
+    "cityName": "SALT LAKE CITY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SLP",
+    "cityName": "SAN LUIS POTOSI",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "SMK",
+    "cityName": "ST MICHAEL",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SNA",
+    "cityName": "SANTA ANA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SNP",
+    "cityName": "SAINT PAUL ISLAND",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SNQ",
+    "cityName": "SAN QUINTIN",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "SPC",
+    "cityName": "SANTA CRUZ DE LA PALMA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "SQA",
+    "cityName": "SANTA YNEZ",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SRV",
+    "cityName": "STONY RIVER",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "STL",
+    "cityName": "ST LOUIS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "STR",
+    "cityName": "STUTTGART",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "STS",
+    "cityName": "SANTA ROSA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SVA",
+    "cityName": "SAVOONGA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SVQ",
+    "cityName": "SEVILLA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "SWA",
+    "cityName": "SHANTOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "SWO",
+    "cityName": "STILLWATER",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SXP",
+    "cityName": "NUNAM IQUA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SXR",
+    "cityName": "SRINAGAR",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "SYB",
+    "cityName": "SEAL BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "SYT",
+    "cityName": "ST YAN",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "SYX",
+    "cityName": "SANYA",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "SZF",
+    "cityName": "SAMSUN",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "SZH",
+    "cityName": "SHUOZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "SZX",
+    "cityName": "SHENZHEN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "TAL",
+    "cityName": "TANANA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TAO",
+    "cityName": "QINGDAO",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "TGZ",
+    "cityName": "TUXTLA GUTIERREZ",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "THV",
+    "cityName": "YORK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TIJ",
+    "cityName": "TIJUANA",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "TKJ",
+    "cityName": "TOK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TLN",
+    "cityName": "TOULON/HYERES",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "TLS",
+    "cityName": "TOULOUSE",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "TLT",
+    "cityName": "TULUKSAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TNA",
+    "cityName": "JINAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "TNK",
+    "cityName": "TUNUNAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TOA",
+    "cityName": "TORRANCE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TOL",
+    "cityName": "TOLEDO",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TPA",
+    "cityName": "TAMPA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TRI",
+    "cityName": "BRISTOL/JOHNSON/KINGSP",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TRN",
+    "cityName": "TURIN",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "TRS",
+    "cityName": "TRIESTE",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "TRV",
+    "cityName": "THIRUVANANTHAPURAM",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "TSN",
+    "cityName": "TIANJIN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "TUL",
+    "cityName": "TULSA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TUS",
+    "cityName": "TUCSON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TYN",
+    "cityName": "TAIYUAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "TYR",
+    "cityName": "TYLER",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "TYS",
+    "cityName": "KNOXVILLE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "UBP",
+    "cityName": "UBON RATCHATHANI",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "UDR",
+    "cityName": "UDAIPUR",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "UIL",
+    "cityName": "FORKS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "UIN",
+    "cityName": "QUINCY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "UIP",
+    "cityName": "QUIMPER",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "UKT",
+    "cityName": "QUAKERTOWN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "UNK",
+    "cityName": "UNALAKLEET",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "URC",
+    "cityName": "URUMQI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "USM",
+    "cityName": "KO SAMUI",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "UTP",
+    "cityName": "U TAPAO",
+    "countryName": "THAILAND",
+    "countryCode": "TH"
+  },
+  {
+    "cityCode": "UYN",
+    "cityName": "YULIN - SHANXI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "VAK",
+    "cityName": "CHEVAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "VCE",
+    "cityName": "VENICE",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "VDZ",
+    "cityName": "VALDEZ",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "VLC",
+    "cityName": "VALENCIA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "VNS",
+    "cityName": "VARANASI",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "VPS",
+    "cityName": "DESTIN FT WALTON BEACH",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "VRN",
+    "cityName": "VERONA",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "VSA",
+    "cityName": "VILLAHERMOSA",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "VTZ",
+    "cityName": "VISHAKHAPATNAM",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "WAA",
+    "cityName": "WALES",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "WAS",
+    "cityName": "WASHINGTON",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "WBB",
+    "cityName": "STEBBINS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "WEH",
+    "cityName": "WEIHAI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "WNA",
+    "cityName": "NAPAKIAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "WNZ",
+    "cityName": "WENZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "WRG",
+    "cityName": "WRANGELL",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "WTL",
+    "cityName": "TUNTUTULIAK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "WUH",
+    "cityName": "WUHAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "WUX",
+    "cityName": "WUXI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "WWP",
+    "cityName": "WHALE PASS",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "WWT",
+    "cityName": "NEWTOK",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "WYB",
+    "cityName": "YES BAY",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "WYS",
+    "cityName": "WEST YELLOWSTONE",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "XIC",
+    "cityName": "XICHANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "XMN",
+    "cityName": "XIAMEN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "XNN",
+    "cityName": "XINING",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "XRQ",
+    "cityName": "HULUNBUIR",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "XUZ",
+    "cityName": "XUZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YAK",
+    "cityName": "YAKUTAT",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "YBP",
+    "cityName": "YIBIN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YCU",
+    "cityName": "YUNCHENG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YEI",
+    "cityName": "BURSA",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "YIC",
+    "cityName": "YICHUN JIANGXI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YIE",
+    "cityName": "AERSHAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YIH",
+    "cityName": "YICHANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YIN",
+    "cityName": "YINING",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YIW",
+    "cityName": "YIWU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YKH",
+    "cityName": "YINGKOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YKM",
+    "cityName": "YAKIMA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "YKO",
+    "cityName": "HAKKARI",
+    "countryName": "TURKIYE",
+    "countryCode": "TR"
+  },
+  {
+    "cityCode": "YNG",
+    "cityName": "YOUNGSTOWN WARREN",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "YNJ",
+    "cityName": "YANJI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YNT",
+    "cityName": "YANTAI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YNZ",
+    "cityName": "YANCHENG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YTY",
+    "cityName": "YANGZHOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YUM",
+    "cityName": "YUMA",
+    "countryName": "UNITED STATES OF AMERICA",
+    "countryCode": "US"
+  },
+  {
+    "cityCode": "YUS",
+    "cityName": "YUSHU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "YZY",
+    "cityName": "ZHANGYE",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZAF",
+    "cityName": "ARLES",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "ZAK",
+    "cityName": "CHIUSA KLAUSEN",
+    "countryName": "ITALY",
+    "countryCode": "IT"
+  },
+  {
+    "cityCode": "ZAO",
+    "cityName": "CAHORS",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "ZAS",
+    "cityName": "SHUNDE",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZAT",
+    "cityName": "ZHAOTONG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZAU",
+    "cityName": "AUE",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZAX",
+    "cityName": "PANYU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZAZ",
+    "cityName": "ZARAGOZA",
+    "countryName": "SPAIN",
+    "countryCode": "ES"
+  },
+  {
+    "cityCode": "ZBD",
+    "cityName": "JIANGMEN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZBH",
+    "cityName": "SEVERAC LE CHATEAU",
+    "countryName": "FRANCE",
+    "countryCode": "FR"
+  },
+  {
+    "cityCode": "ZBZ",
+    "cityName": "XINHUI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZCA",
+    "cityName": "TAISHAN",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZCB",
+    "cityName": "ASCHAFFENBURG",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZCD",
+    "cityName": "BAMBERG",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZCL",
+    "cityName": "ZACATECAS",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "ZCZ",
+    "cityName": "ERLANGEN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZEE",
+    "cityName": "FULDA",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZEF",
+    "cityName": "NANHAI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZEI",
+    "cityName": "GARMISCH PARTENKIRCHEN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZEJ",
+    "cityName": "GELSENKIRCHEN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZEQ",
+    "cityName": "DEWSBURY",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "ZER",
+    "cityName": "ZIRO",
+    "countryName": "INDIA",
+    "countryCode": "IN"
+  },
+  {
+    "cityCode": "ZEU",
+    "cityName": "GOETTINGEN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZEY",
+    "cityName": "HAGEN",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZFI",
+    "cityName": "CHESTERFIELD",
+    "countryName": "UNITED KINGDOM",
+    "countryCode": "GB"
+  },
+  {
+    "cityCode": "ZFL",
+    "cityName": "ZHAOSU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZFR",
+    "cityName": "FRANKFURT/ODER",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZGA",
+    "cityName": "GERA",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZGE",
+    "cityName": "GOERLITZ",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZGO",
+    "cityName": "GOTHA",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZGW",
+    "cityName": "GREIFSWALD",
+    "countryName": "GERMANY",
+    "countryCode": "DE"
+  },
+  {
+    "cityCode": "ZHA",
+    "cityName": "ZHANJIANG",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZHY",
+    "cityName": "ZHONGWEI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZIH",
+    "cityName": "IXTAPA ZIHUATANEJO",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "ZLO",
+    "cityName": "MANZANILLO",
+    "countryName": "MEXICO",
+    "countryCode": "MX"
+  },
+  {
+    "cityCode": "ZQZ",
+    "cityName": "ZHANGJIAKOU",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZUH",
+    "cityName": "ZHUHAI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  },
+  {
+    "cityCode": "ZYI",
+    "cityName": "ZUNYI",
+    "countryName": "CHINA",
+    "countryCode": "CN"
+  }
+]
