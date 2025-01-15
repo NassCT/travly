@@ -1,15 +1,20 @@
 // Configuration flexible pour l'API de vols
 export const FLIGHTS_API_CONFIG = {
-    baseUrl: 'https://test.api.amadeus.com/v2/shopping/flight-offers',
-    defaultParams: {
-        adults: 1,  // Ensure at least 1 adult
-        max: 15 // Limit the number of results to 15
-    }
+  baseUrl: "https://test.api.amadeus.com/v2/shopping/flight-offers",
+  defaultParams: {
+    adults: 1,
+    max: 15,
+  },
 };
 
-import { getValidToken, fetchToken } from './fetchToken';
+import { getValidToken } from "./fetchToken";
 
-const fetchFlightsApi = async (origin, destination, departureDate, options = {}) => {
+const fetchFlightsApi = async (
+  origin,
+  destination,
+  departureDate,
+  options = {}
+) => {
   try {
     let token = await getValidToken();
     const params = new URLSearchParams({
@@ -17,12 +22,12 @@ const fetchFlightsApi = async (origin, destination, departureDate, options = {})
       destinationLocationCode: destination,
       departureDate: departureDate,
       ...FLIGHTS_API_CONFIG.defaultParams,
-      ...options
+      ...options,
     });
 
-    // Add returnDate if provided
+    // Ajouter la classe de voyage si elle est fournie
     if (options.returnDate) {
-      params.append('returnDate', options.returnDate);
+      params.append("returnDate", options.returnDate);
     }
 
     const url = `${FLIGHTS_API_CONFIG.baseUrl}?${params}`;
@@ -41,7 +46,6 @@ const fetchFlightsApi = async (origin, destination, departureDate, options = {})
 
     const data = await response.json();
     return data;
-
   } catch (error) {
     console.error("Erreur lors de la récupération des vols:", error);
     throw error;

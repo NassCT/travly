@@ -9,12 +9,32 @@ function FAQ() {
   };
 
   const questions = [
-    { question: "Qu'est-ce que Travly ?", answer: "Travly est une plateforme de voyage innovante." },
-    { question: "Travly est-il gratuit ?", answer: "Oui, l'utilisation de Travly est gratuite." },
-    { question: "Puis-je enregistrer mes recherches et offres préférées ?", answer: "La création de compte n'étant pas disponible, vous pouvez ajouter vos offres ou recherches aux favoris." },
-    { question: "Quels types de voyages puis-je rechercher sur Travly ?", answer: "Vous pouvez rechercher des vols et des hôtels." },
-    { question: "Comment effectuer une recherche de voyage sur Travly ?", answer: "Il suffit d'utiliser notre zone de recherche sur la page d'accueil." },
-    { question: "Travly propose-t-il des offres spéciales ou des promotions ?", answer: "Cette option n'est pas disponible actuellement." },
+    {
+      question: "Qu'est-ce que Travly ?",
+      answer: "Travly est une plateforme de voyage innovante.",
+    },
+    {
+      question: "Travly est-il gratuit ?",
+      answer: "Oui, l'utilisation de Travly est gratuite.",
+    },
+    {
+      question: "Puis-je enregistrer mes recherches et offres préférées ?",
+      answer:
+        "La création de compte n'étant pas disponible, vous pouvez ajouter vos offres ou recherches aux favoris.",
+    },
+    {
+      question: "Quels types de voyages puis-je rechercher sur Travly ?",
+      answer: "Vous pouvez rechercher des vols et des hôtels.",
+    },
+    {
+      question: "Comment effectuer une recherche de voyage sur Travly ?",
+      answer:
+        "Il suffit d'utiliser notre zone de recherche sur la page d'accueil.",
+    },
+    {
+      question: "Travly propose-t-il des offres spéciales ou des promotions ?",
+      answer: "Cette option n'est pas disponible actuellement.",
+    },
   ];
 
   return (
@@ -49,7 +69,9 @@ function FAQ() {
               id={`answer-${index}`}
               role="region"
               className={`transition-all duration-300 ease-in-out ${
-                openQuestion === index ? "max-h-auto opacity-100" : "max-h-0 opacity-0"
+                openQuestion === index
+                  ? "max-h-auto opacity-100"
+                  : "max-h-0 opacity-0"
               }`}
               aria-hidden={openQuestion === index ? "false" : "true"}
             >
