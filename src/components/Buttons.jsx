@@ -1,6 +1,6 @@
-import React from 'react';
-import Icons from '../components/Icons';
-import '../assets/styles/common.css';
+import React from "react";
+import Icons from "../components/Icons";
+import "../assets/styles/common.css";
 
 function Buttons({
   buttonClass,
@@ -12,18 +12,25 @@ function Buttons({
   iconName,
   iconSize,
   iconClass,
+  onClick,
 }) {
-
   return (
     <button
-      className={`p-3 ${buttonClass} flex justify-center items-center bg-${backgroundColor || "colorB"} ${borderRadius || "rounded-lg"} border-${borderColor || "colorB"} border`}
+      className={`p-3 ${buttonClass} flex justify-center items-center bg-${
+        backgroundColor || "colorB"
+      } ${borderRadius || "rounded-lg"} border-${
+        borderColor || "colorB"
+      } border`}
+      onClick={onClick}
     >
       <Icons
         iconName={iconName || ""}
         iconClass={iconClass + " mr-2 fill-white" || ""}
         iconSize={iconSize || "20px"}
       />
-      <p className={`text-base text-${textColor || "white"}`}>{textContent || "Content"}</p>
+      <p className={`text-base text-${textColor || "white"}`}>
+        {textContent || "Content"}
+      </p>
     </button>
   );
 }

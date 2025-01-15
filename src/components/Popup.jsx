@@ -1,16 +1,16 @@
-import React from 'react';
+import React from "react";
 
 function Popup({
   message = "Message envoyé avec succès",
-    position = "top-20 left-2", 
-    backgroundColor = "bg-green-500", 
-    textColor = "text-white", 
-    borderRadius = "rounded-md", 
-    animation = "fadein 0.5s", 
-    }) {
-    const popupStyle = {
-        animation, 
-    };
+  position = "top-20 left-2",
+  backgroundColor = "bg-green-500",
+  textColor = "text-white",
+  borderRadius = "rounded-md",
+  animation = "fadein 0.5s",
+}) {
+  const popupStyle = {
+    animation,
+  };
 
   const fadeinKeyframes = `
     @keyframes fadein {
