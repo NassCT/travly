@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Icons from "./Icons";
+import Buttons from "./Buttons";
 import airportsData from "../api/airports.json";
 
 function CardsVols({ flights = [] }) {
@@ -91,10 +92,13 @@ function CardsVols({ flights = [] }) {
   };
 
   const [vols, setVols] = useState(transformFlights(flights));
+  const [currentPage, setCurrentPage] = useState(1);
+  const flightsPerPage = 4;
 
   // Mettre à jour les vols si les props changent
   useEffect(() => {
     setVols(transformFlights(flights));
+    setCurrentPage(1); // Réinitialiser à la première page
   }, [flights]);
 
   const favoriteClick = (id) => {
@@ -105,9 +109,38 @@ function CardsVols({ flights = [] }) {
     );
   };
 
+  // Calculer le nombre total de pages
+  const totalPages = Math.ceil(vols.length / flightsPerPage);
+
+  // Récupérer les vols de la page courante
+  const indexOfLastFlight = currentPage * flightsPerPage;
+  const indexOfFirstFlight = indexOfLastFlight - flightsPerPage;
+  const currentFlights = vols.slice(indexOfFirstFlight, indexOfLastFlight);
+
+  // Changer de page
+  const paginate = (pageNumber) => setCurrentPage(pageNumber);
+
   return (
     <section className="max-w-6xl mx-auto">
-      {vols.map((vol) => (
+      {/* Pagination */}
+      {totalPages > 1 && (
+        <div className="flex justify-center mb-6 space-x-2">
+          {[...Array(totalPages)].map((_, index) => (
+            <Buttons
+              key={index}
+              borderRadius={"rounded-xl"}
+              borderColor={currentPage === index + 1 ? "colorB" : "colorG2"}
+              textColor={currentPage === index + 1 ? "white" : "colorG2"}
+              backgroundColor={currentPage === index + 1 ? "colorB" : "colorG2"}
+              onClick={() => paginate(index + 1)}
+              buttonClass={`px-4 py-2`}
+              textContent={`${index + 1}`}
+            />
+          ))}
+        </div>
+      )}
+
+      {currentFlights.map((vol) => (
         <div
           key={vol.id}
           className="border border-gray-600 m-6 p-6 rounded-lg relative"
@@ -222,6 +255,24 @@ function CardsVols({ flights = [] }) {
           )}
         </div>
       ))}
+
+      {/* Pagination */}
+      {totalPages > 1 && (
+        <div className="flex justify-center mt-6 space-x-2">
+          {[...Array(totalPages)].map((_, index) => (
+            <Buttons
+              key={index}
+              borderRadius={"rounded-xl"}
+              borderColor={currentPage === index + 1 ? "colorB" : "colorG2"}
+              textColor={currentPage === index + 1 ? "white" : "colorG2"}
+              backgroundColor={currentPage === index + 1 ? "colorB" : "colorG2"}
+              onClick={() => paginate(index + 1)}
+              buttonClass={`px-4 py-2`}
+              textContent={`${index + 1}`}
+            />
+          ))}
+        </div>
+      )}
     </section>
   );
 }

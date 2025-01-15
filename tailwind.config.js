@@ -7,7 +7,7 @@ export default {
         colorG: "#0bb87d",
         colorB: "#0b1b2b",
         colorW: "#e5e5e5",
-        colorG2: "#61616b",
+        colorG2: "#d9d9d9",
         colorR: "#f23f43",
         colorGr: "#495057",
       },
