@@ -11,6 +11,7 @@ import {
   PageConfidentialites,
   PageConditions,
   PageContact,
+  PageGestionCookies
 } from "./views";
 
 // Components
@@ -30,6 +31,7 @@ function App() {
           <Route path="/confidentialites" element={<PageConfidentialites />} />
           <Route path="/conditions" element={<PageConditions />} />
           <Route path="/mentions-legales" element={<PageMentionsLegales />} />
+          <Route path="/gestion-cookies" element={<PageGestionCookies />} />
         </Routes>
         <Footer />
         <CookiesComponent />

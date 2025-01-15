@@ -15,8 +15,11 @@ function Footer({
   return (
     <footer className='bg-colorB text-colorW py-10 text-center'>
 
-      <nav className='grid grid-cols-2 justify-center gap-4 md:grid-cols-2 lg:flex' aria-label='Navigation du pied de page'>
+      <nav className='mx-10 justify-center gap-4 md:grid-cols-2 lg:flex' aria-label='Navigation du pied de page'>
 
+    <div className='grid grid-cols-2 justify-center gap-4 md:grid-cols-2 lg:flex'>
+
+ 
           <Link
             to="/mentions-legales"
             className='text-sm sm:text-base hover:underline'
@@ -39,10 +42,23 @@ function Footer({
             Conditions d'utilisation
           </Link>
           <Link
+            to="/gestion-cookies"
+            className='text-sm sm:text-base hover:underline'
+            aria-label="Accéder à la politique de gestion des cookies"
+            >
+            Politique de gestion des cookies
+          </Link>
+          
+        </div>
+
+        <div className='mt-4 md:mt-0'>
+            <Link
             to="/contact"
             className='text-sm sm:text-base hover:underline'>
             Contact
           </Link>
+        </div>
+
 
       </nav>
 
