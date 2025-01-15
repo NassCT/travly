@@ -1,12 +1,20 @@
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import NavBar from './components/NavBar';
-import Footer from './components/Footer';
-import Confidentialites from './components/Confidentialites';
-import Buttons from './components/Buttons';
-import Formulaire from './components/Formulaire';
-import SearchBar from './components/SearchBar';
-import CardFavoris from './components/CardFavoris';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
+// Views
+import {
+  PageAccueil,
+  PageVols,
+  PageHotel,
+  PageFavoris,
+  PageMentionsLegales,
+  PageConfidentialites,
+  PageConditions,
+  PageContact,
+} from "./views";
+
+// Components
+import { NavBar, CookiesComponent, Footer } from "./components";
 
 function App() {
   return (
@@ -14,28 +22,17 @@ function App() {
       <div>
         <NavBar />
         <Routes>
-          <Route path="/" element={<> </>} />
-          <Route path="/NavBar" element={<></>} />
-          <Route path="/Footer" element={<Footer />} />
-          <Route path="/Confidentialites" element={<Confidentialites />} />
-          <Route path="/Buttons" element={<Buttons iconName="user" iconClass="fill-red-500" />} />
-          <Route path='/Card' element={<CardFavoris />}/>
-          <Route path="/Formulaire" element={
-            <Formulaire
-              inputTextColor="text-colorB"
-              inputBgColor="bg-colorW"
-              inputBorder="text-colorB"
-              inputBorderRadius="rounded-lg"
-              inputNomText="Nom"
-              inputPrenomText="Prénom"
-              inputMailText="Email"
-              inputSujetText="Sujet"
-              inputMessageText="Message"
-            />
-          }
-          />
-          <Route path="/SearchBar" element={<SearchBar />} />
+          <Route path="/" element={<PageAccueil />} />
+          <Route path="/vols" element={<PageVols />} />
+          <Route path="/favoris" element={<PageFavoris />} />
+          <Route path="/hotels" element={<PageHotel />} />
+          <Route path="/contact" element={<PageContact />} />
+          <Route path="/confidentialites" element={<PageConfidentialites />} />
+          <Route path="/conditions" element={<PageConditions />} />
+          <Route path="/mentions-legales" element={<PageMentionsLegales />} />
         </Routes>
+        <Footer />
+        <CookiesComponent />
       </div>
     </Router>
   );
