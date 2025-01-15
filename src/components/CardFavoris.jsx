@@ -31,16 +31,13 @@ function CardFavoris({
     setIsFavorite((prevState) => !prevState);
   }
   return (
-    <div className="flex flex-wrap g justify-between px-12 py-6">
+    <div className="flex flex-wrap g justify-between px-6 py-6">
 
-        <div
-
-          className="bg-colorW shadow-md mb-5 pb-4 rounded-lg overflow-hidden w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)]"
-        >
+        <div className="bg-colorW shadow-md mb-5 pb-4 rounded-lg overflow-hidden w-full">
           <img
             src={image1Url}
             alt={cardTitle}
-            className="w-full h-50 object-cover rounded-md"/>
+            className="w-full h-[200px] object-cover rounded-md"/>
           <div className="flex justify-between items-center mt-4 px-4">
             <h3 className="text-xl font-bold">{cardTitle}</h3>
             <div onClick={toggleFavorite}>
@@ -49,10 +46,15 @@ function CardFavoris({
                 iconClass={isFavorite ? iconClassHeartFilled : iconClassHeartEmpty}
               />
             </div>
+
           </div>
+
+
           <p className=" text-colorGr px-4">
             <span>{distance} du centre ville</span>
           </p>
+
+
           <div className="flex items-center mt-2 px-4">
             {[...Array(5)].map((_, index) =>
               index < rating ? (
@@ -76,7 +78,11 @@ function CardFavoris({
               <span>{comments}</span> Comments
             </p>
           </div>
+
+   
           <p className="text-colorGr mt-2 px-4">{stayDates}</p>
+
+
           <div className="flex justify-between mt-2 mb-2 px-4">
             <p>
               <span>{nbAdults}</span> {adults}
@@ -88,7 +94,9 @@ function CardFavoris({
           <p className="text-right  right-4 bottom-4 pr-2">
             <span className="font-bold">{price}</span> {perNight}
           </p>
+
         </div>
+
 
     </div>
   );
