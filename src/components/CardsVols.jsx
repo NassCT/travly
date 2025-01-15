@@ -255,24 +255,6 @@ function CardsVols({ flights = [] }) {
           )}
         </div>
       ))}
-
-      {/* Pagination */}
-      {totalPages > 1 && (
-        <div className="flex justify-center mt-6 space-x-2">
-          {[...Array(totalPages)].map((_, index) => (
-            <Buttons
-              key={index}
-              borderRadius={"rounded-xl"}
-              borderColor={currentPage === index + 1 ? "colorB" : "colorG2"}
-              textColor={currentPage === index + 1 ? "white" : "colorG2"}
-              backgroundColor={currentPage === index + 1 ? "colorB" : "colorG2"}
-              onClick={() => paginate(index + 1)}
-              buttonClass={`px-4 py-2`}
-              textContent={`${index + 1}`}
-            />
-          ))}
-        </div>
-      )}
     </section>
   );
 }
