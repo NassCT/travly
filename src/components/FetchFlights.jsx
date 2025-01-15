@@ -389,7 +389,7 @@ const FetchFlights = () => {
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
-          className="px-20 py-8 shadow-lg"
+          className="px-20 py-24 shadow-lg"
         >
           <div className="bg-colorB opacity-90 h-full rounded-3xl p-4">
             <div className="opacity-90">
