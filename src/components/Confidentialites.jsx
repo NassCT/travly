@@ -72,14 +72,14 @@ function Confidentialites() {
             <div>
               <h2 className="text-center text-lg sm:text-xl font-semibold text-gray-800">Vos droits</h2>
               <p className="mt-2 text-gray-700">
-                Bien que notre site ne collecte que peu de données personnelles, vous avez les droits suivants :
+                Chez Travly, veuillez noter que bien que notre site ne collecte que peu de données personnelles, vous avez les droits suivants :
               </p>
               <ul className="list-disc pl-5 mt-2 text-gray-700 space-y-1">
                 <li>Accès : Savoir quelles données sont collectées.</li>
                 <li>Effacement : Demander la suppression des données vous concernant, si applicable.</li>
                 <li>Opposition : Vous opposer à l'utilisation de vos données dans certains cas.</li>
               </ul>
-              <p>
+              <p className='mt-2'>
               Pour toute demande, vous pouvez nous écrire par mail.
               </p>
             </div>

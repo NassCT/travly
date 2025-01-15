@@ -18,13 +18,12 @@ function GestionCookies() {
           <h2 className="text-lg font-semibold mt-8">Pourquoi utilisons-nous des cookies ?</h2>
           <p>
             Nous utilisons des cookies pour améliorer votre expérience sur notre site, analyser notre trafic, 
-            et personnaliser les contenus et les publicités qui vous sont présentés.
+            et personnaliser les contenus qui vous sont présentés.
             Voici quelques exemples de l'utilisation des cookies sur notre site :
           </p>
           <ul className="list-disc list-inside ml-4">
             <li>Faciliter la navigation sur notre site</li>
             <li>Analyser les données de trafic pour améliorer notre contenu</li>
-            <li>Proposer des publicités adaptées à vos intérêts</li>
           </ul>
 
           <h2 className="text-lg font-semibold mt-8">Les types de cookies que nous utilisons</h2>
@@ -34,7 +33,6 @@ function GestionCookies() {
           <ul className="list-disc list-inside ml-4">
             <li>Cookies nécessaires : Ces cookies sont essentiels pour le bon fonctionnement du site.</li>
             <li>Cookies analytiques : Ces cookies nous permettent d'analyser l'utilisation du site et d'améliorer nos services.</li>
-            <li>Cookies de personnalisation : Ces cookies aident à personnaliser les contenus et les publicités.</li>
           </ul>
 
           <h2 className="text-lg font-semibold mt-8">Comment gérer vos préférences de cookies ?</h2>
