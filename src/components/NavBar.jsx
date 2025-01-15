@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
-import Icons from './Icons';
-import Logo from '../assets/images/logo.png';
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import Icons from "./Icons";
+import Logo from "../assets/images/logo.png";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -28,11 +28,15 @@ const Navbar = () => {
         >
           <Icons
             iconName="burger"
-            iconClass={`transition-opacity fill-colorW duration-300 absolute ${isMenuOpen ? 'opacity-0 ' : 'opacity-100 delay-150'}`}
+            iconClass={`transition-opacity fill-colorW duration-300 absolute ${
+              isMenuOpen ? "opacity-0 " : "opacity-100 delay-150"
+            }`}
           />
           <Icons
             iconName="xmark"
-            iconClass={`transition-opacity fill-colorG duration-300 absolute ${isMenuOpen ? 'opacity-100 delay-150' : 'opacity-0 '}`}
+            iconClass={`transition-opacity fill-colorG duration-300 absolute ${
+              isMenuOpen ? "opacity-100 delay-150" : "opacity-0 "
+            }`}
           />
         </button>
       </div>
@@ -40,23 +44,31 @@ const Navbar = () => {
       {/* Menu Container */}
       <div
         className={`fixed top-0 left-0 right-0 bg-colorW z-40 rounded-b-3xl transform transition-all duration-300
-          ${isMenuOpen ? 'translate-y-0 opacity-100' : '-translate-y-full opacity-0'}
+          ${
+            isMenuOpen
+              ? "translate-y-0 opacity-100"
+              : "-translate-y-full opacity-0"
+          }
           md:top-8 md:right-8 md:left-auto md:w-80 md:rounded-xl md:shadow-lg`}
       >
         <ul className="flex flex-col items-start space-y-6 py-6 px-10 md:px-6">
-          {[{ to: '/', label: 'Accueil', icon: 'home' },
-          { to: '/Vols', label: 'Vols', icon: 'planedeparture' },
-          { to: '/Hotels', label: 'Hôtels', icon: 'hotel' },
-          { to: '/Contact', label: 'Contact', icon: 'phone' },
-          { to: '/Favoris', label: 'Favoris', icon: 'heart' }]
-            .map(({ to, label, icon }) => (
-              <li key={to} className="w-full">
-                <Link to={to} className="flex items-center text-black text-xl text-left">
-                  <Icons iconName={icon} iconClass="fill-colorG mr-3" />
-                  {label}
-                </Link>
-              </li>
-            ))}
+          {[
+            { to: "/", label: "Accueil", icon: "home" },
+            { to: "/Vols", label: "Vols", icon: "planedeparture" },
+            { to: "/Hotels", label: "Hôtels", icon: "hotel" },
+            { to: "/Contact", label: "Contact", icon: "phone" },
+            { to: "/Favoris", label: "Favoris", icon: "heart" },
+          ].map(({ to, label, icon }) => (
+            <li key={to} className="w-full">
+              <Link
+                to={to}
+                className="flex items-center text-black text-xl text-left"
+              >
+                <Icons iconName={icon} iconClass="fill-colorG mr-3" />
+                {label}
+              </Link>
+            </li>
+          ))}
         </ul>
       </div>
     </nav>

@@ -11,7 +11,15 @@ const FetchFlights = () => {
   const [searchParams, setSearchParams] = useState({
     origin: "PARIS (CDG)",
     destination: "NEW YORK (JFK)",
-    departureDate: new Date().toLocaleDateString('fr-FR', { year: 'numeric', month: '2-digit', day: '2-digit' }).split('/').reverse().join('-'),
+    departureDate: new Date()
+      .toLocaleDateString("fr-FR", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+      })
+      .split("/")
+      .reverse()
+      .join("-"),
     returnDate: "",
     adults: 1,
     travelClass: "ECONOMY",

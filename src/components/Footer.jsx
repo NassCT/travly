@@ -60,7 +60,7 @@ function Footer({
           </a>
         </div>
         <div className='text-xs'>
-        © Travely - 2024
+        © Travely - 2025
         </div>
       </div>
     </footer>

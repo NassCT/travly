@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Buttons from "./Buttons";
 import { useLocation } from "react-router-dom";
-import Cookies from "js-cookie";
 
 function CookiesComponent() {
   const [showCookies, setShowCookies] = useState(false);
@@ -16,23 +15,19 @@ function CookiesComponent() {
   }, [locationCookies]);
 
   const acceptCookies = () => {
-    console.log('Accepting cookies');
+    console.log("Accepting cookies");
     localStorage.setItem("cookiesConsent", "accepted");
     setShowCookies(false);
   };
 
   const refuseCookies = () => {
-    console.log('Refusing cookies');
+    console.log("Refusing cookies");
     setShowCookies(false);
   };
 
   const essentialCookies = () => {
-    console.log('Essential cookies');
+    console.log("Essential cookies");
     localStorage.setItem("cookiesConsent", "essential");
-    setShowCookies(false);
-  };
-
-  const closeCookiesPopup = () => {
     setShowCookies(false);
   };
 

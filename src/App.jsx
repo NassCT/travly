@@ -1,15 +1,20 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // Views
-import { 
-  PageAccueil, PageVols, PageFavoris, 
-  PageHotel, PageContact, PageConfidentialites, 
-  PageConditions, PageMentionsLegales 
-} from './views';
+import {
+  PageAccueil,
+  PageVols,
+  PageHotel,
+  PageFavoris,
+  PageMentionsLegales,
+  PageConfidentialites,
+  PageConditions,
+  PageContact,
+} from "./views";
 
 // Components
-import { NavBar, Footer, CookiesComponent } from './components';
+import { NavBar, CookiesComponent, Footer } from "./components";
 
 function App() {
   return (
