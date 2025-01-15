@@ -29,6 +29,25 @@ function MentionsLegales() {
           <p>Téléphone : [Numéro de l’hébergeur]</p>
 
           <h2 className="text-lg sm:text-xl font-semibold mt-8">
+            Cookie
+          </h2>
+          <p>
+          Le site Travly utilise des cookies pour améliorer l’expérience utilisateur, analyser 
+          le trafic, et fournir des contenus personnalisés. Les types de cookies utilisés sont :
+          </p>
+          <ul className="list-disc list-inside ml-4">
+            <li>Cookies nécessaires au bon fonctionnement du site</li>
+            <li>Cookies analytiques pour mesurer l’audience</li>
+          </ul>
+          <p>
+            Vous pouvez gérer vos préférences ou retirer votre consentement à tout moment en accédant 
+            à notre{" "}
+            <Link to="/gestion-cookies" className="hover:underline" aria-label="Accéder à la politique de gestion des cookies">
+              Politique de gestion des cookies
+            </Link>.
+          </p>
+
+          <h2 className="text-lg sm:text-xl font-semibold mt-8">
             Propriété intellectuelle
           </h2>
           <p>
@@ -58,7 +77,7 @@ function MentionsLegales() {
             conformément à la réglementation en vigueur, notamment le RGPD
             (Règlement Général sur la Protection des Données). Pour plus
             d’informations, veuillez consulter notre {}
-            <Link to="/confidentialites" className="hover:underline">
+            <Link to="/confidentialites" className="hover:underline" aria-label="Accéder à la politique de confidentialité">
               Politique de confidentialité
             </Link>
             .
