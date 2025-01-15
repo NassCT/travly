@@ -11,7 +11,7 @@ const fetchToken = async () => {
 
   if (missingVars.length > 0) {
     throw new Error(
-      `Variables d'environnement manquantes : ${missingVars.join(', ')}`
+      `Variables d'environnement manquantes : ${missingVars.join(", ")}`
     );
   }
 
@@ -34,12 +34,12 @@ const fetchToken = async () => {
     }
 
     const { access_token, expires_in } = await response.json();
-    
+
     // Sauvegarde du token et de sa date d'expiration
-    const expirationTime = Date.now() + (expires_in * 1000);
+    const expirationTime = Date.now() + expires_in * 1000;
     localStorage.setItem("access_token", access_token);
     localStorage.setItem("token_expiration", expirationTime.toString());
-    
+
     return access_token;
   } catch (error) {
     console.error("Erreur lors de la récupération du token :", error);
@@ -50,7 +50,7 @@ const fetchToken = async () => {
 export const getValidToken = async () => {
   const token = localStorage.getItem("access_token");
   const expiration = localStorage.getItem("token_expiration");
-  
+
   // Si pas de token ou expiration, on en génère un nouveau
   if (!token || !expiration) {
     return await fetchToken();

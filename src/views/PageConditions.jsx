@@ -1,14 +1,20 @@
-import React from 'react';
-import Conditions from '../components/Conditions';
-import Footer from '../components/Footer';
+import React from "react";
+import Conditions from "../components/Conditions";
+import Buttons from "../components/Buttons";
 
 function PageConditions() {
   return (
     <>
-        <Conditions />
-        <Footer />
+      <div className="flex gap-2 p-10 pb-4">
+        <Buttons
+          onClick={() => window.history.back()}
+          textContent="Retour"
+          buttonClass={"px-10 border-1 border-colorW hover:bg-colorG"}
+        />
+      </div>
+      <Conditions />
     </>
-  )
+  );
 }
 
 export default PageConditions;

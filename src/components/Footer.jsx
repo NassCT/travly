@@ -15,34 +15,50 @@ function Footer({
   return (
     <footer className='bg-colorB text-colorW py-10 text-center'>
 
-      <nav className='grid grid-cols-2 justify-center gap-4 md:grid-cols-2 lg:flex' aria-label='Navigation du pied de page'>
+      <nav className='mx-10 justify-center gap-4 md:grid-cols-2 lg:flex' aria-label='Navigation du pied de page'>
 
+    <div className='grid grid-cols-2 justify-center gap-4 md:grid-cols-2 lg:flex'>
+
+ 
           <Link
-            to="/PageMentionsLegales"
+            to="/mentions-legales"
             className='text-sm sm:text-base hover:underline'
             aria-label='Accéder aux mentions légales'
             >
             Mentions légales
           </Link>
           <Link
-            to="/PageConfidentialites"
+            to="/confidentialites"
             className='text-sm sm:text-base hover:underline'
             aria-label='Accéder à la politique de confidentialités'
             >
             Politique de confidentialités
           </Link>
           <Link
-            to="/PageConditions"
+            to="/conditions"
             className='text-sm sm:text-base hover:underline'
             aria-label="Accéder aux conditions d'utilisation"
             >
             Conditions d'utilisation
           </Link>
           <Link
+            to="/gestion-cookies"
+            className='text-sm sm:text-base hover:underline'
+            aria-label="Accéder à la politique de gestion des cookies"
+            >
+            Politique de gestion des cookies
+          </Link>
+          
+        </div>
+
+        <div className='mt-4 md:mt-0'>
+            <Link
             to="/contact"
             className='text-sm sm:text-base hover:underline'>
             Contact
           </Link>
+        </div>
+
 
       </nav>
 
@@ -60,7 +76,7 @@ function Footer({
           </a>
         </div>
         <div className='text-xs'>
-        © Travely - 2024
+        © Travely - 2025
         </div>
       </div>
     </footer>
