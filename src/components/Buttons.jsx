@@ -12,11 +12,13 @@ function Buttons({
   iconName,
   iconSize,
   iconClass,
+  onClick,
 }) {
 
   return (
     <button
       className={`p-3 ${buttonClass} flex justify-center items-center bg-${backgroundColor || "colorB"} ${borderRadius || "rounded-lg"} border-${borderColor || "colorB"} border`}
+      onClick={onClick}
     >
       <Icons
         iconName={iconName || ""}

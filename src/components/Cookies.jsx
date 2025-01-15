@@ -10,23 +10,25 @@ function CookiesComponent() {
 
   useEffect(() => {
     // Verifier si l'utilisateur a accepté les cookies
-    const cookiesConsent = Cookies.get("cookiesConsent");
+    const localStorageConsent = localStorage.getItem("cookiesConsent");
 
-    setShowCookies(!cookiesConsent);
+    setShowCookies(!localStorageConsent);
   }, [locationCookies]);
 
   const acceptCookies = () => {
-    // Les cookies seront conservés pendant 30 jours
-    Cookies.set("cookiesConsent", "accepted", { expires: 30 });
+    console.log('Accepting cookies');
+    localStorage.setItem("cookiesConsent", "accepted");
     setShowCookies(false);
   };
 
   const refuseCookies = () => {
+    console.log('Refusing cookies');
     setShowCookies(false);
   };
 
   const essentialCookies = () => {
-    Cookies.set("cookiesConsent", "essential", { expires: 30 });
+    console.log('Essential cookies');
+    localStorage.setItem("cookiesConsent", "essential");
     setShowCookies(false);
   };
 
@@ -46,21 +48,21 @@ function CookiesComponent() {
           </div>
 
           <div className="flex flex-col sm:flex-row justify-center gap-2 md:gap-4 mt-4">
-            <div onClick={closeCookiesPopup} className="w-full sm:w-auto">
+            <div className="w-full sm:w-auto">
               <Buttons
                 textContent="Accepter les cookies"
                 buttonClass="w-full sm:w-auto bg-colorB text-colorW"
                 onClick={acceptCookies}
               />
             </div>
-            <div onClick={closeCookiesPopup} className="w-full sm:w-auto">
+            <div className="w-full sm:w-auto">
               <Buttons
                 textContent="Cookies essentiels"
                 buttonClass="w-full sm:w-auto bg-colorB text-colorW"
                 onClick={essentialCookies}
               />
             </div>
-            <div onClick={closeCookiesPopup} className="w-full sm:w-auto">
+            <div className="w-full sm:w-auto">
               <Buttons
                 textContent="Refuser les cookies"
                 buttonClass="w-full sm:w-auto bg-colorB text-colorW"
