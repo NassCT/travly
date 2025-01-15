@@ -6,7 +6,6 @@ function PageMentionsLegales() {
   return (
     <>
       <MentionsLegales />
-      <Footer />
     </>
   )
 }

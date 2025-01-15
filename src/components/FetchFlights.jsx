@@ -170,7 +170,7 @@ const FetchFlights = () => {
     <div className="bg-white">
       {/* Section de recherche avec un fond différent */}
 
-      {location.pathname === "/PageAccueil" && (
+      {location.pathname === "/" && (
         <div className="bg-colorB px-20 py-8 shadow-lg">
           <div className="md:flex md:flex-wrap md:items-center md:gap-4">
             <div className="relative flex flex-col md:flex-row md:items-center">

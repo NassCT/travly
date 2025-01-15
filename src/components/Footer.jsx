@@ -18,21 +18,21 @@ function Footer({
       <nav className='grid grid-cols-2 justify-center gap-4 md:grid-cols-2 lg:flex' aria-label='Navigation du pied de page'>
 
           <Link
-            to="/PageMentionsLegales"
+            to="/mentions-legales"
             className='text-sm sm:text-base hover:underline'
             aria-label='Accéder aux mentions légales'
             >
             Mentions légales
           </Link>
           <Link
-            to="/PageConfidentialites"
+            to="/confidentialites"
             className='text-sm sm:text-base hover:underline'
             aria-label='Accéder à la politique de confidentialités'
             >
             Politique de confidentialités
           </Link>
           <Link
-            to="/PageConditions"
+            to="/conditions"
             className='text-sm sm:text-base hover:underline'
             aria-label="Accéder aux conditions d'utilisation"
             >

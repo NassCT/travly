@@ -21,7 +21,6 @@ function pageContact() {
                 inputMessageText="Message"
             />
         </section>      
-        <Footer />  
     </div>
   )
 }

@@ -6,7 +6,6 @@ function PageConfidentialites() {
   return (
     <>
         <Confidentialites />
-        <Footer />
     </>
   )
 }

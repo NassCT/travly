@@ -34,7 +34,7 @@ function MentionsLegales() {
                 <h2 className='text-lg sm:text-xl font-semibold mt-8'>Données personnelles</h2>
                     <p>
                     Les données personnelles collectées sur le site sont traitées conformément à la réglementation en vigueur, notamment le RGPD (Règlement Général sur la Protection des Données). Pour plus d’informations, veuillez consulter notre { }
-                        <Link to="/PageConfidentialites"
+                        <Link to="/confidentialites"
                         className="hover:underline">
                             Politique de confidentialité
                         </Link>.

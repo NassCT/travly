@@ -24,7 +24,7 @@ function PageHotel() {
       <div>
         
       <div className='flex gap-2 pl-20 py-6 bg-colorB'>
-        <Link to="/PageAffichageVols">
+        <Link to="/Vols">
         <Buttons textContent="Vols" iconName={"plane"} buttonClass={"px-10 border-1 border-colorW hover:bg-colorG"} />
         </Link>
         <Buttons textContent="Hôtels" iconName={"hotel"} buttonClass={"px-10 border-1 border-colorW bg-colorG"} />
@@ -64,7 +64,6 @@ function PageHotel() {
 
             <HotelPays />
         </section>
-        <Footer />
       </div>
     </div>
   )

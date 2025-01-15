@@ -6,7 +6,6 @@ function PageConditions() {
   return (
     <>
         <Conditions />
-        <Footer />
     </>
   )
 }

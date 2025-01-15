@@ -87,9 +87,9 @@ function SearchBar({ onSearch }) {
     return (
         <>
         {/* Condition commentée pour l'instant */}
-        {/* {location.pathname === "/PageAccueil" && ( */}
+        {/* {location.pathname === "/" && ( */}
         <div>
-            {/* SearchBar Page Accueil */}
+            {/* SearchBar / */}
             <section>
                 <div className="md:flex md:flex-wrap md:items-center md:gap-4 px-20 py-10 bg-colorB shadow-lg">
                     {/* Add the rest of the content here */}

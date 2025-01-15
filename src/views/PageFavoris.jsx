@@ -21,7 +21,6 @@ function PageFavoris() {
     </h1>
 
     <CardFavoris />
-    <Footer />
       
     </section>
   )
