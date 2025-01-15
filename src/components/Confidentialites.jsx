@@ -43,7 +43,6 @@ function Confidentialites() {
               <ul className="list-disc pl-5 mt-2 text-gray-700 space-y-1">
                 <li>Personnalisation des services : Pour vous proposer des offres adaptées à vos préférences.</li>
                 <li>Amélioration des services : Afin d'optimiser les fonctionnalités de notre site web et de mieux répondre à vos attentes.</li>
-                <li>Communication : Pour vous envoyer des notifications ou des emails, uniquement si vous y avez explicitement consenti.</li>
               </ul>
             </div>
           </div>
@@ -55,7 +54,7 @@ function Confidentialites() {
             <div>
               <h2 className="text-center text-lg sm:text-xl font-semibold text-gray-800">Partage des données</h2>
               <p className="mt-2 text-gray-700">
-                Nous utilisons vos données pour :
+                Nous nous engageons à protéger la confidentialité de vos données personnelles. Cependant, certaines informations peuvent être partagées dans les cas suivants :
               </p>
               <ul className="list-disc pl-5 mt-2 text-gray-700 space-y-1">
                 <li>Vous proposer des offres de voyage personnalisées.</li>
@@ -64,6 +63,75 @@ function Confidentialites() {
               </ul>
             </div>
           </div>
+
+
+          <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:rounded-none md:border-t-0 md:border-l-0 md:border-r-0 md:border-b">
+            <div className="flex-shrink-0 sm:w-[2rem] sm:h-[2rem]  border border-gray-300 rounded-full flex items-center justify-center transition-transform duration-300 hover:scale-110 hover:shadow-lg">
+              <Icons iconName={"userlock"}/>
+            </div>
+            <div>
+              <h2 className="text-center text-lg sm:text-xl font-semibold text-gray-800">Vos droits</h2>
+              <p className="mt-2 text-gray-700">
+                Bien que notre site ne collecte que peu de données personnelles, vous avez les droits suivants :
+              </p>
+              <ul className="list-disc pl-5 mt-2 text-gray-700 space-y-1">
+                <li>Accès : Savoir quelles données sont collectées.</li>
+                <li>Effacement : Demander la suppression des données vous concernant, si applicable.</li>
+                <li>Opposition : Vous opposer à l'utilisation de vos données dans certains cas.</li>
+              </ul>
+              <p>
+              Pour toute demande, vous pouvez nous écrire par mail.
+              </p>
+            </div>
+          </div>
+
+
+
+          <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:rounded-none md:border-t-0 md:border-l-0 md:border-r-0 md:border-b">
+            <div className="flex-shrink-0 sm:w-[2rem] sm:h-[2rem] border border-gray-300 rounded-full flex items-center justify-center transition-transform duration-300 hover:scale-110 hover:shadow-lg">
+              <Icons iconName={"userlock"}/>
+            </div>
+            <div>
+              <h2 className="text-center text-lg sm:text-xl font-semibold text-gray-800">Cookies</h2>
+              <p className="mt-2 text-gray-700">
+                Chez Travly, nous utilisons le stockage local de votre navigateur (localStorage) pour optimiser votre expérience de navigation. Ce stockage nous permet de conserver certaines informations sur votre appareil afin de vous offrir un service fluide et personnalisé, sans nécessiter de compte utilisateur.
+                <br />
+                Données stockées localement :
+              </p>
+              <ul className="list-disc pl-5 mt-2 text-gray-700 space-y-1">
+                <li>Préférences de recherche : destinations, dates et filtres pour simplifier vos visites.</li>
+                <li>Performances : optimisation des temps de chargement.</li>
+                <li>Statistiques anonymisées : analyse pour améliorer nos services.</li>
+              </ul>
+              <p>
+              Vous pouvez à tout moment effacer ces données via les paramètres de votre navigateur.
+              </p>
+            </div>
+          </div>
+
+
+          <div className="border border-gray-300 p-6 rounded-lg flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-6 md:rounded-none md:border-t-0 md:border-l-0 md:border-r-0 md:border-b">
+            <div className="flex-shrink-0 sm:w-[2rem] sm:h-[2rem] border border-gray-300 rounded-full flex items-center justify-center transition-transform duration-300 hover:scale-110 hover:shadow-lg">
+              <Icons iconName={"userlock"}/>
+            </div>
+            <div>
+            <h2 className="text-center text-lg sm:text-xl font-semibold text-gray-800">Durée de conservation des données</h2>
+            <p className="mt-2 text-gray-700">
+              Les données personnelles collectées sont conservées uniquement pendant la durée nécessaire pour atteindre les objectifs décrits dans cette politique ou pour répondre à des obligations légales. Les données stockées dans votre navigateur peuvent être supprimées à tout moment via les paramètres de celui-ci.
+            </p>
+
+
+            </div>
+          </div>
+
+
+            <div className='mt-32'>
+            <h2 className="text-center text-lg sm:text-xl font-semibold text-gray-800">Contact pour vos droits</h2>
+            <p className="mt-2 text-gray-700">
+              Pour toute demande relative à vos données personnelles ou à vos droits, vous pouvez nous contacter à : privacy@travly.com.
+            </p>
+            </div>
+
         </div>
       </div>
       
