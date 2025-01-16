@@ -56,8 +56,8 @@ export const getValidToken = async () => {
     return await fetchToken();
   }
 
-  // Si le token expire dans moins de 30 secondes, on en génère un nouveau
-  if (Date.now() + 30000 > parseInt(expiration)) {
+  // Si le token expire dans moins de 30 minutes, on en génère un nouveau
+  if (Date.now() + 1800000 > parseInt(expiration)) {
     return await fetchToken();
   }
 
